@@ -18,7 +18,8 @@ description: ""
 </colgroup>
 <thead>
   <tr>
-    <td class="tg-iysj"></td>
+		<td class="tg-iysj"><center><h4>School Logo</h4><img src="/images/schoollogomin.jpeg" 
+																												 style="width:25%"></center></td>
 		<td class="tg-iysj"><center><h4>School Motto</h4>Strive to Succeed</center></td>
   </tr>
 </thead>
