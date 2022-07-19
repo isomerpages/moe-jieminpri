@@ -33,7 +33,7 @@ To equip pupils with the necessary skills that will support the accomplishment o
 <table class="tg" style="undefined;table-layout: fixed; width: 733px">
 <colgroup>
 <col style="width: 43px">
-<col style="width: 151px">
+<col style="width: 120px">
 <col style="width: 235px">
 <col style="width: 52px">
 <col style="width: 52px">
