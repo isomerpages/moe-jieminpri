@@ -15,7 +15,8 @@ Jiemin Primary School has just recently been attained the LLP status as awarded 
 
 Apart from the LLP, another niche area for our school is our ALP, "Journalist in the Making". The focus areas are on building the students' confidence in expression through our various targeted level programmes such as P1 Choral Reading Workshop, P2 Poetry Recitation, P3 Puppetry, Storytelling, Journalist Club, etc.
 
-  
 
 Jiemin Primary School is highlighted in The Straits Times, Education Section, on 15 Aug 2016 for our ALP. Please see the news article below:
 
+
+![](/images/JPS_Journalist--Straits-Times-Education-Section---15-Aug-2016.jpeg)
