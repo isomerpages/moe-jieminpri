@@ -49,7 +49,7 @@ _Refer to our handbook Page 9 for details._
 
 **Warning signal :** Prolonged ringing of the siren.  
   
-**Action:** When the alarm is activated, follow the instructions below :
+**Action :** When the alarm is activated, follow the instructions below :
 
 *   Stop work immediately
 *   Switch off all lights and fans
