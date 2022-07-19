@@ -9,6 +9,7 @@ description: ""
 2.  EAS Achieving Service Excellence
 3.  Fostering a Positive Work Environment
 
+<center>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -19,7 +20,11 @@ description: ""
 .tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-vqji{background-color:#FFF;color:#58595B;text-align:left;vertical-align:middle}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 385px">
+<colgroup>
+<col style="width: 185px">
+<col style="width: 200px">
+</colgroup>
 <thead>
   <tr>
     <th class="tg-a4yv"><span style="color:#666;background-color:#DDD">Name</span></th>
@@ -89,3 +94,4 @@ description: ""
   </tr>
 </tbody>
 </table>
+</center>
