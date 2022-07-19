@@ -99,6 +99,8 @@ third_nav_title: Mother Tongue Languages
 			<ul>
 				<li>Melinda of 5G had won Second Prize for Essay Writing Competition</li>
 				<li>Faiz of 6C had won Consolation Prize for Poetry Recitation</li>
+			</ul>
+			<p><strong>எங்கள் மாணவர்களின் சாதனைகள்</strong></p>
 </ul>
 
 testest
