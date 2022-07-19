@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Booklists for 2022.md
       - Publications.md
       - Contact Us.md
