@@ -2,4 +2,5 @@ collections:
   departments:
     output: true
     order:
+      - Pupil Development/.keep
       - Science.md
