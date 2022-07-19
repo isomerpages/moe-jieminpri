@@ -52,7 +52,9 @@ To spark curiosity, interest and creativity in the learning of Science.
 
 ## Encapsulating our journey
 
-![](/images/butterfly%201.jpeg)
+<img src="/images/butterfly%201.jpeg" 
+     style="width:65%">
+
 
 (Top Left) Pupils researched on the leaf preference of a caterpillar and brought along their own leaves (Top Right, Bottom Left) Brainstorm Session - Designing houses for their caterpillars (Bottom Right) Pupils enthusiastically observing the behaviour of a butterfly.
 
