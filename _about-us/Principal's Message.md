@@ -44,5 +44,6 @@ Once again, wishing everyone a Happy New Year!
   </tr>
 </tbody>
 </table>
+
 Mr Andy Mickey Choong     
-<br>Principal
+Principal
