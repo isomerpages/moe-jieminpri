@@ -34,11 +34,13 @@ Once again, wishing everyone a Happy New Year!
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 115px">
+<colgroup>
+<col style="width: 115px">
+</colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="/images/mr%20andy%20mickey%20choong%20(1).jpeg" 
-     style="width:25%"></td>
+    <td class="tg-0lax"><img src="/images/mr%20andy%20mickey%20choong%20(1).jpeg"></td>
   </tr>
 </tbody>
 </table>
