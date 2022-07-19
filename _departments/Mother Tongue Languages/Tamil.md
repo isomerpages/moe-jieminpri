@@ -60,6 +60,7 @@ third_nav_title: Mother Tongue Languages
 	<label for="accordion2"><h3>Programmes for Pupils</h3></label>
     <div>
 			<p><li>செய்தி தொகுப்பு</li><br>இந்நிகழ்ச்சி தொடக்கநிலை ஐந்தாம் வகுப்பு மாணவர்களுக்கு நடத்தப்பட்டது. இது மூன்றாம் தவணையில் நடத்தப்பட்டது. இந்தப் பட்டறையின் மூலம் மாணவர்கள் ஒரு செய்தியை எவ்வாறு தொகுத்து வழங்குவது என்பதைப் பற்றித் தெரிந்துகொண்டனர். மேலும் அவர்கள் Media Academy என்னும்இடத்துக்குச் சென்று அவர்கள் தயாரித்த செய்தியைப் பதிவு செய்தனர். மேலும் இம்மாணவர்களின் படைப்பைப் பள்ளியில் படைப்பதற்கு வாய்ப்பும் வழங்கப்பட்டது.</p>
+			<p><strong><u>Journalism</u></strong><br>P5 pupils were involved in Journalism in term 3.They had learnt the skills for news recording and finally they had gone to Media Academy to record the news that they had chosen to work on. After which pupils were given an opportunity to present their work in school after recess</p>
     </div>
   </li>
 </ul>
