@@ -22,3 +22,13 @@ The name of the school, Jiemin, originates from two traditional Chinese schools,
   
 
 Our priority has always been to provide a holistic, meaningful and well-balanced education for our pupils. We place very great emphasis on academic excellence as well as in Co-Curricular Activities. We also believe in creating a safe and conducive environment for our pupils' learning.
+
+<strong><u>Photos of Jiemin Primary School over the years</u></strong>
+
+<img src="/images/JM1.jpeg" 
+     style="width:65%">
+<center>Prime Upgrading (2002-2003)</center>
+
+<img src="/images/JM2.jpeg" 
+     style="width:65%">
+<center>GR&R (2012)</center>
