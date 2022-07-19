@@ -67,8 +67,8 @@ third_nav_title: Mother Tongue Languages
     </div>
   </li>
 	<li>
-    <input type="checkbox" id="accordion2">
-	<label for="accordion2"><h4>Programmes for Pupils</h4></label>
+    <input type="checkbox" id="accordion3">
+	<label for="accordion3"><h4>Programmes for Pupils</h4></label>
     <div>
 			<p> test </p>
 	</div>
