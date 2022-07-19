@@ -43,3 +43,21 @@ To spark curiosity, interest and creativity in the learning of Science.
   </tr>
 </tbody>
 </table>
+
+## P3 Science Learning Journey at the Zoo
+
+![](/images/zoo%201.jpeg)
+
+![](/images/zoo2.jpeg)
+
+## Encapsulating our journey
+
+![](/images/butterfly%201.jpeg)
+
+(Top Left) Pupils researched on the leaf preference of a caterpillar and brought along their own leaves (Top Right, Bottom Left) Brainstorm Session - Designing houses for their caterpillars (Bottom Right) Pupils enthusiastically observing the behaviour of a butterfly.
+
+<img src="/images/butterfly%202.jpeg" 
+     style="width:65%">
+
+
+Touching up on their final products – housing the caterpillars
