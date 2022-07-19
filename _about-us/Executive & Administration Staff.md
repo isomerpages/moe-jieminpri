@@ -21,8 +21,8 @@ description: ""
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 385px">
 <colgroup>
-<col style="width: 185px">
-<col style="width: 200px">
+<col style="width: 230px">
+<col style="width: 315px">
 </colgroup>
 <thead>
   <tr>
