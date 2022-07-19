@@ -35,12 +35,12 @@ To equip pupils with the necessary skills that will support the accomplishment o
 <col style="width: 43px">
 <col style="width: 120px">
 <col style="width: 235px">
-<col style="width: 52px">
-<col style="width: 52px">
-<col style="width: 52px">
-<col style="width: 52px">
-<col style="width: 52px">
-<col style="width: 52px">
+<col style="width: 45px">
+<col style="width: 45px">
+<col style="width: 45px">
+<col style="width: 45px">
+<col style="width: 45px">
+<col style="width: 45px">
 <col style="width: 114px">
 </colgroup>
 <tbody>
