@@ -42,15 +42,14 @@ description: ""
 
   
 
-_**Refer to our handbook Page 9 for details.  
-**  
-_
+_Refer to our handbook Page 9 for details._
+
 
 ### Emergency Evacuation Procedure
 
 **Warning signal :** Prolonged ringing of the siren.  
   
-**Action :** When the alarm is activated, follow the instructions below :
+**Action:** When the alarm is activated, follow the instructions below :
 
 *   Stop work immediately
 *   Switch off all lights and fans
