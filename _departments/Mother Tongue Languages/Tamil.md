@@ -22,7 +22,7 @@ third_nav_title: Mother Tongue Languages
 
 
 
-<a id="Tamil_Language_Teachers"><h3>Tamil Language Teachers</h3></a>
+<h3><a id="Tamil_Language_Teachers">Tamil Language Teachers</a></h3>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
