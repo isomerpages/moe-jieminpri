@@ -30,9 +30,9 @@ To equip pupils with the necessary skills that will support the accomplishment o
 .tg .tg-6ruy{background-color:#FFF;border-color:inherit;color:#58595B;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-qr2f{background-color:#FFF;border-color:inherit;color:#58595B;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 733px">
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
-<col style="width: 43px">
+<col style="width: 60px">
 <col style="width: 120px">
 <col style="width: 235px">
 <col style="width: 45px">
@@ -41,7 +41,7 @@ To equip pupils with the necessary skills that will support the accomplishment o
 <col style="width: 45px">
 <col style="width: 45px">
 <col style="width: 45px">
-<col style="width: 114px">
+<col style="width: 115px">
 </colgroup>
 <tbody>
   <tr>
