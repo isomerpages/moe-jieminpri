@@ -10,7 +10,7 @@ Map from [OneMap](http://www.onemap.sg/)
 *   **Address:** [No. 2, Yishun Street 71, Singapore 768515](http://www.onemap.sg/?SearchVal=768515&LW:Y&wO5d:JaRqY_I,hfqcq_Y,JbfIc_Y,hfbhJ_J,a) 
 *   **General Office:** 6758 6472 (see below for operating hours of General Office)
 *   **School Fax:** 6755 9958
-*   **School Generic Email:** jiemin\_ps@moe.edu.sg
+*   **School Generic Email:** jiemin_ps@moe.edu.sg
 
   
 
