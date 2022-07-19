@@ -16,19 +16,16 @@ Map from [OneMap](http://www.onemap.sg/)
 
 **General Office Opening Hours**
 
-Closed on Saturdays, Sundays and Public Holidays
-
-School Term (Excluding school holidays) - 8am to 5.30pm
-
-School Holidays - 8am to 5pm
+* Closed on Saturdays, Sundays and Public Holidays
+* School Term (Excluding school holidays) - 8am to 5.30pm
+* School Holidays - 8am to 5pm
 
   
 
 **Cash/Cheque Payment for School Fees - Operating Hours**
 
-Closed on Saturdays, Sundays and Public Holidays
-
-Mondays to Fridays (Excluding weekends and Public Holidays) - 8.30am to 3pm
+* Closed on Saturdays, Sundays and Public Holidays
+* Mondays to Fridays (Excluding weekends and Public Holidays) - 8.30am to 3pm
 
   
 
