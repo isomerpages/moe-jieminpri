@@ -69,3 +69,7 @@ Touching up on their final products – housing the caterpillars
 		 
 From Larva to Pupa
 
+![](/images/MOG1.jpeg)
+![](/images/MOG2.jpeg)
+![](/images/TERRARIUM%201.jpeg)
+![](/images/TERRARIUM%202.jpeg)
