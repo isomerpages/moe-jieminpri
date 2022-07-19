@@ -85,9 +85,9 @@ third_nav_title: Mother Tongue Languages
 				<li>P5 & P6: Mdm Mages conducted on Composition skills mainly focusing on brainstorming activities on 13 March. 15 parents attended this session and had benefitted from it.</li>
 	</div>
 	</li>
-	<li>
-		<input type="checkbox" id="accordion4">
-		<label for="accordion4"><h4>Our Achievements</h4></label>
+<li>
+	<input type="checkbox" id="accordion4">
+	<label for="accordion4"><h4>Our Achievements</h4></label>
     <div>
 			<p>Pupils had participated in many competitions organized by various organisations. Adding to that, they had made Jiemin proud by participating in the competitions and winning prizes.</p>
 			<p>Chong Pang CC & N2 Cluster Schools jointly organized Kids Talent Competition and P1 – P5 pupils had participated.</p>
