@@ -26,4 +26,30 @@ description: ""
 </table>
 
 
+<h4><center>Dare to Dream</center></h4>
 
+<center><strong>Verse</strong></center>
+<center>Loyal to our school and land
+<br>United we achieve and progress
+<br>Dare to dream, reach for the sky
+<br>Nothing is impossible
+<br>Living up to our potential
+<br>To make our mark in this great world</center>
+
+<center><strong>Chorus</strong></center>
+<center>With knowledge we will understand
+<br>With wisdom, we discern
+<br>With honour we will lead our lives
+<br>We will serve and strive
+<br>Weathering through the winds of change
+<br>We of JPS will stand tall
+<br>Vibrant, unique and compassionate
+<br>Integrity forever more
+<br>As one big happy family
+<br>To make this journey, learn and live</center>
+
+<center><strong>Chorus</strong></center>
+<center>With knowledge we will understand
+<br>With wisdom, we discern
+<br>With honour we will lead our lives
+<br>We will serve and strive</center>
