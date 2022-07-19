@@ -63,3 +63,6 @@ To spark curiosity, interest and creativity in the learning of Science.
 
 
 Touching up on their final products – housing the caterpillars
+
+<img src="/images/butterfly%203.jpeg" 
+     style="width:65%">
