@@ -17,7 +17,7 @@ third_nav_title: Mother Tongue Languages
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">Multi-line Block</label>
+		<label for="accordion1"><h3>Tamil Language Teachers</h3></label>
     <div>
       <p>This is line 1</p>
       <p>This is line 2<br>
