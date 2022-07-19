@@ -26,12 +26,21 @@ Together with Ms Nur Fatimah, Ms Joy Wong, and all staff, we wish you the very b
 
 Once again, wishing everyone a Happy New Year!
 
-<div>
-<div style="float: left">
-<img src="/images/mr%20andy%20mickey%20choong%20(1).jpeg" 
-     style="width:25%">
-</div>
-<div>
-	<br><br><br><br><br><br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img src="/images/mr%20andy%20mickey%20choong%20(1).jpeg" 
+     style="width:25%"></td>
+  </tr>
+</tbody>
+</table>
 Mr Andy Mickey Choong     
 <br>Principal
