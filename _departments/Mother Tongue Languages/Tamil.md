@@ -15,13 +15,7 @@ third_nav_title: Mother Tongue Languages
 
 
 
-<h3><center><a href="#Tamil_Language_Teachers">Click here to see the content below.</a></center></h3>
-
-
-
-
-
-
+<h3><center><a href="#Tamil_Language_Teachers">Tamil Language Teachers</a></center></h3>
 
 
 
@@ -63,4 +57,3 @@ third_nav_title: Mother Tongue Languages
   </tr>
 </tbody>
 </table>
-
