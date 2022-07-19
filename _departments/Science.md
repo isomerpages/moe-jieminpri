@@ -54,19 +54,14 @@ To spark curiosity, interest and creativity in the learning of Science.
 
 <img src="/images/butterfly%201.jpeg" 
      style="width:65%">
-
-
 (Top Left) Pupils researched on the leaf preference of a caterpillar and brought along their own leaves (Top Right, Bottom Left) Brainstorm Session - Designing houses for their caterpillars (Bottom Right) Pupils enthusiastically observing the behaviour of a butterfly.
 
 <img src="/images/butterfly%202.jpeg" 
      style="width:65%">
-
-
 Touching up on their final products – housing the caterpillars
 
 <img src="/images/butterfly%203.jpeg" 
      style="width:65%">
-		 
 From Larva to Pupa
 
 ![](/images/MOG1.jpeg)
