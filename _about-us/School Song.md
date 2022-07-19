@@ -16,11 +16,14 @@ description: ""
 <col style="width: 400px">
 <col style="width: 400px">
 </colgroup>
-<thead>
+<tbody>
   <tr>
-		<td class="tg-iysj"><center><h4>School Logo</h4><img src="/images/schoollogomin.jpeg" 
+    <td class="tg-iysj"><center><h4>School Logo</h4><img src="/images/schoollogomin.jpeg" 
 																												 style="width:25%"></center></td>
-		<td class="tg-iysj"><center><h4>School Motto</h4>Strive to Succeed</center></td>
+    <td class="tg-iysj"><center><h4>School Motto</h4>Strive to Succeed</center></td>
   </tr>
-</thead>
+</tbody>
 </table>
+
+
+
