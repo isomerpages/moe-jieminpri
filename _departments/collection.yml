@@ -2,7 +2,7 @@ collections:
   departments:
     output: true
     order:
-      - Pupil Development/Student Leadership.md
-      - Pupil Development/Pupil Development.md
       - Pupil Development/.keep
+      - Pupil Development/Pupil Development.md
+      - Pupil Development/Student Leadership.md
       - Science.md
