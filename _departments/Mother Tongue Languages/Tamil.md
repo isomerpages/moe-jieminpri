@@ -78,8 +78,17 @@ third_nav_title: Mother Tongue Languages
 				<li>P5 & P6: மார்ச் மாதம் 13ஆம் தேதியில் கட்டுரையைக் கையாளும் உத்தி விளக்கப்பட்டது. இப்பட்டறையில் பெற்றோர்கள் முன்னுரை மற்றும் முடிவுரை எழுதுவது எப்படி என்பதையும் படத்தையோ தலைப்பையோ எவ்வாறு அணுகுவது என்பதைப் பற்றியும் தெரிந்துகொண்டனர். அவற்றுக்கு அடிப்படையான கருத்துதிர்த்தல் செய்வது எப்படி என்பது விளக்கப்பட்டது. அதற்குத் தேவையான பல குறிப்புகள் வழங்கப்பட்டன.</li>
 			</ol>
 			<p>ஒவ்வொரு பட்டறையின் முடிவிலும் பெற்றோர்கள்அவர்களது கருத்துகளைத் தெரிவிக்கக் கருத்துப் படிவம் வழங்கப்பட்டது. அதன் அடிப்படையில் பட்டறையில் கலந்துகொண்ட அனைத்துப் பெற்றோர்களும் பயனடைந்துள்ளதாகவும் மேலும் இம்மாதிரியான பல பட்டறைகள் அவர்களுக்கு நடத்தப்பட வேண்டும் என்றும் குறிப்பிட்டிருந்தனர்.</p>
+			<p><strong><u>Parents' Workshop</u></strong><br>Parents’ workshop was conducted in term 2. There were 3 different workshops conducted:</p>
+			<ol>
+				<li>P1 & P2: Mdm Amutha conducted on Show & Tell on 14 March. 13 parents attended this session and had benefitted from it.</li>
+				<li>P3 & P4: Mrs Samynathan conducted on Comprehension skills on 14 March. 18 parents attended this session and had benefitted from it.</li>
+				<li>P5 & P6: Mdm Mages conducted on Composition skills mainly focusing on brainstorming activities on 13 March. 15 parents attended this session and had benefitted from it.</li>
 	</div>
 	</li>
+	<li>
+    <input type="checkbox" id="accordion4">
+	<label for="accordion4"><h4>Programmes for Parents</h4></label>
+    <div>
 </ul>
 
 testest
