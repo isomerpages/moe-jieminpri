@@ -25,15 +25,15 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-7uky"><span style="color:#222;background-color:#D9F1FF">Primary 1</span></td>
-    <td class="tg-v99l"><a href="https://jieminpri.moe.edu.sg/qql/slot/u597/Jiemin%20Booklist%202022%20Primary%201_Annex%20B.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">Jiemin Booklist 2022 Primary 1_Annex B.pdf</span></a><br></td>
+    <td class="tg-v99l"><a href="/files/Jiemin%20Booklist%202022%20Primary%201_Annex%20B.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">Jiemin Booklist 2022 Primary 1_Annex B.pdf</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-tsok"><span style="color:#222;background-color:#FFF">Primary 2</span></td>
-    <td class="tg-0qnb"><a href="https://jieminpri.moe.edu.sg/qql/slot/u386/Jiemin%20Booklist%202022%20Primary%202%2012.11.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">Jiemin Booklist 2022 Primary 2 12.11.pdf</span></a><br></td>
+    <td class="tg-0qnb"><a href="/files/Jiemin%20Booklist%202022%20Primary%202.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">Jiemin Booklist 2022 Primary 2 12.11.pdf</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-7uky"><span style="color:#222;background-color:#D9F1FF">Primary 3</span></td>
-    <td class="tg-v99l"><a href="https://jieminpri.moe.edu.sg/qql/slot/u386/Jiemin%20Booklist%202022%20Primary%203%2012.11.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">Jiemin Booklist 2022 Primary 3 12.11.pdf</span></a><br><a href="https://jieminpri.moe.edu.sg/qql/slot/u386/Jiemin%20Booklist%202022%20Primary%203%20HMT%2012.11.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">Jiemin Booklist 2022 Primary 3 HMT 12.11.pdf</span></a><br></td>
+    <td class="tg-v99l"><a href="/files/Jiemin%20Booklist%202022%20Primary%203.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">Jiemin Booklist 2022 Primary 3 12.11.pdf</span></a><br><a href="/files/Jiemin%20Booklist%202022%20Primary%203%20HMT.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">Jiemin Booklist 2022 Primary 3 HMT 12.11.pdf</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-tsok"><span style="color:#222;background-color:#FFF"> Primary 4</span></td>
