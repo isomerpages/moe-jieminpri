@@ -16,14 +16,14 @@ description: ""
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-mzni{background-color:#FFF;color:#58595B;text-align:left;vertical-align:top}
-.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-vqji{background-color:#FFF;color:#58595B;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Name</span></th>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Designation</span></th>
+    <th class="tg-a4yv"><span style="color:#666;background-color:#DDD">Name</span></th>
+    <th class="tg-a4yv"><span style="color:#666;background-color:#DDD">Designation</span></th>
   </tr>
 </thead>
 <tbody>
