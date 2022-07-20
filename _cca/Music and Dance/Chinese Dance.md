@@ -25,3 +25,19 @@ Chinese dance refers to dance forms that have traditional Chinese origins. It en
 
 <img src="/images/cd1.png" 
      style="width:95%">
+
+
+### What will we learn?
+
+Chinese dance provides pupils an opportunity to learn more about Chinese culture through dance. In addition, pupils get to appreciate dance as a performing art and develop greater self-discipline and perseverance.
+
+<img src="/images/cd2.png" 
+     style="width:65%">
+
+
+### What do we hope to achieve?
+
+To provide pupils with a holistic Chinese dance education, while inculcating in them our school values and developing them to the fullest potential.  
+
+<img src="/images/cd3.png" 
+     style="width:65%">
