@@ -39,17 +39,17 @@ third_nav_title: Mother Tongue Languages
   <tr>
     <td class="tg-kakv">P2, P5</td>
     <td class="tg-jq0v">Mdm S S Amutha<br>(TL Coordinator)</td>
-    <td class="tg-jq0v">amutha_shamkumar@moe.edu.sg</td>
+		<td class="tg-jq0v"><a href="mailto:amutha_shamkumar@moe.edu.sg">amutha_shamkumar@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-kakv">P1, P4, P6</td>
     <td class="tg-jq0v">Mrs Kalavathi Samynathan</td>
-    <td class="tg-jq0v">kalavathi_samynathan@moe.edu.sg</td>
+    <td class="tg-jq0v"><a href="mailto:kalavathi_samynathan@moe.edu.sg">kalavathi_samynathan@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-kakv">P2, P3, P6</td>
     <td class="tg-jq0v">Mdm Mageswari Naidu</td>
-    <td class="tg-jq0v">mageswari_naidu_dharmaraju@moe.edu.sg</td>
+    <td class="tg-jq0v"><a href="mailto:mageswari_naidu_dharmaraju@moe.edu.sg">mageswari_naidu_dharmaraju@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table></p>
@@ -128,5 +128,3 @@ third_nav_title: Mother Tongue Languages
 	</div>
 	</li>
 	</ul>
-
-
