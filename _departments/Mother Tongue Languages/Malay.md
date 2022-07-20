@@ -78,6 +78,7 @@ third_nav_title: Mother Tongue Languages
 		<div>
 			<p><strong>Peraduan Penulisan Kreatif</strong></p>
 			<p>Lima orang murid daripada darjah 4 hingga 6 telah mengambil bahagian dalam Peraduan Karya Minda Kreatif 2013 peringkat Nasional anjuran EDN Media Pte Ltd. Tahniah diucapkan kepada para penulis muda Jiemin. Kami bangga dengan pencapaian kamu.</p>
+			<center>
 			<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -127,6 +128,7 @@ third_nav_title: Mother Tongue Languages
   </tr>
 </tbody>
 </table>
+			</center>
 		</div>
 	</li>
 	<li>
