@@ -2,5 +2,6 @@ collections:
   cca:
     output: true
     order:
+      - Physical Sports/Floorball.md
       - Physical Sports/Taekwondo.md
       - Physical Sports/.keep
