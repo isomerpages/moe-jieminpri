@@ -12,13 +12,19 @@ Our primary six pupils were introduced to the artworks of Andy Goldsworthy, a Br
 
 After doing more research on land art, the pupils were inspired and created original and unique land arts around the school.
 
+**(insert slideshow here)**
+
 The lessons ended with a round of Praise, Question, Polish (PQP), a peer critic tool via the social learning wall and personal reflection on the term’s lessons and creations into their art journal.
 
 ### Primary 4 - Term 1 -  Air-Dry Clay
 
+**(insert slideshow here)**
+
 The Primary 4 pupils were busy creating air-dry clay artworks for Term 1. They started by getting inspirations (which were sketched into their sketchbooks) and information about air-dry clay from links provided in the Social Learning Wall. Thereafter, they practised creating their artworks with Plasticine. Finally, they were given air-dry clay of different colours to complete their artworks. When their artworks were completed, the pupils reflected about their air-dry clay processes and artworks. Enjoy the photos of them at work!
 
 ### Primary 1 - Term 1 - Art Lessons
+
+**(insert slideshow here)**
 
 The Primary 1 pupils learned the following through the creation of their artworks
 
@@ -31,14 +37,12 @@ The Primary 1 pupils learned the following through the creation of their artwork
 
 Enjoy the photos of the pupils busy at work!  
 
-Primary 3 - Term 1 - Paper Quilling
------------------------------------
+### Primary 3 - Term 1 - Paper Quilling
 
-  
 
-  
+**(insert slideshow here)**
 
-Our primary three pupils were introduced to paper quilling, an art form which was started in the 18th century. This art form requires the pupils to exhibit much patience and perseverance in order to curl the paper strips into coils and to arrange them to form the desired designs.
+  Our primary three pupils were introduced to paper quilling, an art form which was started in the 18th century. This art form requires the pupils to exhibit much patience and perseverance in order to curl the paper strips into coils and to arrange them to form the desired designs.
 
 Do enjoy the slideshow of our pupils at work and the beautiful end products that they had created.  
 
