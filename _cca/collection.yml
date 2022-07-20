@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Music and Dance/Modern Dance.md
       - Music and Dance/.keep
       - Uniformed Groups/Red Cross.md
       - Uniformed Groups/.keep
