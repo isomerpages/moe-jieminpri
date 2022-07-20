@@ -2,4 +2,5 @@ collections:
   information:
     output: true
     order:
+      - Sexuality Education.md
       - Haze Management measures.md
