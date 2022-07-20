@@ -36,5 +36,5 @@ third_nav_title: Mother Tongue Languages
 	<li>
 		<input type="checkbox" id="accordion2">
 		<label for="accordion2"><h4>Programmes for Pupils</h4></label>
-    <div>
-		
+		<div>
+			<p><strong>2013年阅读活动（第一和二学段）</strong><br>中文部在今年为学生主办了一系列的阅读活动，希望能激发学生的阅读兴趣，帮助他们更有效地学习华文。<br>在第一和第二学段，我们主办了以下的活动：</p>
