@@ -120,3 +120,67 @@ description: ""
 
 
 <h5><a id="Service_Providers">Service Providers</a></h5>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-mzni{background-color:#FFF;color:#58595B;text-align:left;vertical-align:top}
+.tg .tg-imuo{background-color:#FFF;color:#58595B;text-align:center;vertical-align:top}
+.tg .tg-2r4h{background-color:#FFF;color:#58595B;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-cqn3{background-color:#FFF;color:#58595B;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a6j4{background-color:#FFF;color:#58595B;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 739px">
+<colgroup>
+<col style="width: 123px">
+<col style="width: 163px">
+<col style="width: 101px">
+<col style="width: 217px">
+<col style="width: 135px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-2r4h">Service<br>Providers</td>
+    <td class="tg-2r4h">Operating Hours</td>
+    <td class="tg-2r4h">Lunch Break</td>
+    <td class="tg-2r4h">Address / Telephone Number </td>
+    <td class="tg-cqn3">Price List </td>
+  </tr>
+  <tr>
+    <td class="tg-imuo">School Dental Clinic</td>
+    <td class="tg-imuo"><span style="background-color:initial">Please contact the clinic for details</span></td>
+    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">1pm - 2pm</span></td>
+    <td class="tg-imuo">School Dental Clinic : 6757 4231<br>or<br><span style="background-color:initial">HEALTH PROMOTION BOARD</span><br><br><span style="font-weight:normal;color:#58595B">#04-00, School Dental Service</span><br><span style="font-weight:normal;color:#58595B">No. 3, Second Hospital Avenue</span><br><span style="font-weight:normal;color:#58595B">Singapore 168937</span><br><span style="font-weight:normal;color:#58595B">Tel: 6435-3782 (Pls call for appointment/enquiry)</span></td>
+    <td class="tg-a6j4">NA </td>
+  </tr>
+  <tr>
+    <td class="tg-imuo">School Bus Transport</td>
+    <td class="tg-a6j4" colspan="2">NA</td>
+    <td class="tg-imuo"><br><span style="background-color:initial">1) </span><span style="background-color:transparent"> Mdm Lee Kwee Hoe</span><br><br><span style="font-weight:normal;color:#58595B">HP No: 9006 1050</span><br><br><span style="font-weight:normal;color:#58595B">2) </span><span style="background-color:transparent">Mr Lee Eng Lay</span><br><span style="font-weight:normal;color:#58595B">HP No: 9379 5850</span><br><br><span style="font-weight:normal;color:#58595B">3) Mr Benny Ng</span><br><span style="font-weight:normal;color:#58595B">96 Transit</span><br><span style="font-weight:normal;color:#58595B">HP No. 8668 9923</span></td>
+    <td class="tg-imuo"><span style="font-weight:normal;color:#58595B">Please liaise with the vendors directly. </span><br><span style="font-weight:normal;color:#58595B">The bus fees is dependent on the distance travelled.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-imuo">Bookstore<br><span style="font-weight:normal;color:#58595B">(Continental Bookstore)</span></td>
+    <td class="tg-cqn3">School Term<br><span style="background-color:transparent">Mon to Fri : 8am to 3pm</span><br>*Parents only allowed to come in from<br><br><span style="background-color:transparent">2pm to 3 pm</span></td>
+    <td class="tg-mzni">11.30am – 12.30pm</td>
+    <td class="tg-imuo">Tel : 6255 0181<br><br>Name-tag Order Form:<br><a href="https://jieminpri.moe.edu.sg/qql/slot/u386/Others/Parents/Book%20Lists/Nametag%20order%20form%20(Generic).pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">Nametag order form (Generic).pdf</span></a></td>
+    <td class="tg-imuo"></td>
+  </tr>
+  <tr>
+    <td class="tg-imuo">School Uniform<br>(Chop Kong Chong)</td>
+    <td class="tg-imuo"></td>
+    <td class="tg-mzni" rowspan="2"><span style="font-weight:normal;color:#58595B">NA</span></td>
+    <td class="tg-imuo"><span style="background-color:transparent">Sembawang Shopping Centre, 604 Sembawang Road , #02-13, S(758459)</span><br>Tel No: 67531489<br>Fax: 67589290<br><br>11.30am - 8pm<br>(Mondays to Saturdays)<br><br>11.30am - 6pm<br>(Sundays and public holidays)<br><br>Online orders - <br><a href="https://euniforms.com.sg/shop/product-category/primary-schools/jps/" target="_blank" rel="noopener noreferrer">https://euniforms.com.sg/shop/product-category/primary-schools/jps/</a></td>
+    <td class="tg-cqn3">Pricing depends on size<br><span style="font-weight:normal;color:#58595B"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-imuo">Student Care Centre<br>(Care Hut by Care Community Services Society)</td>
+    <td class="tg-imuo">After school hours to 7pm</td>
+    <td class="tg-imuo">Student Care Centre inside<br>Jiemin Primary School<br>Tel :  88223075</td>
+    <td class="tg-imuo"></td>
+  </tr>
+</tbody>
+</table>
