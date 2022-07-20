@@ -89,9 +89,9 @@ third_nav_title: Mother Tongue Languages
 .tg .tg-imuo{background-color:#FFF;color:#58595B;text-align:center;vertical-align:top}
 .tg .tg-2r4h{background-color:#FFF;color:#58595B;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 470px">
+<table class="tg" style="undefined;table-layout: fixed; width: 500px">
 <colgroup>
-<col style="width: 250px">
+<col style="width: 280px">
 <col style="width: 110px">
 <col style="width: 110px">
 </colgroup>
