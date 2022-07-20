@@ -35,7 +35,7 @@ Learn more in-depth floorball skills apart from PE lessons like dribbling, slap 
 Through our friendly matches and competition, we gained lots of experiences and grow stronger as a team.  
 
 <img src="/images/flb3.png" 
-     style="width:55%">
+     style="width:65%">
 		 
 ### What do we hope to achieve ?
 
