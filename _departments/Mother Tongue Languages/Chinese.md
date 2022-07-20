@@ -116,3 +116,57 @@ third_nav_title: Mother Tongue Languages
 		<label for="accordion5"><h4>Recommended Websites</h4></label>
 		<div>
 			<p><strong>推荐网址</strong></p>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-imuo{background-color:#FFF;color:#58595B;text-align:center;vertical-align:top}
+.tg .tg-0pyt{background-color:#FFF;color:#21088A;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-a6j4{background-color:#FFF;color:#58595B;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-imuo">知识网</td>
+    <td class="tg-0pyt"><a href="http://www.ezhishi.net/">http://www.ezhishi.net</a></td>
+  </tr>
+  <tr>
+    <td class="tg-imuo">联合早报</td>
+    <td class="tg-0pyt"><a href="http://www.zaobao.com.sg/">http://www.zaobao.com.sg</a></td>
+  </tr>
+  <tr>
+    <td class="tg-imuo">星期五周报电子版</td>
+    <td class="tg-0pyt"><a href="http://youth.zaobao.com/friday/fw.html">http://youth.zaobao.com/friday/fw.html</a></td>
+  </tr>
+  <tr>
+    <td class="tg-imuo">大拇指</td>
+    <td class="tg-0pyt"><a href="http://youth.zaobao.com/friday/pages/574tup1.html">http://youth.zaobao.com/friday/pages/574tup1.html</a></td>
+  </tr>
+  <tr>
+    <td class="tg-imuo">MOE CL website</td>
+    <td class="tg-0pyt"><a href="http://www1.moe.edu.sg/dir/cl">http://www1.moe.edu.sg/dir/cl</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pyt"></td>
+    <td class="tg-0pyt"><a href="http://game.iflashbook.com/">Chinese Language Word Games</a><br><a href="http://game.iflashbook.com/">语文游戏乐翻天</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pyt"></td>
+    <td class="tg-0pyt"><a href="http://xuele.edumall.sg/">Xue Le 学乐</a></td>
+  </tr>
+  <tr>
+    <td class="tg-imuo">书袋</td>
+    <td class="tg-0pyt"><a href="http://www.schoolbag.sg/">http://www.schoolbag.sg</a></td>
+  </tr>
+  <tr>
+    <td class="tg-imuo">小学华文课程信息册</td>
+    <td class="tg-0pyt"><a href="http://www.moe.gov.sg/education/primary/files/changes-to-pri-chinese-curriculum-chinese-brochure.pdf">http://www.moe.gov.sg/education/primary/files/changes-to-pri-chinese-curriculum-chinese-brochure.pdf</a><br><a href="http://www.moe.gov.sg/education/primary/files/changes-to-pri-chinese-curriculum-english-brochure.pdf">http://www.moe.gov.sg/education/primary/files/changes-to-pri-chinese-curriculum-english-brochure.pdf</a></td>
+  </tr>
+  <tr>
+    <td class="tg-a6j4">iMTL</td>
+    <td class="tg-0pyt"><a href="http://www.imtl.sg/">www.imtl.sg</a></td>
+  </tr>
+</tbody>
+</table>
