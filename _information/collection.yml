@@ -2,5 +2,6 @@ collections:
   information:
     output: true
     order:
+      - PSLE.md
       - Sexuality Education.md
       - Haze Management measures.md
