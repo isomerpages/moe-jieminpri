@@ -57,7 +57,7 @@ Mdm Mageswari
 <tbody>
   <tr>
 		<td class="tg-0lax"><p>An external instructor will be engaged to teach you what programming is about. The main programme that we are using is Scratch. After which, you will be engaged in different projects and these projects will be showcased in school.</p></td>
-		<td class="tg-0lax"><center><img src="/images/robo2.jpeg"></center></td>
+		<td class="tg-0lax"><img src="/images/robo2.jpeg"></td>
   </tr>
 </tbody>
 </table>
@@ -80,7 +80,7 @@ Mdm Mageswari
 <tbody>
   <tr>
 		<td class="tg-0lax"><p>After learning programming, we will take part in competitions to gain more experience and to know more friends with the same interest.</p></td>
-		<td class="tg-0lax"><center><img src="/images/robo3.jpeg"></center></td>
+		<td class="tg-0lax"><img src="/images/robo3.jpeg"></td>
   </tr>
 </tbody>
 </table>
