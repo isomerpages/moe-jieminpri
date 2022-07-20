@@ -166,7 +166,7 @@ description: ""
     <td class="tg-imuo">Bookstore<br><span style="font-weight:normal;color:#58595B">(Continental Bookstore)</span></td>
     <td class="tg-cqn3">School Term<br><span style="background-color:transparent">Mon to Fri : 8am to 3pm</span><br>*Parents only allowed to come in from<br><br><span style="background-color:transparent">2pm to 3 pm</span></td>
     <td class="tg-mzni">11.30am – 12.30pm</td>
-    <td class="tg-imuo">Tel : 6255 0181<br><br>Name-tag Order Form:<br><a href="https://jieminpri.moe.edu.sg/qql/slot/u386/Others/Parents/Book%20Lists/Nametag%20order%20form%20(Generic).pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">Nametag order form (Generic).pdf</span></a></td>
+    <td class="tg-imuo">Tel : 6255 0181<br><br>Name-tag Order Form:<br><a href="/files/Nametag%20order%20form%20(Generic).pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">Nametag order form (Generic).pdf</span></a></td>
     <td class="tg-imuo"></td>
   </tr>
   <tr>
