@@ -58,5 +58,5 @@ third_nav_title: Mother Tongue Languages
 	</li>
 	<li>
 		<input type="checkbox" id="accordion2">
-		<label for="accordion2"><h4>Tamil Language Teachers</h4></label>
+		<label for="accordion2"><h4>Programmes for Pupils</h4></label>
     <div>
