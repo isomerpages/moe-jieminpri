@@ -187,3 +187,41 @@ description: ""
 </table>
 
 <h5><a id="Curriculum_Time">Curriculum Time</a></h5>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-044a{background-color:#efefef;color:#58595B;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0bjf{background-color:#efefef;color:#58595B;text-align:center;vertical-align:top}
+.tg .tg-yml4{background-color:#efefef;color:#58595B;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-e87b{background-color:#efefef;color:#58595B;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 616px">
+<colgroup>
+<col style="width: 143px">
+<col style="width: 146px">
+<col style="width: 141px">
+<col style="width: 186px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-yml4">DAY</td>
+    <td class="tg-yml4">SCHOOL HOURS</td>
+    <td class="tg-044a"> REPORTING TIME</td>
+    <td class="tg-yml4">RECESS*</td>
+  </tr>
+  <tr>
+    <td class="tg-0bjf">Mon, Tue, Wed, Thu</td>
+    <td class="tg-0bjf">7.45 am – 1.30* pm</td>
+    <td class="tg-e87b" rowspan="2">7.30 am</td>
+    <td class="tg-0bjf" rowspan="2">P1  : 8.45am – 9.15am<br><br>P2 : 9.15am – 9.45am<br>P3 : 11.15am – 11.45am<br>P4: 10.15am - 10.45am<br>P5: 9.45am - 10.15am<br>P6: 10.45am - 11.15am</td>
+  </tr>
+  <tr>
+    <td class="tg-0bjf">Fri</td>
+    <td class="tg-0bjf">7.45 am – 1.15* pm</td>
+  </tr>
+</tbody>
+</table>
