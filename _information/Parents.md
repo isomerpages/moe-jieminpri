@@ -189,6 +189,7 @@ description: ""
 
 <h5><a id="Curriculum_Time">Curriculum Time</a></h5>
 
+<center>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -226,6 +227,7 @@ description: ""
   </tr>
 </tbody>
 </table>
+	</center>
 
 * All pupils MUST assemble in the hall at the respective reporting time.
 * Pupils are to engage themselves in Silent Reading once they report to the hall.
