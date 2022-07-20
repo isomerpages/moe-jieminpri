@@ -74,4 +74,38 @@ third_nav_title: Mother Tongue Languages
 		<input type="checkbox" id="accordion4">
 		<label for="accordion4"><h4>Our Achievements</h4></label>
 		<div>
-	
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-imuo{background-color:#FFF;color:#58595B;text-align:center;vertical-align:top}
+.tg .tg-2r4h{background-color:#FFF;color:#58595B;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-a6j4{background-color:#FFF;color:#58595B;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 750px">
+<colgroup>
+<col style="width: 250px">
+<col style="width: 250px">
+<col style="width: 250px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-2r4h">Event</td>
+    <td class="tg-2r4h">Winner</td>
+    <td class="tg-2r4h">Award</td>
+  </tr>
+  <tr>
+    <td class="tg-a6j4">National On-the-spot Chinese Story Writing Competition<br>全国中小学现场华文故事创作比赛</td>
+    <td class="tg-imuo">Wang Bo 6 Care<br><img src="/images/wangbo.jpeg" 
+     style="width:65%"><br></td>
+    <td class="tg-imuo">优异奖（小学组）<br>Merit Award (Primary School Group)</td>
+  </tr>
+  <tr>
+    <td class="tg-imuo">19 National Primary School On-the-spot Chinese Creative Writing Competition<br>第19届全国小学现场华文创作比赛</td>
+    <td class="tg-imuo">Lee Wen Jie Nicole 4 Care<br><br></td>
+    <td class="tg-imuo">丙组－佳作奖<br>Group C - Good Essay Award</td>
+  </tr>
+</tbody>
+</table>
