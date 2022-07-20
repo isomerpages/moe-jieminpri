@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Aesthetics/5 Minutes of Fame.md
       - Aesthetics/Art Attack.md
       - Aesthetics/Art Curriculum.md
       - Aesthetics/Arts Learning Journey.md
