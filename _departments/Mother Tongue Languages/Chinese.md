@@ -21,7 +21,9 @@ third_nav_title: Mother Tongue Languages
 
 家长们都反馈说参加这个工作坊让他们获益不浅。大家在一个轻松的氛围里学习到了一些新的知识并能够更好地在家中引导孩子复习口试，可说是一举两得。
 
-![](/images/eORAL.jpeg)
+<img src="/images/eORAL.jpeg" 
+     style="width:65%">
+
 
 
 
@@ -173,4 +175,3 @@ third_nav_title: Mother Tongue Languages
 		</div>
 	</li>
 	</ul>
-
