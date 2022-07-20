@@ -8,13 +8,18 @@ third_nav_title: Aesthetics
 
 **[Shadow Dancing](https://go.gov.sg/shadowdancing)**  
 
-1.  My Shadow and Me  
+1\. My Shadow and Me  
   
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/oBSDItigiio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 	
-2.  Simon Cowell cry - Attraction Semi Final \[HD\] -  Britain's Got Talent  
+2\. Simon Cowell cry - Attraction Semi Final \[HD\] -  Britain's Got Talent  
+
+**(video no longer available)**
   
-3.  Gruppe Pilobolus Amazing Shadow Dance  
+3\.  Gruppe Pilobolus Amazing Shadow Dance  
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/FYftvseVzuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
   
 
 ### Term 1 : Acapella
