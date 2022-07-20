@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Music and Dance/Guzheng Ensemble.md
       - Music and Dance/Malay Dance.md
       - Music and Dance/Modern Dance.md
       - Music and Dance/.keep
