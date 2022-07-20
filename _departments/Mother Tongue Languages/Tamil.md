@@ -90,8 +90,13 @@ third_nav_title: Mother Tongue Languages
 	<input type="checkbox" id="accordion4">
 	<label for="accordion4"><h4>Our Achievements</h4></label>
 	<div>
-		<p>test</p>
+		<p>Pupils had participated in many competitions organized by various organisations. Adding to that, they had made Jiemin proud by participating in the competitions and winning prizes.</p>
+		<p>Chong Pang CC & N2 Cluster Schools jointly organized Kids Talent Competition and P1 – P5 pupils had participated.</p>
+		<ul>
+			<li>Pavaani of 2 Care won Consolation Prize for P2 Role Play Competiton</li>
+			<li>Rakesh of 5 Diligence won Third Prize for Impromptu Competiiton.</li>
+		</ul>
+		<p>Kolam Ayer CC had organized Tamil Language Competitions.</p>
 	</div>
 	</li>
 	</ul>
-
