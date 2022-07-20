@@ -264,7 +264,7 @@ To better safeguard our pupils' safety and well-being, the opening hours of the 
     <td class="tg-e87b"><span style="font-weight:normal;color:#58595B">Mon, Tue, Wed, Thur</span></td>
     <td class="tg-e87b"><span style="font-weight:normal;color:#58595B">7.00am - 7.30am</span><br><span style="font-weight:normal;color:#58595B">1.30pm - 1.50pm</span></td>
     <td class="tg-e87b"><span style="font-weight:normal;color:#58595B">7.00am - 7.30am</span><br><span style="font-weight:normal;color:#58595B">1.10pm - 1.50pm</span></td>
-    <td class="tg-e87b" rowspan="2"><span style="font-weight:normal;color:#58595B"><center>Controlled entry during curriculum time</center></span><br></td>
+    <td class="tg-e87b" rowspan="2"><span style="font-weight:normal;color:#58595B">Controlled entry during curriculum time</span><br></td>
   </tr>
   <tr>
     <td class="tg-e87b"><span style="font-weight:normal;color:#58595B">Fri</span></td>
