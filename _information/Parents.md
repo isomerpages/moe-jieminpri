@@ -54,7 +54,7 @@ description: ""
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2020</span></td>
     <td class="tg-fxx4"><span style="color:#222">Term 1</span></td>
-    <td class="tg-e0mn"><a href="https://jieminpri.moe.edu.sg/qql/slot/u386/Jieminite%20link/2020/Jlink_T1_2020.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">Jlink_T1_2020.pdf</span></a><br></td>
+    <td class="tg-e0mn"><a href="/files/Jlink_T1_2020.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">Jlink_T1_2020.pdf</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
