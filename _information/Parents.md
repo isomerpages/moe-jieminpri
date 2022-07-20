@@ -39,12 +39,12 @@ description: ""
   <tr>
     <td class="tg-fxx4"><span style="color:#222"> 2021</span></td>
     <td class="tg-fxx4"><span style="color:#222"> Term 1</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span><a href="https://jieminpri-moe-edu-sg-admin.cwp.sg/qql/slot/u386/Jieminite%20link/Term%201%202021%20issue.pdf"><span style="font-weight:500;text-decoration:none;color:#21088A">Jlink_T1_2021.pdf</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span>(insert pdf here)</td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222"> Term 2</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span><a href="https://jieminpri.moe.edu.sg/qql/slot/u386/Jieminite%20link/Term%202%202021%20issue.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">Jlink_T2_2021.pdf</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span>(insert pdf here)</td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
