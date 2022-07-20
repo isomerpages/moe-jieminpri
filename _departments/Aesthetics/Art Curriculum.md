@@ -46,24 +46,21 @@ Enjoy the photos of the pupils busy at work!
 
 Do enjoy the slideshow of our pupils at work and the beautiful end products that they had created.  
 
-Art Lesson 2015
----------------
+### Art Lesson 2015
+
 ![](/images/art1.jpeg)
 ![](/images/art2.jpeg)
 ![](/images/art3.jpeg)
 
-Primary 2
----------
+### Primary 2
 
-![P2 art.jpg](https://jieminpri.moe.edu.sg/qql/slot/u386/Department/Aesthetics/P2%20art.jpg)
+![](/images/art4.jpeg)
+![](/images/art5.jpeg)
 
-![P2 art 2.jpg](https://jieminpri.moe.edu.sg/qql/slot/u386/Department/Aesthetics/P2%20art%202.jpg)
-
-Doodle4Google 2015
-------------------
+### Doodle4Google 2015
 
 Congratulations to Ng Hui Juan for being among the top 5 finalists in Singapore.
 
-![2-3.jpg](https://jieminpri.moe.edu.sg/qql/slot/u386/Department/Aesthetics/2-3.jpg)
+![](/images/art6.jpeg)
 
 [http://www.google.com.sg/doodle4google/gallery.html#d=d2-3](http://www.google.com.sg/doodle4google/gallery.html#d=d2-3)
