@@ -234,3 +234,40 @@ description: ""
 
 
 <h5><a id="#Gate_Opening_Hours">Gate Opening Hours</a></h5>
+
+To better safeguard our pupils' safety and well-being, the opening hours of the respective gates are as follows.  Visitors are requested to inform our security guards at the guard post.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-k66t{background-color:#efefef;color:#58595B;text-align:center;vertical-align:middle}
+.tg .tg-yml4{background-color:#efefef;color:#58595B;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-e87b{background-color:#efefef;color:#58595B;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-yml4" rowspan="2">Day</td>
+    <td class="tg-yml4" colspan="3">Opening Hours</td>
+  </tr>
+  <tr>
+    <td class="tg-yml4">Back Gate<br>(Near traffic crossing)</td>
+    <td class="tg-yml4">Front – Side Gate<br>(Near traffic crossing)</td>
+    <td class="tg-yml4">Front – Main Gate</td>
+  </tr>
+  <tr>
+    <td class="tg-e87b"><span style="font-weight:normal;color:#58595B">Mon, Tue, Wed, Thur</span></td>
+    <td class="tg-e87b"><span style="font-weight:normal;color:#58595B">7.00am - 7.30am</span><br><span style="font-weight:normal;color:#58595B">1.30pm - 1.50pm</span></td>
+    <td class="tg-e87b"><span style="font-weight:normal;color:#58595B">7.00am - 7.30am</span><br><span style="font-weight:normal;color:#58595B">1.10pm - 1.50pm</span></td>
+    <td class="tg-e87b" rowspan="2"><span style="font-weight:normal;color:#58595B">Controlled entry during curriculum time</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-e87b"><span style="font-weight:normal;color:#58595B">Fri</span></td>
+    <td class="tg-e87b"><span style="font-weight:normal;color:#58595B">7.00am - 7.30am</span><br><span style="font-weight:normal;color:#58595B">1.15pm - 1.35pm</span></td>
+    <td class="tg-k66t"> 7.00am - 7.30am<br><br>12.55pm - 1.35pm</td>
+  </tr>
+</tbody>
+</table>
