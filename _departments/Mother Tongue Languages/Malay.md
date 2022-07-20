@@ -68,4 +68,7 @@ third_nav_title: Mother Tongue Languages
 		<input type="checkbox" id="accordion3">
 		<label for="accordion3"><h4>Programmes for Parents</h4></label>
 		<div>
-		
+			<p><strong>Sesi Pertemuan Ibu Bapa - Penggal 1, Januari</strong></p>
+			<p>Januari lalu, Sekolah Rendah Jiemin telah menganjurkan sesi pertemuan yang pertama dengan ibu bapa kepada murid-murid dalam Darjah 1 hingga 6. Terima kasih kami ucapkan kepada para ibu bapa dan waris yang telah meluangkan masa untuk hadir dan menemui kami. Kami mengharapkan lebih ramai ibu bapa atau waris untuk hadir dan berinteraksi dengan guru-guru Bahasa Melayu anak/waris anda pada sesi-sesi pertemuan yang akan datang. Dengan kerjasama dan usaha mengutuhkan hubungan ini, mudah-mudahan akhlak anak/waris anda terbina positif dan pembelajaran Bahasa Melayu anak/waris anda akan lebih maju. Sekiranya anda mempunyai cadangan mahupun kata-kata pujian untuk guru-guru kami, harap hubungi kami menerusi alamat e-mel. Marilah sama-sama kita bekerjasama dan saling menyokong pembelajaran anak-anak bangsa Melayu agar mereka dapat menjadi insan yang berwawasan dan berbangga dengan jati diri sebagai pengguna Bahasa Melayu.</p>
+		</div>
+	</li>
