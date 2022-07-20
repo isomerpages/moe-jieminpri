@@ -19,9 +19,9 @@ Mdm Mageswari
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 885px">
+<table class="tg" style="undefined;table-layout: fixed; width: 870px">
 <colgroup>
-<col style="width: 790px">
+<col style="width: 775px">
 <col style="width: 95px">
 </colgroup>
 <tbody>
