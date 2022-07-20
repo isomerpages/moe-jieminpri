@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Aesthetics/.keep
       - CCE/CCE (Character & Citizenship Education).md
       - CCE/NE | SS.md
       - CCE/.keep
