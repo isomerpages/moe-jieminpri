@@ -267,7 +267,7 @@ To better safeguard our pupils' safety and well-being, the opening hours of the 
   <tr>
     <td class="tg-e87b"><span style="font-weight:normal;color:#58595B">Fri</span></td>
     <td class="tg-e87b"><span style="font-weight:normal;color:#58595B">7.00am - 7.30am</span><br><span style="font-weight:normal;color:#58595B">1.15pm - 1.35pm</span></td>
-    <td class="tg-k66t"> 7.00am - 7.30am<br><br>12.55pm - 1.35pm</td>
+    <td class="tg-e87b"> 7.00am - 7.30am<br>12.55pm - 1.35pm</td>
   </tr>
 </tbody>
 </table>
