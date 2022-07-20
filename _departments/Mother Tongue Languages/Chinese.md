@@ -54,6 +54,6 @@ third_nav_title: Mother Tongue Languages
 				<li>“阅读记录”、“阅读徽章”、“书香儿童”、“书香班级”<br>为了能鼓励学生多阅读华文书籍，提高知识和语文程度。学生可以把所读过的书籍的书目记录在记事本里（student’s handbook）的“阅读记录”那一栏。只要达到老师设定的阅读数量，学生就能获得一枚“阅读徽章”。<br><br><img src="/images/chiprog3.jpeg" 
      style="width:25%"><br>全级阅读量最高的学生也将成为“书香儿童”，并获得奖励。全级阅读量（平均）最高的班级也将成为“书香班级”，并获得奖励。</li>
 				<p>(insert slideshow here)</p>
-				<p>
+				<p><center>Jiemin Primary School<br>2013 P3-P6 Chinese Language<br>Composition Writing Competition</center></p>
 
 			</ol>
