@@ -13,8 +13,6 @@ To nurture keen, competent and independent learners of Mathematics.
 
 ### Framework
 
-insert images for    
-
-1_P1 Maths Games (1).jpg
-
+**insert images for**    
+1_P1 Maths Games (1).jpg    
 Banner (1).jpg
