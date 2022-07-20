@@ -4,7 +4,8 @@ permalink: /information/parents
 description: ""
 ---
 <h5><a href="#Jieminite_Links">Jieminite Links</a><br>
-	<a href="#Service_Providers">Service Providers</a></h5>
+<a href="#Service_Providers">Service Providers</a><br>
+<a href="#Curriculum_Time">Curriculum Time</a></h5>
 
 
 
@@ -184,3 +185,5 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+<h5><a id="Curriculum_Time">Curriculum Time</a></h5>
