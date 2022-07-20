@@ -149,11 +149,11 @@ third_nav_title: Mother Tongue Languages
     <td class="tg-0pyt"><a href="http://www1.moe.edu.sg/dir/cl">http://www1.moe.edu.sg/dir/cl</a></td>
   </tr>
   <tr>
-    <td class="tg-0pyt"></td>
+    <td class="tg-imuo">Chinese Language Word Games</td>
     <td class="tg-0pyt"><a href="http://game.iflashbook.com/">Chinese Language Word Games</a><br><a href="http://game.iflashbook.com/">语文游戏乐翻天</a></td>
   </tr>
   <tr>
-    <td class="tg-0pyt"></td>
+    <td class="tg-imuo">Xue Le 学乐</td>
     <td class="tg-0pyt"><a href="http://xuele.edumall.sg/">Xue Le 学乐</a></td>
   </tr>
   <tr>
