@@ -19,16 +19,16 @@ Mdm Mageswari
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 915px">
+<table class="tg" style="undefined;table-layout: fixed; width: 885px">
 <colgroup>
-<col style="width: 820px">
+<col style="width: 790px">
 <col style="width: 95px">
 </colgroup>
 <tbody>
   <tr>
 		<td class="tg-0lax"><p>To gather pupils who</p>
 			<ul>
-				<li>have strong interest in various types of robotics gamesrobo1.png</li>
+				<li>have strong interest in various types of robotics games</li>
 				<li>are interested in earning robot programming</li>
 				<li>enjoy the excitement during competition</li>
 			</ul>
