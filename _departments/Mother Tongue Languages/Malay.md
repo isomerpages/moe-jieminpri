@@ -59,4 +59,13 @@ third_nav_title: Mother Tongue Languages
 	<li>
 		<input type="checkbox" id="accordion2">
 		<label for="accordion2"><h4>Programmes for Pupils</h4></label>
-    <div>
+		<div>
+			<p><strong>Aktiviti Dwi Minggu Bahasa Ibunda</strong></p>
+			<p>Tahun ini, murid-murid P1-P6 telah terlibat dalam aktiviti-aktiviti berunsur bahasa dan budaya Melayu. Guru-guru Bahasa Melayu telah menganjurkan beberapa aktiviti menarik dan peraduan-peraduan seperti Peraduan Menyanyi, Pembuatan Wayang Kulit, Peraduan E-Buku, darmawisata dan banyak lagi.Di samping mengecap keseronokan mempelajari bahasa dan budaya Melayu, murid-murid ternyata meraih pengalaman dan manfaat serta menambah keyakinan diri.</p>
+		</div>
+	</li>
+	<li>
+		<input type="checkbox" id="accordion3">
+		<label for="accordion3"><h4>Programmes for Parents</h4></label>
+		<div>
+		
