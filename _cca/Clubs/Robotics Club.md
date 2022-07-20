@@ -33,7 +33,7 @@ Mdm Mageswari
 				<li>enjoy the excitement during competition</li>
 			</ul>
 		</td>
-    <td class="tg-0lax"><img src="/images/robo1.png"></td>
+		<td class="tg-0lax"><center><img src="/images/robo1.png"></center></td>
   </tr>
 </tbody>
 </table>
