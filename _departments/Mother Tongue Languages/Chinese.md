@@ -63,3 +63,7 @@ third_nav_title: Mother Tongue Languages
 			<p>评判老师们从各组别（强化、核心和高级华文组），选出了前三名的优胜作品。获奖的学生已在第三学段的颁奖典礼上获颁了奖杯。</p>
 		</div>
 	</li>
+	<li>
+		<input type="checkbox" id="accordion3">
+		<label for="accordion3"><h4>Programmes for Parents</h4></label>
+		<div>
