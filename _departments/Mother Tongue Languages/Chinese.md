@@ -30,3 +30,11 @@ third_nav_title: Mother Tongue Languages
     <input type="checkbox" id="accordion1">
 		<label for="accordion1"><h4>Chinese Language Teachers</h4></label>
     <div>
+			<p>(insert table / information here</p>
+		</div>
+	</li>
+	<li>
+		<input type="checkbox" id="accordion2">
+		<label for="accordion2"><h4>Programmes for Pupils</h4></label>
+    <div>
+		
