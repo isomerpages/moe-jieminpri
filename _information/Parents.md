@@ -34,7 +34,7 @@ description: ""
   <tr>
     <td class="tg-fxx4"><span style="color:#222"> 2021</span></td>
     <td class="tg-fxx4"><span style="color:#222"> Term 1</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span>(insert pdf here) <span style="font-weight:500;text-decoration:none;color:#21088A">Jlink_T1_2021.pdf</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span>(insert pdf here) <span style="font-weight:500;text-decoration:none;color:#21088A">Jlink_T1_2021.pdf</span></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
@@ -64,7 +64,7 @@ description: ""
   <tr>
     <td class="tg-fxx4"><span style="color:#222">2019</span></td>
     <td class="tg-fxx4"><span style="color:#222">Term 1</span></td>
-    <td class="tg-e0mn"><a href="https://jieminpri.moe.edu.sg/qql/slot/u386/Jieminite%20link/2019/Jlink_T1_2019.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">Jlink_T1_2019.pdf</span></a><span style="color:#222"> </span><br></td>
+    <td class="tg-e0mn"><a href="/files/Jlink_T1_2019.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">Jlink_T1_2019.pdf</span></a><span style="color:#222"> </span><br></td>
   </tr>
   <tr>
     <td class="tg-emg8"></td>
