@@ -61,3 +61,26 @@ Mdm Mageswari
   </tr>
 </tbody>
 </table>
+
+### What do we hope to achieve?
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 705px">
+<col style="width: 95px">
+</colgroup>
+<tbody>
+  <tr>
+		<td class="tg-0lax">After learning programming, we will take part in competitions to gain more experience and to know more friends with the same interest.</td>
+		<td class="tg-0lax"><center><img src="/images/robo3.jpeg"></center></td>
+  </tr>
+</tbody>
+</table>
