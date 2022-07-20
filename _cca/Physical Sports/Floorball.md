@@ -22,6 +22,7 @@ To develop the 21st core competencies in every floorball player.
 ### What is our CCA about ?
 
 Floorball is rapidly rising in popularity in Singapore. The Singapore Floorball National Team is a powerhouse within the region.  
+
 Conventionally played in a floorball rink, teams are usually made up of 5 players including a goal keeper. There are three periods of 10 minutes each for a standard floorball game in the primary school tournaments.  
 
 
