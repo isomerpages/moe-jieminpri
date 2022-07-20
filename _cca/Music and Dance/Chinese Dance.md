@@ -22,3 +22,6 @@ To provide pupils with a holistic Chinese Dance education, while inculcating in 
 
 ### What is our CCA about ?
 Chinese dance refers to dance forms that have traditional Chinese origins. It encompasses two main forms; Chinese classical / ethnic dance and contemporary dance.
+
+<img src="/images/cd1.png" 
+     style="width:95%">
