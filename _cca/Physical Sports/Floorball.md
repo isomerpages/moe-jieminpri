@@ -24,15 +24,19 @@ To develop the 21st core competencies in every floorball player.
 Floorball is rapidly rising in popularity in Singapore. The Singapore Floorball National Team is a powerhouse within the region.  
 Conventionally played in a floorball rink, teams are usually made up of 5 players including a goal keeper. There are three periods of 10 minutes each for a standard floorball game in the primary school tournaments.  
 
-![](/images/flb2.png)
+
+<img src="/images/flb2.png" 
+     style="width:55%">
+
 
 ### What will we learn ?
 Learn to play as a team  
 Learn more in-depth floorball skills apart from PE lessons like dribbling, slap hit, drag shot and aerials.  
 Through our friendly matches and competition, we gained lots of experiences and grow stronger as a team.  
 
-![](/images/flb3.png)
-
+<img src="/images/flb3.png" 
+     style="width:55%">
+		 
 ### What do we hope to achieve ?
 
 *   Learn to be a team player  
