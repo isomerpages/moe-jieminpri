@@ -60,3 +60,14 @@ The Program for Active Learning (PAL) was introduced to our Primary 1 and 2 pupi
 ![](/images/Performing%20arts.jpeg)
 ![](/images/Visual%20arts.jpeg)
 
+### Social Studies Learning Journeys
+
+The Primary 4 pupils had the opportunity to head to Gardens by the Bay for their interdisciplinary learning journey planned by the Science and CCE department. They learnt about the diversity of plants, discovered how land is used sustainably and understand about why land reclamation is done in Singapore. They sure were excited and engaged as they experienced and felt the refreshing atmosphere in the Cloud Forest and Flower Dome. – Ms Petrina (SS Learning Journey Coordinator)
+
+![](/images/Social%20studies.jpeg)
+
+### ENVision Gallery
+
+The CCE department planned a learning journey to the Ministry of Environment and Water Resources during the month of May for the Primary 3 pupils. The pupils learnt to appreciate Singapore’s environmental journey over the past four decades and also learnt about the nation’s goals and strategies towards a Sustainable Singapore. They were given iPads to complete tasks in groups and to learn more about environmental issues. After the trip, many pupils were inspired to play a part in making a difference to our environment as young citizens. – Ms Petrina
+
+![](/images/ENVision%20Gallery.jpeg)
