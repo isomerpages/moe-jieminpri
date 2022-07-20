@@ -98,14 +98,14 @@ third_nav_title: Mother Tongue Languages
   </tr>
   <tr>
     <td class="tg-a6j4">National On-the-spot Chinese Story Writing Competition<br>全国中小学现场华文故事创作比赛</td>
-    <td class="tg-imuo"><center>Wang Bo 6 Care<br><img src="/images/wangbo.jpeg" 
-																											 style="width:65%"></center></td>
-		<td class="tg-imuo"><center>优异奖 (小学组)<br>Merit Award (Primary School Group)</center></td>
+    <td class="tg-imuo">Wang Bo 6 Care<br><img src="/images/wangbo.jpeg"
+																							 style="width:65%"></td>
+		<td class="tg-imuo">优异奖 (小学组)<br>Merit Award (Primary School Group)</td>
   </tr>
   <tr>
     <td class="tg-imuo">19 National Primary School<br>On-the-spot Chinese Creative Writing Competition<br>第19届全国小学现场华文创作比赛</td>
-		<td class="tg-imuo"><center>Lee Wen Jie Nicole 4 Care</center></td>
-		<td class="tg-imuo"><center>丙组－佳作奖<br>Group C - Good Essay Award</center></td>
+		<td class="tg-imuo">Lee Wen Jie Nicole 4 Care</td>
+		<td class="tg-imuo">丙组－佳作奖<br>Group C - Good Essay Award</td>
   </tr>
 </tbody>
 </table>
