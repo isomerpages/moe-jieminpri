@@ -225,3 +225,8 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+* All pupils MUST assemble in the hall at the respective reporting time.
+* Pupils are to engage themselves in Silent Reading once they report to the hall.
+* *In view of the recent safe distancing measures, dismissal and recess times for the respective levels have been staggered.
+* *Please refer to announcements in Parents Gateway for the latest details. 
