@@ -2,6 +2,7 @@ collections:
   staff:
     output: true
     order:
+      - Primary 4 Teachers.md
       - Primary 5 Teachers.md
       - Primary 6 Teachers.md
       - Learning Support.md
