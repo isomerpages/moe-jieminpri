@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs/.keep
       - Music and Dance/Angklung Ensemble.md
       - Music and Dance/Chinese Dance.md
       - Music and Dance/Guzheng Ensemble.md
