@@ -162,7 +162,7 @@ third_nav_title: Mother Tongue Languages
   </tr>
   <tr>
     <td class="tg-imuo">小学华文课程信息册</td>
-    <td class="tg-0pyt"><a href="http://www.moe.gov.sg/education/primary/files/changes-to-pri-chinese-curriculum-chinese-brochure.pdf">http://www.moe.gov.sg/education/primary/files/changes-to-pri-chinese-curriculum-chinese-brochure.pdf</a><br><a href="http://www.moe.gov.sg/education/primary/files/changes-to-pri-chinese-curriculum-english-brochure.pdf">http://www.moe.gov.sg/education/primary/files/changes-to-pri-chinese-curriculum-english-brochure.pdf</a></td>
+    <td class="tg-0pyt">(insert pdf files here)</td>
   </tr>
   <tr>
     <td class="tg-a6j4">iMTL</td>
