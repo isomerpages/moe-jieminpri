@@ -104,8 +104,8 @@ third_nav_title: Mother Tongue Languages
   </tr>
   <tr>
     <td class="tg-imuo">19 National Primary School On-the-spot Chinese Creative Writing Competition<br>第19届全国小学现场华文创作比赛</td>
-    <td class="tg-imuo">Lee Wen Jie Nicole 4 Care<br><br></td>
-    <td class="tg-imuo">丙组－佳作奖<br>Group C - Good Essay Award</td>
+		<td class="tg-imuo"><center>Lee Wen Jie Nicole 4 Care</center></td>
+		<td class="tg-imuo"><center>丙组－佳作奖<br>Group C - Good Essay Award</center></td>
   </tr>
 </tbody>
 </table>
