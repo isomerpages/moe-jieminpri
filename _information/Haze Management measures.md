@@ -21,11 +21,11 @@ Please refer to this attachment for MOE's Haze Management Measures.
 
 [P5_4S.pdf](/files/P5_4S.pdf)
 
-P5_HMT.pdf 
+[P5_HMT.pdf](/files/P5_HMT.pdf) 
 
-P5_3S1F_FMT.pdf 
+[P5_3S1F_FMT.pdf](/files/P5_3S1F_FMT.pdf)
 
-P5_3F1S_MT.pdf 
+[P5_3F1S_MT.pdf](/files/P5_3F1S_MT.pdf)
 
 P5_4F.pdf 
 
