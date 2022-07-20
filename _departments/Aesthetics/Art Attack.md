@@ -24,8 +24,12 @@ third_nav_title: Aesthetics
 
 ### Term 1 : Acapella
 
-[Acapella](https://jieminpri.moe.edu.sg/qql/slot/u386/Department/Aesthetics/Art%20Attack/Acapella.pptx)  
+**[Acapella](https://go.gov.sg/acapella)**
   
-1. Final Countdown - UC Men's Octet  
+1\. Final Countdown - UC Men's Octet  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xGU5HUqj_Vo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
-2.  The Voca People (3min15s)
+2\. The Voca People (3min15s)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N6EYrqIn0yI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
