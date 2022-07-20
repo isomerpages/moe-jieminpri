@@ -48,12 +48,9 @@ Do enjoy the slideshow of our pupils at work and the beautiful end products that
 
 Art Lesson 2015
 ---------------
-
-![artclub 2.jpg](https://jieminpri.moe.edu.sg/qql/slot/u386/Department/Aesthetics/artclub%202.jpg)
-
-![artclub 1.jpg](https://jieminpri.moe.edu.sg/qql/slot/u386/Department/Aesthetics/artclub%201.jpg)
-
-![artclub 3.jpg](https://jieminpri.moe.edu.sg/qql/slot/u386/Department/Aesthetics/artclub%203.jpg)
+![](/images/art1.jpeg)
+![](/images/art2.jpeg)
+![](/images/art3.jpeg)
 
 Primary 2
 ---------
