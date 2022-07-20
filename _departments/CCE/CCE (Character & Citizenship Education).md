@@ -48,3 +48,15 @@ Jiemin Primary has embarked on a whole school approach for our ECG programme to 
 
 ![](/images/ECG%20Talk.jpeg)
 
+### Programme for Active Learning (PAL)
+
+
+The Program for Active Learning (PAL) was introduced to our Primary 1 and 2 pupils in 2016. PAL aims to balance the acquisition of knowledge with the development of skills and values to prepare our pupils for a more dynamic future. It provides pupils with a broad exposure of experiences in the 4 domains of Sports and Games, Outdoor Education, Performing Arts and Visual Arts. Through the various fun and varied activities during PAL lessons, our pupils will also learn values and develop their social-emotional competencies. The 2-hour PAL lessons are conducted on a weekly basis during curriculum hours. The table below lists the PAL modules offered to our pupils this year.
+
+![](/images/Capture.jpeg)
+
+![](/images/outdoor%20education.jpeg)
+![](/images/Sports%20and%20games.jpeg)
+![](/images/Performing%20arts.jpeg)
+![](/images/Visual%20arts.jpeg)
+
