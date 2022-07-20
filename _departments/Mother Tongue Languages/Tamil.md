@@ -97,6 +97,21 @@ third_nav_title: Mother Tongue Languages
 			<li>Rakesh of 5 Diligence won Third Prize for Impromptu Competiiton.</li>
 		</ul>
 		<p>Kolam Ayer CC had organized Tamil Language Competitions.</p>
+		<ul>
+			<li>Melinda of 5G had won Second Prize for Essay Writing Competition</li>
+			<li>Faiz of 6C had won Consolation Prize for Poetry Recitation</li>
+		</ul>
+		<p><strong>எங்கள் மாணவர்களின் சாதனைகள்</strong></p>
+		<p>எங்கள் பள்ளியில் மாணவர்கள் பல போட்டிகளில் கலந்துகொண்டனர். அவற்றில் சிலவற்றில் வெற்றியும் பெற்றனர்.</p>
+		<p>Chong Pang CC & N2 Cluster Schools</p>
+		<ul>
+			<li>பவாணிக்கு மாறுவேடப் போட்டியில் ஆறுதல் பரிசு கிடைத்தது.</li>
+			<li>ராகேஷுக்கு பேசுதல் போட்டியில் மூன்றாம் பரிசு கிடைத்தது.</li>
+		</ul>
+		<p>Kolam Ayer Community Club</p>
+		<ul>
+			<li>மெலிண்டாவுக்குக் கட்டுரை எழுதும் போட்டியில் இரண்டாம் பரிசு கிடைத்தது.</li>
+			<li>ஃபாயிக்ஸுக்கு கவிதை எழுதி படைக்கும் போட்டியில் ஆறுதல் பரிசு கிடைத்தது.</li>
+		</ul>
 	</div>
 	</li>
-	</ul>
