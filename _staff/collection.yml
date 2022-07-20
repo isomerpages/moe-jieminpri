@@ -2,5 +2,6 @@ collections:
   staff:
     output: true
     order:
+      - Learning Support.md
       - Mother Tongue Language Teachers.md
       - School Counsellor and LBS Officers.md
