@@ -99,8 +99,9 @@ third_nav_title: Mother Tongue Languages
   <tr>
     <td class="tg-a6j4">National On-the-spot Chinese Story Writing Competition<br>全国中小学现场华文故事创作比赛</td>
     <td class="tg-imuo"><center>Wang Bo 6 Care<br><img src="/images/wangbo.jpeg" 
-																											 style="width:65%"></center></td>
-		<td class="tg-imuo"><center>优异奖（小学组）<br>Merit Award (Primary School Group)</center></td>
+																											 style="width:65%"></center>
+		</td>
+		<td class="tg-imuo"><center>优异奖 (小学组)<br>Merit Award (Primary School Group)</center></td>
   </tr>
   <tr>
     <td class="tg-imuo">19 National Primary School On-the-spot Chinese Creative Writing Competition<br>第19届全国小学现场华文创作比赛</td>
