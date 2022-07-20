@@ -55,5 +55,8 @@ third_nav_title: Mother Tongue Languages
      style="width:25%"><br>全级阅读量最高的学生也将成为“书香儿童”，并获得奖励。全级阅读量（平均）最高的班级也将成为“书香班级”，并获得奖励。</li>
 				<p>(insert slideshow here)</p>
 				<p><center>Jiemin Primary School<br>2013 P3-P6 Chinese Language<br>Composition Writing Competition</center></p>
+				<p>In Term 2, the Chinese language department organized a Chinese Language Composition Writing for Primary 3 to Primary 6 pupils. The objective of this competition is to improve pupils’ writing skills and raise the level of appreciation　for essay writing.</p>
+				<p>At the end of the competition, the judges have chosen the top 3 essays from the respective categories (Reinforcement, Standard and Higher Chinese).</p>
+				<p>The prize presentation was conducted in Term 3 to reward the pupils who have done well in this competition.</p>
 
 			</ol>
