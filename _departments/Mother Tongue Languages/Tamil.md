@@ -115,3 +115,13 @@ third_nav_title: Mother Tongue Languages
 		</ul>
 	</div>
 	</li>
+	<li>
+	<input type="checkbox" id="accordion5">
+	<label for="accordion5"><h4>Recommended Websites</h4></label>
+    <div>
+			<ul>
+				<li><a href="http://sangamam.moe.edu.sg/" target="_blank" rel="noopener">http://sangamam.moe.edu.sg</a></li>
+				<li><a href="http://www.tamilvu.org/courses/primer/bp000001.htm" target="_blank" rel="noopener">www.tamilvu.org/courses/primer/bp000001.htm</a></li>
+				<li><a href="http://www.kidsone.in/tamil/learntamil/" target="_blank" rel="noopener">www.kidsone.in/tamil/learntamil/</a></li>
+				<li><a href="http://noolagam.com/" target="_blank" rel="noopener">noolagam.com</a></li>
+			</ul>
