@@ -218,7 +218,7 @@ description: ""
     <td class="tg-0bjf">Mon, Tue, Wed, Thu</td>
     <td class="tg-0bjf">7.45 am – 1.30* pm</td>
     <td class="tg-e87b" rowspan="2">7.30 am</td>
-    <td class="tg-0bjf" rowspan="2">P1  : 8.45am – 9.15am<br><br>P2 : 9.15am – 9.45am<br>P3 : 11.15am – 11.45am<br>P4: 10.15am - 10.45am<br>P5: 9.45am - 10.15am<br>P6: 10.45am - 11.15am</td>
+    <td class="tg-0bjf" rowspan="2">P1  : 8.45am – 9.15am<br>P2 : 9.15am – 9.45am<br>P3 : 11.15am – 11.45am<br>P4: 10.15am - 10.45am<br>P5: 9.45am - 10.15am<br>P6: 10.45am - 11.15am</td>
   </tr>
   <tr>
     <td class="tg-0bjf">Fri</td>
