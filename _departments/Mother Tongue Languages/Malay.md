@@ -72,3 +72,62 @@ third_nav_title: Mother Tongue Languages
 			<p>Januari lalu, Sekolah Rendah Jiemin telah menganjurkan sesi pertemuan yang pertama dengan ibu bapa kepada murid-murid dalam Darjah 1 hingga 6. Terima kasih kami ucapkan kepada para ibu bapa dan waris yang telah meluangkan masa untuk hadir dan menemui kami. Kami mengharapkan lebih ramai ibu bapa atau waris untuk hadir dan berinteraksi dengan guru-guru Bahasa Melayu anak/waris anda pada sesi-sesi pertemuan yang akan datang. Dengan kerjasama dan usaha mengutuhkan hubungan ini, mudah-mudahan akhlak anak/waris anda terbina positif dan pembelajaran Bahasa Melayu anak/waris anda akan lebih maju. Sekiranya anda mempunyai cadangan mahupun kata-kata pujian untuk guru-guru kami, harap hubungi kami menerusi alamat e-mel. Marilah sama-sama kita bekerjasama dan saling menyokong pembelajaran anak-anak bangsa Melayu agar mereka dapat menjadi insan yang berwawasan dan berbangga dengan jati diri sebagai pengguna Bahasa Melayu.</p>
 		</div>
 	</li>
+	<li>
+		<input type="checkbox" id="accordion4">
+		<label for="accordion4"><h4>Our Achievements</h4></label>
+		<div>
+			<p><strong>Peraduan Penulisan Kreatif</strong></p>
+			<p>Lima orang murid daripada darjah 4 hingga 6 telah mengambil bahagian dalam Peraduan Karya Minda Kreatif 2013 peringkat Nasional anjuran EDN Media Pte Ltd. Tahniah diucapkan kepada para penulis muda Jiemin. Kami bangga dengan pencapaian kamu.</p>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-mzni{background-color:#FFF;color:#58595B;text-align:left;vertical-align:top}
+.tg .tg-imuo{background-color:#FFF;color:#58595B;text-align:center;vertical-align:top}
+.tg .tg-2r4h{background-color:#FFF;color:#58595B;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 440px">
+<colgroup>
+<col style="width: 250px">
+<col style="width: 95px">
+<col style="width: 95px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-2r4h">Nama Peserta</td>
+    <td class="tg-2r4h">Kelas</td>
+    <td class="tg-2r4h">Anugerah</td>
+  </tr>
+  <tr>
+    <td class="tg-mzni">Bazil Basyar Bin Mohd Zihan</td>
+    <td class="tg-imuo">P6 Diligence</td>
+    <td class="tg-mzni">Emas</td>
+  </tr>
+  <tr>
+    <td class="tg-mzni">Elly Nasriah Binte Ramlee</td>
+    <td class="tg-imuo">P5 Honesty</td>
+    <td class="tg-mzni">Emas</td>
+  </tr>
+  <tr>
+    <td class="tg-mzni">Siti Salwa Rozarita Binte Abdul Zailani</td>
+    <td class="tg-imuo">P6 Honesty</td>
+    <td class="tg-mzni">Perak</td>
+  </tr>
+  <tr>
+    <td class="tg-mzni">Andri Mairanu/Oh Jian Chong</td>
+    <td class="tg-imuo">P6 Kindness</td>
+    <td class="tg-mzni">Perak</td>
+  </tr>
+  <tr>
+    <td class="tg-mzni">Nur Wardah Umairah Bte Hafize</td>
+    <td class="tg-imuo">P4 Kindness</td>
+    <td class="tg-mzni">Perak</td>
+  </tr>
+</tbody>
+</table>
+		</div>
+	</li>
+	
+			
