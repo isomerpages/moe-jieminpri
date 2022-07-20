@@ -30,9 +30,9 @@ Conventionally played in a floorball rink, teams are usually made up of 5 player
 
 
 ### What will we learn ?
-Learn to play as a team  
-Learn more in-depth floorball skills apart from PE lessons like dribbling, slap hit, drag shot and aerials.  
-Through our friendly matches and competition, we gained lots of experiences and grow stronger as a team.  
+* Learn to play as a team  
+* Learn more in-depth floorball skills apart from PE lessons like dribbling, slap hit, drag shot and aerials.  
+* Through our friendly matches and competition, we gained lots of experiences and grow stronger as a team.  
 
 <img src="/images/flb3.png" 
      style="width:65%">
