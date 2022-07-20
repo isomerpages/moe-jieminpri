@@ -30,3 +30,23 @@ Performances
 
 ### What is our CCA about?
 Angklng Ensemble is a widely practised ethnic instrument in South East Asia. It enables pupils to keep in touch with ethnic arts of their region. As the nature of angklung music is ensemble based, pupils learn to be team-players and gain 21st century competencies.
+
+<img src="/images/ak1.png" 
+     style="width:65%">
+
+
+### What will we learn?
+
+*   Learn to play the respective instruments in the ensemble; angklung, kulintang, marimba and ethnic drums.  
+*   Develop their musical skills  
+*   21st century competencies
+*   Leadership is nurtured in pupils through peer coaching
+*   Pupils earn core values like commitment, responsibility and perseverance
+
+<img src="/images/ak2.png" 
+     style="width:65%">
+		 
+### What do we hope to achieve?
+
+*   We hope to inculcate values in our pupils as well as a deep appreciation for music.
+*   Achieve excellence in music
