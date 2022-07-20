@@ -19,6 +19,12 @@ Banner (1).jpg
 
 ![](/images/math4.jpeg)
 ![](/images/math5.jpeg)
+
+### Math Recess Games
+
 ![](/images/math6(1).jpeg)
+
+### Fun activities
+
 ![](/images/math7.jpeg)
 ![](/images/math8.jpeg)
