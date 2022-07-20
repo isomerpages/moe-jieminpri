@@ -45,7 +45,7 @@ description: ""
   <tr>
     <td class="tg-nrix">3 Joy</td>
     <td class="tg-nrix">Ms Vernicia Lim</td>
-    <td class="tg-jq0v"><span style="background-color:initial">Mdm Charmaine Woo</span><br><br><span style="background-color:initial">Mrs Sharon Wong</span></td>
+    <td class="tg-jq0v"><span style="background-color:initial">Mdm Charmaine Woo</span><br><span style="background-color:initial">Mrs Sharon Wong</span></td>
   </tr>
 </tbody>
 </table>
