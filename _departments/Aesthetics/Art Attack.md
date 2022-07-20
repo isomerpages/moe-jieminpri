@@ -28,8 +28,8 @@ third_nav_title: Aesthetics
   
 1\. Final Countdown - UC Men's Octet  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xGU5HUqj_Vo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/xGU5HUqj_Vo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
   
 2\. The Voca People (3min15s)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N6EYrqIn0yI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/N6EYrqIn0yI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
