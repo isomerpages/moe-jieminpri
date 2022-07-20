@@ -5,7 +5,8 @@ description: ""
 ---
 <h5><a href="#Jieminite_Links">Jieminite Links</a><br>
 <a href="#Service_Providers">Service Providers</a><br>
-<a href="#Curriculum_Time">Curriculum Time</a></h5>
+<a href="#Curriculum_Time">Curriculum Time</a><br>
+<a href="#Gate_Opening_Hours">Gate Opening Hours</a></h5>
 
 
 
@@ -229,4 +230,7 @@ description: ""
 * All pupils MUST assemble in the hall at the respective reporting time.
 * Pupils are to engage themselves in Silent Reading once they report to the hall.
 * *In view of the recent safe distancing measures, dismissal and recess times for the respective levels have been staggered.
-* *Please refer to announcements in Parents Gateway for the latest details. 
+* *Please refer to announcements in Parents Gateway for the latest details.
+
+
+<h5><a id="#Gate_Opening_Hours">Gate Opening Hours</a></h5>
