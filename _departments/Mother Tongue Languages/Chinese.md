@@ -58,5 +58,11 @@ third_nav_title: Mother Tongue Languages
 				<p>In Term 2, the Chinese language department organized a Chinese Language Composition Writing for Primary 3 to Primary 6 pupils. The objective of this competition is to improve pupils’ writing skills and raise the level of appreciation　for essay writing.</p>
 				<p>At the end of the competition, the judges have chosen the top 3 essays from the respective categories (Reinforcement, Standard and Higher Chinese).</p>
 				<p>The prize presentation was conducted in Term 3 to reward the pupils who have done well in this competition.</p>
+				<p><center>介民小学<br>2013年三年级至六年级<br>写作比赛</center></p>
+				<p>介民小学中文部在第二学段为三至六年级学生举办了中文写作比赛。举办这次比赛的目的是为了提高学生的写作以及文章的鉴赏能力。</p>
+				<p>评判老师们从各组别（强化、核心和高级华文组），选出了前三名的优胜作品。获奖的学生已在第三学段的颁奖典礼上获颁了奖杯。</p>
+				</div>
+			</li>
+		
 
 			</ol>
