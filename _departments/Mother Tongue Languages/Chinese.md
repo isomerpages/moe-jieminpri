@@ -11,5 +11,4 @@ third_nav_title: Mother Tongue Languages
 
 <center><h4>Mission</h4><br>To provide a conducive learning environment and to inculcate in pupils in the learning of Chinese.</center>
 
-<center>使命
-提供学生一个学习华文的良好环境。</center>
+<center><h4>使命</h4><br>提供学生一个学习华文的良好环境。</center>
