@@ -120,3 +120,24 @@ The School Library is open during Recess for the following levels on these days:
 1.  No food or drinks allowed in the School Library. Place your water bottle/food container outside the School Library.
 2.  Sanitise your hands <strong><u>before</u></strong> and <strong><u>after</u></strong> your time in the School Library.
 3.  Take care of all library items: books, magazines and furniture.
+
+
+#### Online Public Access Catalogue (OPAC)
+
+
+Go to OPAC at [https://schoolibrary.moe.edu.sg/jieminpri](https://schoolibrary.moe.edu.sg/jieminpri) to find out about the latest books in the Library.   
+You can also login to OPAC to:  
+
+1.  Search for books and their availability
+2.  See your loan history
+
+OPAC will also make recommendations based on your loan history and search.  
+Want to read and learn more? Quench your thirst for knowledge by accessing these online resources through the School eResource Repository on OPAC:   
+*   e-Books
+*   e-Magazines
+*   Audio Books
+*   Videos
+
+**Accessing OPAC**  
+Your login would be your Student ID number, all capitalised.  E.g. **T**1234567**A**.     
+Please visit the library to find out what the default password is. You will be prompted to change your password the first time you log in successfully.
