@@ -41,22 +41,13 @@ Tamil
 
 <strong><u>Lower Block</u></strong>
 
-1\. The Wonderful Flight to the Mushroom Planet by Eleanor Cameron
-
-2. **Pi in the Sky by Wendy Mass**
-
-3. **Glitch by Laura Martin**
-
-4\. The Fellowship for Alien Detection by Kevin Emerson
-
-5\. Spaced Out (Moon Base Alpha) by Stuart Gibbs
-
-6. **Escape From The Pipe Men! by Mary G. Thompson**
-
-7. **Ada Lace, on the Case by Emily Calandrelli**
-
-8\. Blast Off! by Nate Ball
-
-9\. June 29, 1999 by David Wiesner
-
-10\. The Major Eights: The Goo Disaster! by Melody Reed
+1. The Wonderful Flight to the Mushroom Planet by Eleanor Cameron
+2. **Pi in the Sky by Wendy Mass**
+3. **Glitch by Laura Martin**
+4. The Fellowship for Alien Detection by Kevin Emerson
+5. Spaced Out (Moon Base Alpha) by Stuart Gibbs
+6. **Escape From The Pipe Men! by Mary G. Thompson**
+7. **Ada Lace, on the Case by Emily Calandrelli**
+8. Blast Off! by Nate Ball
+9. June 29, 1999 by David Wiesner
+10. The Major Eights: The Goo Disaster! by Melody Reed
