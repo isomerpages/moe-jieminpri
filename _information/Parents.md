@@ -296,3 +296,16 @@ You may park your car at the nearby HDB car parks if you wish to come into the s
 _\*For safety of the pupils, cars are not allowed drive into the school premises._     
 _\*Please let your child alight safely along the pavement in front of the Main Gate (near to the main building)_     
 _\*On raining days, you may drive into the school and drop off or pick up your child / ward at the front porch._
+
+
+<h5><a id="#parents6">Visiting School</a></h5>
+
+When visiting the school, please seek clearance at the security stand and then proceed to the General Office for assistance. We will do our best to assist you. We seek your co-operation to help us facilitate the smooth running of the school and ensure the safety of our pupils. 
+
+<h5><a id="#parents6">Picking Up Your Child</a></h5>
+
+* Parents should wait at the designated waiting areas – either front or back gate.
+* If your child is ill,
+	* At least one family member (above 18 years old) or another adult as authorised by the parents needs to pick up the pupil from school. 
+	* Family member or adult authorised by parents has to fill up a “Early Release" Form. 
+	* Pupils are not allowed to leave the school during curriculum time unless permission is granted by the teacher 
