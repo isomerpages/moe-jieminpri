@@ -382,3 +382,8 @@ The MOE FAS is open to all pupils who are Singapore Citizens. The MOE FAS applic
 <h5><a id="#parents10">Updating of Pupils' Official Address and Contact Numbers</a></h5>
 
 If there are any changes to the pupils' official address and/or parents'/guardians' contact numbers, please update your information in Parents Gateway.
+
+
+<h5><a id="#parents11">Circulars from School</a></h5>
+
+We encourage parents to login to Parents Gateway to obtain information on the latest circulars.
