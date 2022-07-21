@@ -387,3 +387,67 @@ If there are any changes to the pupils' official address and/or parents'/guardia
 <h5><a id="#parents11">Circulars from School</a></h5>
 
 We encourage parents to login to Parents Gateway to obtain information on the latest circulars.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-a6j4{background-color:#FFF;color:#58595B;text-align:center;vertical-align:middle}
+.tg .tg-0pyt{background-color:#FFF;color:#21088A;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-vtmj{background-color:#FFF;color:#21088A;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Notification Number </th>
+    <th class="tg-a4yv">Name of Circular</th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Circular in Soft copy</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a6j4"> 073/2020</td>
+    <td class="tg-a6j4">Term 3 School reopens </td>
+    <td class="tg-0pyt"><a href="https://jieminpri.moe.edu.sg/qql/slot/u386/Circulars/2020/Letter%20to%20Parents%20on%20Term%203%20School%20Reopens%20(PG).pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">Letter to Parents on Term 3 School Reopens (PG).pdf</span></a>  </td>
+  </tr>
+  <tr>
+    <td class="tg-a6j4"> 69/2020</td>
+    <td class="tg-a6j4">End Of Term 2 Updates (P1 and P2) </td>
+    <td class="tg-a6j4"> <a href="https://jieminpri.moe.edu.sg/qql/slot/u386/Circulars/2020/69.%20End%20of%20Term%202%20Updates%20(P1%20and%20P2).pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">69. End of Term 2 Updates (P1 and P2).pdf</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-a6j4"> 70/2020</td>
+    <td class="tg-a6j4">End Of Term 2 Updates (P3 to P5)  </td>
+    <td class="tg-0pyt"><a href="https://jieminpri.moe.edu.sg/qql/slot/u386/Circulars/2020/70.%20End%20of%20Term%202%20Updates%20(P3%20-%20P5).pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">70. End of Term 2 Updates (P3 - P5).pdf</span></a>  </td>
+  </tr>
+  <tr>
+    <td class="tg-a6j4"> 71/2020</td>
+    <td class="tg-a6j4">End Of Term 2 Updates (P6)  </td>
+    <td class="tg-0pyt"><a href="https://jieminpri.moe.edu.sg/qql/slot/u386/Circulars/2020/71.%20End%20of%20Term%202%20Updates%20(P6).pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">71. End of Term 2 Updates (P6).pdf</span></a>  </td>
+  </tr>
+  <tr>
+    <td class="tg-a6j4"> 23/2020</td>
+    <td class="tg-a6j4">Primary 5 - 2020 Internationalisation trip to Penang  </td>
+    <td class="tg-a6j4"> <a href="https://jieminpri-moe-edu-sg-admin.cwp.sg/qql/slot/u386/Circulars/2020/23_2020%20P5%20Internationalisation%20Trip%20to%20Penang.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">23_2020 P5 Internationalisation Trip to Penang.pdf</span></a>  </td>
+  </tr>
+  <tr>
+    <td class="tg-a6j4"> 20/2020 </td>
+    <td class="tg-a6j4"> Tok Tok Communications for P2 to P6 Students </td>
+    <td class="tg-vtmj"><a href="https://jieminpri-moe-edu-sg-admin.cwp.sg/qql/slot/u386/20_2020%20TOK%20TOK%20COMMUNICATION%20FOR%20P2%20TO%20P6.pdf"><span style="font-weight:500;text-decoration:none;color:#21088A">20_2020 TOK TOK COMMUNICATION FOR P2 TO P6.pdf</span></a>    </td>
+  </tr>
+  <tr>
+    <td class="tg-a6j4"> 19/2020</td>
+    <td class="tg-a6j4">Tok Tok Communications for P1 Students  </td>
+    <td class="tg-0pyt"><a href="https://jieminpri-moe-edu-sg-admin.cwp.sg/qql/slot/u386/Circulars/2020/19_2020%20TOK%20TOK%20COMMUNICATION%20%20FOR%20P1.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">19_2020 TOK TOK COMMUNICATION FOR P1.pdf</span></a>  </td>
+  </tr>
+  <tr>
+    <td class="tg-a6j4"> </td>
+    <td class="tg-a6j4">Getting started with Singapore Students Learning Space (SLS) </td>
+    <td class="tg-a6j4"> <a href="https://jieminpri.moe.edu.sg/qql/slot/u386/2.%20SLS%20instructions%20-%20Annexes%20to%20Letter%20to%20Parents.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">2. SLS instructions - Annexes to Letter to Parents.pdf</span></a></td>
+  </tr>
+</tbody>
+</table>
