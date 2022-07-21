@@ -29,13 +29,13 @@ School Counseling programs for Pupils include:
 * Career Talks
 * Bully Free Ambassadors
  
-Workshops for Teachers
-The Inclusive Classroom Environment
-Parents and Teachers as Collaborators
-Team Building and Leadership through Experiential Learning
+### Workshops for Teachers
+* The Inclusive Classroom Environment
+* Parents and Teachers as Collaborators
+* Team Building and Leadership through Experiential Learning
  
-Workshops for Parents
-Managing your Child's Examination Stress
-Parenting Skills
-Managing Pupils’
-Transition to Secondary Schools
+### Workshops for Parents
+* Managing your Child's Examination Stress
+* Parenting Skills
+* Managing Pupils’
+* Transition to Secondary Schools
