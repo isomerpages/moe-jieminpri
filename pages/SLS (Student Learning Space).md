@@ -77,17 +77,17 @@ A student’s SLS username comprises of the first five characters of his/her nam
   </tr>
   <tr>
     <td class="tg-vqji"><span style="font-weight:normal;color:#58595B">  1.</span></td>
-    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B"> Use email to reset</span></td>
-    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">Setup the verification email first (Click</span> <a href="/files/SLS%20Email%20Verificationdocx.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:500;text-decoration:underline;color:#21088A">here</span></a><span style="font-weight:normal;color:#58595B">)</span></td>
+		<td class="tg-vqji"><span style="font-weight:normal;color:#58595B"> Use email to reset</span></td>
+    <td class="tg-vqji"><span style="font-weight:normal;color:#58595B">Setup the verification email first (Click</span> <a href="/files/SLS%20Email%20Verificationdocx.pdf" target="_blank" rel="noopener noreferrer"><span style="font-weight:500;text-decoration:underline;color:#21088A">here</span></a><span style="font-weight:normal;color:#58595B">)</span><br></td>
   </tr>
   <tr>
     <td class="tg-vqji"><span style="font-weight:normal;color:#58595B">  2.</span></td>
-    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B"> Inform Form teacher</span></td>
+    <td class="tg-vqji"><span style="font-weight:normal;color:#58595B"> Inform Form teacher</span></td>
     <td class="tg-mzni"><span style="font-style:normal">• </span><span style="background-color:initial">Via Tok-Tok / General Office (6257 1772)</span><br><span style="font-style:normal">• </span><span style="background-color:initial">Required information; Name, Class and type of help needed (Reset Password / Unlock account / Others)</span></td>
   </tr>
   <tr>
     <td class="tg-vqji"><span style="font-weight:normal;color:#58595B">  3.</span></td>
-    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B"> School-based helpline</span><br> (FOR SCHOOL CLOSURE ONLY)</td>
+    <td class="tg-vqji"><span style="font-weight:normal;color:#58595B"> School-based helpline</span><br> (FOR SCHOOL CLOSURE ONLY)</td>
     <td class="tg-mzni"><span style="font-style:normal">• </span>Call 6758 6473<br><span style="font-style:normal">• </span><span style="background-color:initial">Required information; Name, Class and type of help needed (Reset Password / Unlock account / Others)</span><br><span style="font-style:normal">• </span>Reset password will be communicated via contact number provided</td>
   </tr>
   <tr>
