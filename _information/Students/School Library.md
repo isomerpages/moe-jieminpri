@@ -94,3 +94,14 @@ Tamil
 
 <img src="/images/upperblock.png" 
      style="width:85%">
+		 
+
+#### Guide to Using the School Library
+
+
+**Opening Hours**
+
+The School Library is open during Recess for the following levels on these days:
+
+<img src="/images/library%20hours.png" 
+     style="width:65%">
