@@ -67,12 +67,12 @@ Tamil
 <col style="width: 200px">
 <col style="width: 200px">
 </colgroup>
-<thead>
+<tbody>
   <tr>
     <td class="tg-0lax"><img src="/images/Pie%20In%20The%20Sky.png"></td>
     <td class="tg-0lax"><img src="/images/Ada%20Lace%20on%20the%20Case.png"></td>
     <td class="tg-0lax"><img src="/images/Escape%20from%20the%20Pipe%20Men.png"></td>
     <td class="tg-0lax"><img src="/images/Glitch.png"></td>
   </tr>
-</thead>
+</tbody>
 </table>
