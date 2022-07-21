@@ -127,6 +127,7 @@ Your account will be locked after 10 consecutive attempts to log in with an inco
 
 **Frequently Asked Questions**
 
+<center>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -212,10 +213,4 @@ Your account will be locked after 10 consecutive attempts to log in with an inco
   </tr>
 </tbody>
 </table>
-
-
-
-
-
-
-
+	</center>
