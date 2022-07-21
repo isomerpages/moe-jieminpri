@@ -6,7 +6,8 @@ description: ""
 <h5><a href="#Jieminite_Links">Jieminite Links</a><br>
 <a href="#Service_Providers">Service Providers</a><br>
 <a href="#Curriculum_Time">Curriculum Time</a><br>
-<a href="#Gate_Opening_Hours">Gate Opening Hours</a></h5>
+<a href="#Gate_Opening_Hours">Gate Opening Hours</a><br>
+<a href="#Drop_Off_And_Pick_Up_Points">Drop Off and Pick Up Points</a></h5>
 
 
 
