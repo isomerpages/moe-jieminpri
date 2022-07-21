@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Staff/Quick Links.md
       - Staff/.keep
       - Parents.md
       - PSLE.md
