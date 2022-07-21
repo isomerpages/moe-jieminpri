@@ -114,3 +114,32 @@ Tamil
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 450px">
+<col style="width: 350px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-0lax"> 1. The Rescue (Guardians of Ga'Hoole) by Kathryn Lask7<br>2. The Supernaturalist by Eoin Colfer  <br>3. Masterminds by Gordon Korman  <br> 4. The Fourteenth Goldfish by Jennifer L. Holm<br>
+5. Starbounders by Adam Jay Epstein<br>  
+6. Ranger's Apprentice: The Lost Stories by John Flanagan<br>
+7. The Unwanteds by Lisa McMann<br>
+8. Tunnels by Roderick Gordon<br>
+9. Running Out of Time by Margaret Peterson Haddix<br>
+10. The Night the Heads Came by William Sleator<br>
+11. The Giver by Lois Lowry<br>
+12. Fate of Flames (1) (The Effigies) by Sarah Raughley</td>
+		<td class="tg-0lax"><center><img src="/images/upperblock.png"></center></td>
+  </tr>
+</tbody>
+</table>
