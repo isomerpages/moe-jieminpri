@@ -139,5 +139,5 @@ Want to read and learn more? Quench your thirst for knowledge by accessing these
 *   Videos
 
 **Accessing OPAC**  
-Your login would be your Student ID number, all capitalised.  E.g. **T**1234567**A**.     
+Your login would be your Student ID number, all capitalised.  E.g.  <strong><u>T</u></strong>1234567<strong><u>A</u></strong>     
 Please visit the library to find out what the default password is. You will be prompted to change your password the first time you log in successfully.
