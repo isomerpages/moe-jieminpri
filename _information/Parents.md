@@ -451,3 +451,51 @@ We encourage parents to login to Parents Gateway to obtain information on the la
   </tr>
 </tbody>
 </table>
+
+
+<h5><a id="#parents12">Payment of School Fees</a></h5>
+
+We encourage parents to pay school fees via non-cash channels (eg. either by GIRO, directly via iBanking or at AXS machines), so that your child does not need to carry cash to school to pay for the school fees with the risk of losing his/her wallet.
+
+If you have not opted for GIRO payment, you can do so by filling in the GIRO authorisation form which can be obtained from the General Office. Deductions by GIRO is made every 26th of the month (except for January, where there would be a 2 month deduction in February).
+
+If you wish to pay via cash (provided you are not on GIRO scheme), please note that the hours for cash collection at the General Office is as follows:
+
+<center>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-a6j4{background-color:#FFF;color:#58595B;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 622px">
+<colgroup>
+<col style="width: 306px">
+<col style="width: 316px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Day</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Hours for Cash Collection at General Office</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a6j4">Monday to Friday, excluding Public Holidays</td>
+    <td class="tg-a6j4">8.30 am to 3 pm</td>
+  </tr>
+  <tr>
+    <td class="tg-a6j4">Saturday, Sunday and Public Holidays</td>
+    <td class="tg-a6j4">closed</td>
+  </tr>
+</tbody>
+</table>
+</center>
+
+
+
+
+<h5><a id="#parents13">Circulars from School</a></h5>
