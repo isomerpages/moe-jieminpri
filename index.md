@@ -20,6 +20,7 @@ sections:
       button: View More
       url: /information/parents#Jieminite_Links
       image: /images/jieminitelinkeg.png
+      alt: jieminitelinkeg
   - infobar:
       title: SLS
       subtitle: Student Learning Space
