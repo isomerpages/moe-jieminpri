@@ -97,3 +97,125 @@ A student’s SLS username comprises of the first five characters of his/her nam
   </tr>
 </tbody>
 </table>
+
+**Account locked**
+
+Your account will be locked after 10 consecutive attempts to log in with an incorrect password.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-mzni{background-color:#FFF;color:#58595B;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">1.</span></td>
+    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">Inform Form teacher</span></td>
+    <td class="tg-mzni">Required information; Index number, Name and Class</td>
+  </tr>
+  <tr>
+    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">2.</span></td>
+    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">SLS Helpdesk</span><br><span style="font-weight:normal;color:#58595B">(MON-FRI: 9AM-9PM, SAT: 9AM-3PM)</span></td>
+    <td class="tg-mzni">Call 6702 6513<br>Email helpdesk@sls.ufinity.com<br>Find out from go.gov.sg/loginissues</td>
+  </tr>
+</tbody>
+</table>
+
+**Frequently Asked Questions**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-mzni{background-color:#FFF;color:#58595B;text-align:left;vertical-align:top}
+.tg .tg-2r4h{background-color:#FFF;color:#58595B;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 693px">
+<colgroup>
+<col style="width: 48px">
+<col style="width: 645px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-2r4h">1.</td>
+    <td class="tg-2r4h">I used the “Password Reset Link Method” but I cannot find my password reset email. What can I do?</td>
+  </tr>
+  <tr>
+    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B"> </span></td>
+    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">If you cannot see the email in your inbox, it may be in the spam or junk email folder. It is also possible that you have not keyed in or verified the email address in SLS.</span><br><span style="font-weight:normal;color:#58595B">Note: The URL in the email will expire within 20 minutes. If the URL has expired, go to the login page and select "Forgot Password" to try again.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-2r4h">2.</td>
+    <td class="tg-2r4h">Can I change the security questions?</td>
+  </tr>
+  <tr>
+    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B"> </span></td>
+    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">Students can log in to SLS to change the answers to their security questions. However, the questions are fixed.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-2r4h">3.</td>
+    <td class="tg-2r4h">What are the Operating System and Browser Requirements for SLS?</td>
+  </tr>
+  <tr>
+    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B"> </span></td>
+    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">SLS is accessible through internet browsers on either Windows PC, Mac, iPad or Android tablets. For a good user experience, tablets should have a screen size of at least 7 inches. However, a small number of resources may not work on tablets due to missing plugins. Currently, SLS is not fully optimised to display on mobile phones even though users can access the system and resources. The recommended operating systems and browsers are: <br><br><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-mzni{background-color:#FFF;color:#58595B;text-align:left;vertical-align:top}
+.tg .tg-2r4h{background-color:#FFF;color:#58595B;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 390px">
+<colgroup>
+<col style="width: 190px">
+<col style="width: 200px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-2r4h">Operating System</td>
+    <td class="tg-2r4h">Browser</td>
+  </tr>
+  <tr>
+    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">Microsoft Windows 7 SP1 and Windows 8.1</span></td>
+    <td class="tg-mzni">Google Chrome 64 and later</td>
+  </tr>
+  <tr>
+    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">Microsoft Windows 10</span></td>
+    <td class="tg-mzni">Google Chrome 64 and later<br><br>Microsoft Edge 17 and later</td>
+  </tr>
+  <tr>
+    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">Mac OS X 10.9 and later</span></td>
+    <td class="tg-mzni">Safari 11 and later<br><br>Google Chrome 64 and later</td>
+  </tr>
+  <tr>
+    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">iOS 11 and later</span></td>
+    <td class="tg-mzni">Safari 11 and later</td>
+  </tr>
+  <tr>
+    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">Android 5 and later</span></td>
+    <td class="tg-mzni">Google Chrome 64 and later</td>
+  </tr>
+  <tr>
+    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">ChromeOS</span></td>
+    <td class="tg-mzni">Google Chrome 64 and later</td>
+  </tr>
+</tbody>
+</table></span></td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
