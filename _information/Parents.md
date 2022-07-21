@@ -290,7 +290,8 @@ To better safeguard our pupils' safety and well-being, the opening hours of the 
 </table>
 
 
-<h5><a id="#Drop_Off_And_Pick_Up_Points">Drop Off and Pick Up Points</a></h5>
+<h5><a id="Drop_Off_And_Pick_Up_Points">Drop Off and Pick Up Points</a></h5>
+
 
 * **Pupils taking school bus to school**     
 The school bus will drop off and pick up your child / ward at the School Bus Bay. 
@@ -313,11 +314,11 @@ _\*Please let your child alight safely along the pavement in front of the Main G
 _\*On raining days, you may drive into the school and drop off or pick up your child / ward at the front porch._
 
 
-<h5><a id="#parents6">Visiting School</a></h5>
+<h5><a id="parents6">Visiting School</a></h5>
 
 When visiting the school, please seek clearance at the security stand and then proceed to the General Office for assistance. We will do our best to assist you. We seek your co-operation to help us facilitate the smooth running of the school and ensure the safety of our pupils. 
 
-<h5><a id="#parents7.5">Picking Up Your Child</a></h5>
+<h5><a id="parents7.5">Picking Up Your Child</a></h5>
 
 * Parents should wait at the designated waiting areas – either front or back gate.
 * If your child is ill,
@@ -325,7 +326,7 @@ When visiting the school, please seek clearance at the security stand and then p
 	* Family member or adult authorised by parents has to fill up a “Early Release" Form. 
 	* Pupils are not allowed to leave the school during curriculum time unless permission is granted by the teacher
 
-<h5><a id="#parents7">Well-Being Of Your Child</a></h5>
+<h5><a id="parents7">Well-Being Of Your Child</a></h5>
 
 Please do not bring your child to school when he/she is unwell. Your child should only return to school after he/she has been certified to be medically fit by a medical doctor.
 
