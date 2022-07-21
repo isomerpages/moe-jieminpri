@@ -293,8 +293,6 @@ During rainy days, you may use the shelters located at the Side Gate and Back Ga
 * **Parents driving pupils to school**    
 You may park your car at the nearby HDB car parks if you wish to come into the school to drop off or pick up your child/ward. Pupils may use the gate that is most convenient to them. 
 
-__\*For safety of the pupils, cars are not allowed drive into the school premises._ 
-
-_\*Please let your child alight safely along the pavement in front of the Main Gate (near to the main building)_ 
-
-_\*On raining days, you may drive into the school and drop off or pick up your child / ward at the front porch.__
+_\*For safety of the pupils, cars are not allowed drive into the school premises._     
+_\*Please let your child alight safely along the pavement in front of the Main Gate (near to the main building)_     
+_\*On raining days, you may drive into the school and drop off or pick up your child / ward at the front porch._
