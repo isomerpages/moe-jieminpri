@@ -308,4 +308,4 @@ When visiting the school, please seek clearance at the security stand and then p
 * If your child is ill,
 	* At least one family member (above 18 years old) or another adult as authorised by the parents needs to pick up the pupil from school. 
 	* Family member or adult authorised by parents has to fill up a “Early Release" Form. 
-	* Pupils are not allowed to leave the school during curriculum time unless permission is granted by the teacher 
+	* Pupils are not allowed to leave the school during curriculum time unless permission is granted by the teacher
