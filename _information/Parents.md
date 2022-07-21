@@ -7,7 +7,19 @@ description: ""
 <a href="#Service_Providers">Service Providers</a><br>
 <a href="#Curriculum_Time">Curriculum Time</a><br>
 <a href="#Gate_Opening_Hours">Gate Opening Hours</a><br>
-<a href="#Drop_Off_And_Pick_Up_Points">Drop Off and Pick Up Points</a></h5>
+<a href="#Drop_Off_And_Pick_Up_Points">Drop Off and Pick Up Points</a><br>
+<a href="#parents6">Visiting School</a><br>
+<a href="#parents7.5">Picking Up Your Child</a><br>
+<a href="#parents7">Well-Being of Your Child</a><br>
+<a href="#parents8">Helplines</a><br>
+<a href="#parents9">Financial Assistance Scheme (FAS)</a><br>
+<a href="#parents10">Updating of Pupils' Official Address and Contact Numbers</a><br>
+<a href="#parents11">Circulars from School</a><br>
+<a href="#parents12">Payment of School Fees</a><br>
+<a href="#parents13">MOE FAS - Transport Vouchers Redemption</a><br>
+<a href="#parents14">Resource for Building Resilience in Your Child</a><br>
+<a href="#parents15">Additional Precautionary Measures in School from Term 2 Onwards</a><br>
+<a href="#parents16">Parents' Guide to Device Use for HBL</a></h5>
 
 
 
@@ -303,7 +315,7 @@ _\*On raining days, you may drive into the school and drop off or pick up your c
 
 When visiting the school, please seek clearance at the security stand and then proceed to the General Office for assistance. We will do our best to assist you. We seek your co-operation to help us facilitate the smooth running of the school and ensure the safety of our pupils. 
 
-<h5><a id="#parents6">Picking Up Your Child</a></h5>
+<h5><a id="#parents7.5">Picking Up Your Child</a></h5>
 
 * Parents should wait at the designated waiting areas – either front or back gate.
 * If your child is ill,
