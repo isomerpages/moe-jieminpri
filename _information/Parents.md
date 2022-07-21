@@ -495,7 +495,37 @@ If you wish to pay via cash (provided you are not on GIRO scheme), please note t
 </table>
 </center>
 
+For more information on school fees, please refer to the [MOE webpage](https://www.moe.gov.sg/financial-matters/fees).
 
 
 
-<h5><a id="#parents13">Circulars from School</a></h5>
+<h5><a id="#parents13">MOE FAS - Transport Vouchers Redemption</a></h5>
+
+MOE FAS students, who are eligible for Transport Vouchers and have been approved the transport subsidy, can refer to the following guide on how to redeem the transport vouchers:  
+[Annex - Redemption of Voucher and List of Suggested Merchants.pdf](/files/Annex%20-%20Redemption%20of%20Voucher%20and%20List%20of%20Suggested%20Merchants.pdf) 
+
+
+<h5><a id="#parents14">Resource for Building Resilience in Your Child</a></h5>
+
+Click [here](/files/Resilience-Resources_for%20parents_final.pdf) to access resource for building resilience in your child.
+
+
+<h5><a id="#parents15">Additional Precautionary Measures in School from Term 2 Onwards</a></h5>
+
+Dear Parents, 
+
+The following are additional precautionary measures that the school will set in place from Term 2 onwards.
+
+1.  Students, who have travelled overseas on or after Saturday, 14 March 2020 regardless of country or mode of entry, should not report to school on Monday. 
+2.  All CCAs and After School Programmes (Remedial, Supplementary Classes, SDR, RRP) will be suspended. Only Higher Mother Tongue and Foundation Mother Tongue classes, will continue.
+3.  The school has arranged for designated seating by class in the canteen during recess.
+4.  The current practice of wipe-down routine will be expanded to classrooms. Students will wipe their own tables before lessons. This is to inculcate habits of keeping the school clean and safe.
+5.  Please ensure that your child has a working thermometer and bring it to school daily.
+6.  If your child is unwell with flu-like symptoms, he/she will not be allowed in school and will need to seek medical advice from the doctor. 
+
+Thank you.
+
+
+<h5><a id="#parents16">Parents' Guide to Device Use for HBL</a></h5>
+
+Click [here](/files/Parents%20Guide%20to%20Device%20Use%20for%20Home-Based%20Learning.pdf) for the Parents' Guide to Device use for HBL
