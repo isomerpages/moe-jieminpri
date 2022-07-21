@@ -372,3 +372,13 @@ We look forward to your support and co-operation as we do our best to create a h
   </tr>
 </tbody>
 </table>
+
+<h5><a id="#parents9">Financial Assistance Scheme (FAS)</a></h5>
+
+The MOE FAS is open to all pupils who are Singapore Citizens. The MOE FAS application period would start sometime from mid-September to October. Please refer to the circular issued to all parents.  Details of the financial assistance scheme can be found in the following website - https://www.moe.gov.sg/financial-matters/financial-assistance.
+
+
+
+<h5><a id="#parents10">Updating of Pupils' Official Address and Contact Numbers</a></h5>
+
+If there are any changes to the pupils' official address and/or parents'/guardians' contact numbers, please update your information in Parents Gateway.
