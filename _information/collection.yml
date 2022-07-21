@@ -2,9 +2,9 @@ collections:
   information:
     output: true
     order:
-      - Staff/Counselling & Special Needs @ JPS.md
-      - Staff/Quick Links.md
       - Staff/.keep
+      - Staff/Quick Links.md
+      - Staff/Counselling & Special Needs @ JPS.md
       - Parents.md
       - PSLE.md
       - Sexuality Education.md
