@@ -51,3 +51,28 @@ Tamil
 8. Blast Off! by Nate Ball
 9. June 29, 1999 by David Wiesner
 10. The Major Eights: The Goo Disaster! by Melody Reed
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
+</colgroup>
+<thead>
+  <tr>
+    <td class="tg-0lax"><img src="/images/Pie%20In%20The%20Sky.png"></td>
+    <td class="tg-0lax"><img src="/images/Ada%20Lace%20on%20the%20Case.png"></td>
+    <td class="tg-0lax"><img src="/images/Escape%20from%20the%20Pipe%20Men.png"></td>
+    <td class="tg-0lax"><img src="/images/Glitch.png"></td>
+  </tr>
+</thead>
+</table>
