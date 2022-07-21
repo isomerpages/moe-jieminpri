@@ -8,16 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/homepage.gif
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - infobar:
       title: Announcements
       subtitle: Our Latest News
@@ -30,9 +20,11 @@ sections:
       button: View More
       url: /sls
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Articles
+      subtitle: Jieminite Links
+      description: Catch Up with Us
+      button: View More
       alt: Image alt text
+      url: /information/parents#Jieminite_Links
+      image: /images/jieminitelinkeg.png
 ---
