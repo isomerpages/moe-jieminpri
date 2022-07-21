@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Students/Useful Links.md
       - Students/School Library.md
       - Students/e News.md
       - Students/Online Encyclopedia.md
