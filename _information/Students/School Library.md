@@ -109,14 +109,14 @@ The School Library is open during Recess for the following levels on these days:
 #### Borrowing Books
 
 1.  You need your EZ-Link Card to borrow books.
-2.  You may borrow a maximum of <strong><u>FOUR</u></strong> books for up to **14 days**.
-3.  You may renew your books **once**, for **14 days**.
+2.  You may borrow a maximum of <strong><u>FOUR</u></strong> books for up to <strong><u>14 days</u></strong>
+3.  You may renew your books <strong><u>once</u></strong> for <strong><u>14 days</u></strong>
 4.  To return borrowed books, put them into the Book Drop at the entrance of the School Library.
-5.  Reference books and magazines are **not** for borrowing.
+5.  Reference books and magazines are <strong><u>not</u></strong> for borrowing.
 6.  Report any loss or damage of library items to our friendly School Librarian, Mrs Lim.
 
 #### Rules and Routines
 
 1.  No food or drinks allowed in the School Library. Place your water bottle/food container outside the School Library.
-2.  Sanitise your hands **before** and **after** your time in the School Library.
+2.  Sanitise your hands <strong><u>before</u></strong> and <strong><u>after</u></strong> your time in the School Library.
 3.  Take care of all library items: books, magazines and furniture.
