@@ -23,14 +23,16 @@ sections:
       subtitle: Our Latest News
       button: View More
       url: /announcements
+  - infobar:
+      title: SLS
+      subtitle: Student Learning Space
+      description: Learn More About Our Use of SLS
+      button: View More
+      url: /sls
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
       description: Infopic description
       button: Button Text
       alt: Image alt text
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
 ---
