@@ -437,7 +437,7 @@ We encourage parents to login to Parents Gateway to obtain information on the la
   <tr>
     <td class="tg-a6j4"> 20/2020 </td>
     <td class="tg-a6j4"> Tok Tok Communications for P2 to P6 Students </td>
-    <td class="tg-vtmj"><a href="/files/20_2020%20TOK%20TOK%20COMMUNICATION%20FOR%20P2%20TO%20P6.pdf">20_2020 TOK TOK COMMUNICATION FOR P2 TO P6.pdf</span></a>    </td>
+    <td class="tg-a6j4"><a href="/files/20_2020%20TOK%20TOK%20COMMUNICATION%20FOR%20P2%20TO%20P6.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">20_2020 TOK TOK COMMUNICATION FOR P2 TO P6.pdf</span></a>    </td>
   </tr>
   <tr>
     <td class="tg-a6j4"> 19/2020</td>
