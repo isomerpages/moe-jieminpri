@@ -3,6 +3,8 @@ title: Parents
 permalink: /information/parents
 description: ""
 ---
+#### Quick Links for Parents
+
 <h5><a href="#Jieminite_Links">Jieminite Links</a><br>
 <a href="#Service_Providers">Service Providers</a><br>
 <a href="#Curriculum_Time">Curriculum Time</a><br>
