@@ -110,7 +110,7 @@ Tamil
 			<li>Fate of Flames (1) (The Effigies) by Sarah Raughley</li>
 			</ol>
 		</td>
-    <td class="tg-0lax"></td>
+		<td class="tg-0lax"><center><img src="/images/upperblock.png"></center></td>
   </tr>
 </tbody>
 </table>
