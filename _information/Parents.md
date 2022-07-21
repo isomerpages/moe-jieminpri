@@ -368,7 +368,7 @@ We look forward to your support and co-operation as we do our best to create a h
     <td class="tg-nlas">Tinkle Friend<br>(Singapore Children's Society)</td>
     <td class="tg-nlas">For children ages 7-12 years who need someone to talk to</td>
     <td class="tg-nlas">1800-274-4788</td>
-    <td class="tg-imuo">24 Hours</td>
+    <td class="tg-nlas">24 Hours</td>
   </tr>
 </tbody>
 </table>
