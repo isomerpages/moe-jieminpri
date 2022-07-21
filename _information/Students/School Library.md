@@ -93,6 +93,4 @@ Tamil
 12. Fate of Flames (1) (The Effigies) by Sarah Raughley  
 
 <img src="/images/upperblock.png" 
-     style="width:65%">
-
-
+     style="width:85%">
