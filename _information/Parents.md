@@ -309,3 +309,66 @@ When visiting the school, please seek clearance at the security stand and then p
 	* At least one family member (above 18 years old) or another adult as authorised by the parents needs to pick up the pupil from school. 
 	* Family member or adult authorised by parents has to fill up a “Early Release" Form. 
 	* Pupils are not allowed to leave the school during curriculum time unless permission is granted by the teacher
+
+<h5><a id="#parents7">Well-Being Of Your Child</a></h5>
+
+Please do not bring your child to school when he/she is unwell. Your child should only return to school after he/she has been certified to be medically fit by a medical doctor.
+
+Please call the General Office to update the status of your child for the school's attendance tracking.
+
+We look forward to your support and co-operation as we do our best to create a happy and safe environment conducive to your child’s learning.
+
+<h5><a id="#parents8">Helplines</a></h5>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-imuo{background-color:#FFF;color:#58595B;text-align:center;vertical-align:top}
+.tg .tg-iysj{background-color:#FFF;color:#1971B8;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-nlas{background-color:#FFF;color:#1971B8;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-iysj">Organisation</th>
+    <th class="tg-iysj">Who Is It For</th>
+    <th class="tg-iysj">Telephone</th>
+    <th class="tg-iysj">Time</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-nlas">AMP Hotline</td>
+    <td class="tg-nlas">Malay/ Muslim families in crisis or those who need help</td>
+    <td class="tg-nlas">6416-3960</td>
+    <td class="tg-nlas">Mon – Fri<br>10.00 AM – 05.00 PM<br>(Except PH)</td>
+  </tr>
+  <tr>
+    <td class="tg-nlas">Care Corner 800<br>Hotline</td>
+    <td class="tg-nlas">(Mandarin Counselling Centre)  For pupils/ Families with problems </td>
+    <td class="tg-nlas">1800-353-5800</td>
+    <td class="tg-nlas">Mon – Sun<br>10.00 AM – 10.00 PM<br>(Except PH) </td>
+  </tr>
+  <tr>
+    <td class="tg-nlas">Daybreak Family Service Centre (Yishun)</td>
+    <td class="tg-nlas">For families with problems </td>
+    <td class="tg-nlas">6756-4995</td>
+    <td class="tg-nlas">Mon – Thur<br>09.00 AM – 06.00 PM<br>Fri<br>09.00 AM - 05.00 PM</td>
+  </tr>
+  <tr>
+    <td class="tg-nlas">Samaritans of Singapore</td>
+    <td class="tg-nlas">For suicidal, lonely and anyone in crisis </td>
+    <td class="tg-nlas">1800-221-4444</td>
+    <td class="tg-nlas">24 Hours </td>
+  </tr>
+  <tr>
+    <td class="tg-nlas">Tinkle Friend<br>(Singapore Children's Society)</td>
+    <td class="tg-nlas">For children ages 7-12 years who need someone to talk to</td>
+    <td class="tg-nlas">1800-274-4788</td>
+    <td class="tg-imuo">24 Hours</td>
+  </tr>
+</tbody>
+</table>
