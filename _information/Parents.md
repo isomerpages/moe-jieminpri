@@ -412,7 +412,7 @@ We encourage parents to login to Parents Gateway to obtain information on the la
   <tr>
     <td class="tg-a6j4"> 073/2020</td>
     <td class="tg-a6j4">Term 3 School reopens </td>
-    <td class="tg-0pyt"><a href="https://jieminpri.moe.edu.sg/qql/slot/u386/Circulars/2020/Letter%20to%20Parents%20on%20Term%203%20School%20Reopens%20(PG).pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">Letter to Parents on Term 3 School Reopens (PG).pdf</span></a>  </td>
+    <td class="tg-0pyt"><a href="/files/Letter%20to%20Parents%20on%20Term%203%20School%20Reopens%20(PG).pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">Letter to Parents on Term 3 School Reopens (PG).pdf</span></a>  </td>
   </tr>
   <tr>
     <td class="tg-a6j4"> 69/2020</td>
