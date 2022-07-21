@@ -9,7 +9,7 @@ Please click [**HERE**](/files/P1%20Orientation%202022%20Booklet.pdf) for the 
 
 ### E-Open house
 
-Click [here](/e-open-house) to access Jiemin Primary School e-Open house
+Click [here] **(unable to access e-open house page)** to access Jiemin Primary School e-Open house
 
 ### DSA-Sec information for P6 students
 
@@ -17,7 +17,7 @@ Click [here](/information/parents) for information on DSA-Sec  
 
 ### Information on SLS and HBL
 
-Click [here] (link to SLS page) for information on SLS
+Click [here](/sls) for information on SLS
 
 Click [here] **(unable to access page due to privacy restrictions on moe site)** for information on HBL 
 
