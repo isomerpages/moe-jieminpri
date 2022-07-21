@@ -273,3 +273,28 @@ To better safeguard our pupils' safety and well-being, the opening hours of the 
   </tr>
 </tbody>
 </table>
+
+
+<h5><a id="#Drop_Off_And_Pick_Up_Points">Drop Off and Pick Up Points</a></h5>
+
+* **Pupils taking school bus to school**     
+The school bus will drop off and pick up your child / ward at the School Bus Bay. 
+
+
+* **Pupils walking to school**    
+<u>Accessible Gates</u>   
+Pupils walking to school may use the side gate or Back Gate    
+(Please note opening hours)     
+<u>Rainy Day</u>     
+During rainy days, you may use the shelters located at the Side Gate and Back Gate. 
+
+  
+
+* **Parents driving pupils to school**    
+You may park your car at the nearby HDB car parks if you wish to come into the school to drop off or pick up your child/ward. Pupils may use the gate that is most convenient to them. 
+
+__\*For safety of the pupils, cars are not allowed drive into the school premises._ 
+
+_\*Please let your child alight safely along the pavement in front of the Main Gate (near to the main building)_ 
+
+_\*On raining days, you may drive into the school and drop off or pick up your child / ward at the front porch.__
