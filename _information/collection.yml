@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Staff/.keep
-      - Staff/Quick Links.md
+      - Staff/Useful Links.md
       - Staff/Counselling & Special Needs @ JPS.md
       - Parents.md
       - PSLE.md
