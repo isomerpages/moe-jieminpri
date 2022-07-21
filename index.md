@@ -13,18 +13,17 @@ sections:
       subtitle: Our Latest News
       button: View More
       url: /announcements
+  - infopic:
+      title: Articles
+      subtitle: Jieminite Links
+      description: Catch Up with Us
+      button: View More
+      url: /information/parents#Jieminite_Links
+      image: /images/jieminitelinkeg.png
   - infobar:
       title: SLS
       subtitle: Student Learning Space
       description: Learn More About Our Use of SLS
       button: View More
       url: /sls
-  - infopic:
-      title: Articles
-      subtitle: Jieminite Links
-      description: Catch Up with Us
-      button: View More
-      alt: Image alt text
-      url: /information/parents#Jieminite_Links
-      image: /images/jieminitelinkeg.png
 ---
