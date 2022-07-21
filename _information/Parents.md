@@ -334,7 +334,7 @@ Please call the General Office to update the status of your child for the school
 
 We look forward to your support and co-operation as we do our best to create a happy and safe environment conducive to your child’s learning.
 
-<h5><a id="#parents8">Helplines</a></h5>
+<h5><a id="parents8">Helplines</a></h5>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -389,18 +389,18 @@ We look forward to your support and co-operation as we do our best to create a h
 </tbody>
 </table>
 
-<h5><a id="#parents9">Financial Assistance Scheme (FAS)</a></h5>
+<h5><a id="parents9">Financial Assistance Scheme (FAS)</a></h5>
 
 The MOE FAS is open to all pupils who are Singapore Citizens. The MOE FAS application period would start sometime from mid-September to October. Please refer to the circular issued to all parents.  Details of the financial assistance scheme can be found in the following website - https://www.moe.gov.sg/financial-matters/financial-assistance.
 
 
 
-<h5><a id="#parents10">Updating of Pupils' Official Address and Contact Numbers</a></h5>
+<h5><a id="parents10">Updating of Pupils' Official Address and Contact Numbers</a></h5>
 
 If there are any changes to the pupils' official address and/or parents'/guardians' contact numbers, please update your information in Parents Gateway.
 
 
-<h5><a id="#parents11">Circulars from School</a></h5>
+<h5><a id="parents11">Circulars from School</a></h5>
 
 We encourage parents to login to Parents Gateway to obtain information on the latest circulars.
 
@@ -469,7 +469,7 @@ We encourage parents to login to Parents Gateway to obtain information on the la
 </table>
 
 
-<h5><a id="#parents12">Payment of School Fees</a></h5>
+<h5><a id="parents12">Payment of School Fees</a></h5>
 
 We encourage parents to pay school fees via non-cash channels (eg. either by GIRO, directly via iBanking or at AXS machines), so that your child does not need to carry cash to school to pay for the school fees with the risk of losing his/her wallet.
 
@@ -515,18 +515,18 @@ For more information on school fees, please refer to the [MOE webpage](https://
 
 
 
-<h5><a id="#parents13">MOE FAS - Transport Vouchers Redemption</a></h5>
+<h5><a id="parents13">MOE FAS - Transport Vouchers Redemption</a></h5>
 
 MOE FAS students, who are eligible for Transport Vouchers and have been approved the transport subsidy, can refer to the following guide on how to redeem the transport vouchers:  
 [Annex - Redemption of Voucher and List of Suggested Merchants.pdf](/files/Annex%20-%20Redemption%20of%20Voucher%20and%20List%20of%20Suggested%20Merchants.pdf) 
 
 
-<h5><a id="#parents14">Resource for Building Resilience in Your Child</a></h5>
+<h5><a id="parents14">Resource for Building Resilience in Your Child</a></h5>
 
 Click [here](/files/Resilience-Resources_for%20parents_final.pdf) to access resource for building resilience in your child.
 
 
-<h5><a id="#parents15">Additional Precautionary Measures in School from Term 2 Onwards</a></h5>
+<h5><a id="parents15">Additional Precautionary Measures in School from Term 2 Onwards</a></h5>
 
 Dear Parents, 
 
@@ -542,6 +542,6 @@ The following are additional precautionary measures that the school will set in 
 Thank you.
 
 
-<h5><a id="#parents16">Parents' Guide to Device Use for HBL</a></h5>
+<h5><a id="parents16">Parents' Guide to Device Use for HBL</a></h5>
 
 Click [here](/files/Parents%20Guide%20to%20Device%20Use%20for%20Home-Based%20Learning.pdf) for the Parents' Guide to Device use for HBL
