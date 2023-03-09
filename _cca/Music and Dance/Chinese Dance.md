@@ -1,6 +1,6 @@
 ---
 title: Chinese Dance
-permalink: /cca/Music-and-Dance/chinese-dance
+permalink: /cca/music-and-dance/chinese-dance/
 description: ""
 third_nav_title: Music and Dance
 ---

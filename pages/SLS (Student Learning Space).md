@@ -1,6 +1,6 @@
 ---
 title: SLS (Student Learning Space)
-permalink: /sls
+permalink: /sls/
 description: ""
 ---
 ## Introduction

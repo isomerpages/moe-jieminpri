@@ -1,6 +1,6 @@
 ---
 title: Primary 5 Teachers
-permalink: /staff/primary-5-teachers
+permalink: /staff/primary-5-teachers/
 description: ""
 ---
 **Year Head: Mrs Tan Hwee Min**

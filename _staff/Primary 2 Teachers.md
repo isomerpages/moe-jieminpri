@@ -1,6 +1,6 @@
 ---
 title: Primary 2 Teachers
-permalink: /staff/primary-2-teachers
+permalink: /staff/primary-2-teachers/
 description: ""
 ---
 **Assistant Year Head: Mdm Norhayati**

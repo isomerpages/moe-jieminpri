@@ -1,6 +1,6 @@
 ---
 title: Music Curriculum
-permalink: /departments/Aesthetics/music-curriculum
+permalink: /departments/aesthetics/music-curriculum/
 description: ""
 third_nav_title: Aesthetics
 ---

@@ -1,6 +1,6 @@
 ---
 title: PE & CCA
-permalink: /departments/pe-and-cca
+permalink: /departments/pe-and-cca/
 description: ""
 ---
 **Vision**

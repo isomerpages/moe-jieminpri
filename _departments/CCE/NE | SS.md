@@ -1,6 +1,6 @@
 ---
 title: NE | SS
-permalink: /departments/CCE/ne-ss
+permalink: /departments/cce/ne-ss/
 description: ""
 third_nav_title: CCE
 ---

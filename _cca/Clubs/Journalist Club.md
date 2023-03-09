@@ -1,6 +1,6 @@
 ---
 title: Journalist Club
-permalink: /cca/Clubs/journalist-club
+permalink: /cca/clubs/journalist-club/
 description: ""
 third_nav_title: Clubs
 ---

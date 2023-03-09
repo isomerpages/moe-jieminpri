@@ -1,6 +1,6 @@
 ---
 title: Haze Management measures
-permalink: /information/haze-management-measures
+permalink: /information/haze-management-measures/
 description: ""
 ---
 #### Haze Management

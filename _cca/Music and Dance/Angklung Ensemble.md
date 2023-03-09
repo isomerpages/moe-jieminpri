@@ -1,6 +1,6 @@
 ---
 title: Angklung Ensemble
-permalink: /cca/Music-and-Dance/angklung-ensemble
+permalink: /cca/music-and-dance/angklung-ensemble/
 description: ""
 third_nav_title: Music and Dance
 ---

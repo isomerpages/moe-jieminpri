@@ -1,6 +1,6 @@
 ---
 title: General Guidelines
-permalink: /about-us/general-guidelines
+permalink: /about-us/general-guidelines/
 description: ""
 ---
 ### Respect for our Nation and our School

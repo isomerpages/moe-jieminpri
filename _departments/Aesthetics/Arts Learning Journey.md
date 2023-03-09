@@ -1,6 +1,6 @@
 ---
 title: Arts Learning Journey
-permalink: /departments/Aesthetics/arts-learning-journey
+permalink: /departments/aesthetics/arts-learning-journey/
 description: ""
 third_nav_title: Aesthetics
 ---

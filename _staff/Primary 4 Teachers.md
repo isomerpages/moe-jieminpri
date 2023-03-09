@@ -1,6 +1,6 @@
 ---
 title: Primary 4 Teachers
-permalink: /staff/primary-4-teachers
+permalink: /staff/primary-4-teachers/
 description: ""
 ---
 **Year Head: Mdm Mas'Linda**

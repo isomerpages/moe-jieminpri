@@ -1,6 +1,6 @@
 ---
 title: Online Encyclopedia
-permalink: /information/Students/online-encyclopedia
+permalink: /information/students/online-encyclopedia/
 description: ""
 third_nav_title: Students
 ---

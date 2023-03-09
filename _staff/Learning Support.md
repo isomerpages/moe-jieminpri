@@ -1,6 +1,6 @@
 ---
 title: Learning Support
-permalink: /staff/learning-support
+permalink: /staff/learning-support/
 description: ""
 ---
 <style type="text/css">

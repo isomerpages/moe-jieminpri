@@ -1,6 +1,6 @@
 ---
 title: Modern Dance
-permalink: /cca/Music-and-Dance/modern-dance
+permalink: /cca/music-and-dance/modern-dance/
 description: ""
 third_nav_title: Music and Dance
 ---

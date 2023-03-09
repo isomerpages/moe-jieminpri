@@ -1,6 +1,6 @@
 ---
 title: Useful Links
-permalink: /information/Staff/useful-links
+permalink: /information/staff/useful-links/
 description: ""
 third_nav_title: Staff
 ---

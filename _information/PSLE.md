@@ -1,6 +1,6 @@
 ---
 title: PSLE
-permalink: /information/psle
+permalink: /information/psle/
 description: ""
 ---
 **PSLE Release of Results**   

@@ -1,6 +1,6 @@
 ---
 title: Parents
-permalink: /information/parents
+permalink: /information/parents/
 description: ""
 ---
 #### Quick Links for Parents

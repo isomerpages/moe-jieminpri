@@ -1,6 +1,6 @@
 ---
 title: Floorball
-permalink: /cca/Physical-Sports/floorball
+permalink: /cca/physical-sports/floorball/
 description: ""
 third_nav_title: Physical Sports
 ---

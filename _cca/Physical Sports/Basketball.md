@@ -1,6 +1,6 @@
 ---
 title: Basketball
-permalink: /cca/Physical-Sports/basketball
+permalink: /cca/physical-sports/basketball/
 description: ""
 third_nav_title: Physical Sports
 ---

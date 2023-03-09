@@ -1,6 +1,6 @@
 ---
 title: Primary 1 Teachers
-permalink: /staff/primary-1-teachers
+permalink: /staff/primary-1-teachers/
 description: ""
 ---
 **Year Head: Mdm Jayasree**

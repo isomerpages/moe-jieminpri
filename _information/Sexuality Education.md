@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education
-permalink: /information/sexuality-education
+permalink: /information/sexuality-education/
 description: ""
 ---
 Please click on the Sexuality Education attachment to access the updated information.

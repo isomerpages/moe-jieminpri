@@ -1,6 +1,6 @@
 ---
 title: ALP and LLP
-permalink: /about-us/alp-and-llp
+permalink: /about-us/alp-and-llp/
 description: ""
 ---
 <h3>Learning For Life Programme (LLP) - Aesthetics Alive (Music and Performing Arts)</h3>

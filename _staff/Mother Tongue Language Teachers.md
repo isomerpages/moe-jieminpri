@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue Language Teachers
-permalink: /staff/mother-tongue-language-teachers
+permalink: /staff/mother-tongue-language-teachers/
 description: ""
 ---
 <style type="text/css">

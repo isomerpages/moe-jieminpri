@@ -1,6 +1,6 @@
 ---
 title: Art Attack
-permalink: /departments/Aesthetics/art-attack
+permalink: /departments/aesthetics/art-attack/
 description: ""
 third_nav_title: Aesthetics
 ---

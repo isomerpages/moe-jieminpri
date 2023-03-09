@@ -1,6 +1,6 @@
 ---
 title: History
-permalink: /about-us/history
+permalink: /about-us/history/
 description: ""
 ---
 First Principal: Mr Koh Kia Wah (Nov 1984 to May 1986)  

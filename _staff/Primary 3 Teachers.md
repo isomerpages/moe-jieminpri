@@ -1,6 +1,6 @@
 ---
 title: Primary 3 Teachers
-permalink: /staff/primary-3-teachers
+permalink: /staff/primary-3-teachers/
 description: ""
 ---
 **Year Head: Mdm Mas'linda**

@@ -1,6 +1,6 @@
 ---
 title: Primary 6 Teachers
-permalink: /staff/primary-6-teachers
+permalink: /staff/primary-6-teachers/
 description: ""
 ---
 **Assistant Year Head: Mr Prabaharan**

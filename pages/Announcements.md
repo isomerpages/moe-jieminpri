@@ -1,6 +1,6 @@
 ---
 title: Announcements
-permalink: /announcements
+permalink: /announcements/
 description: ""
 ---
 ### 2022 Primary 1 Orientation Booklet

@@ -1,6 +1,6 @@
 ---
 title: School Library
-permalink: /information/Students/school-library
+permalink: /information/students/school-library/
 description: ""
 third_nav_title: Students
 ---

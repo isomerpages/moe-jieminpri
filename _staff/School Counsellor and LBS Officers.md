@@ -1,6 +1,6 @@
 ---
 title: School Counsellor and LBS Officers
-permalink: /staff/school-counsellor-and-lbs-officers
+permalink: /staff/school-counsellor-and-lbs-officers/
 description: ""
 ---
 <style type="text/css">

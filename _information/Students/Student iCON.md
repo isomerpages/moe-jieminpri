@@ -1,6 +1,6 @@
 ---
 title: Student iCON
-permalink: /information/Students/Student-iCON
+permalink: /information/students/student-icon/
 description: ""
 third_nav_title: Students
 ---
