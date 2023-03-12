@@ -13,15 +13,15 @@ Seventh Principal: Mrs Chandrika Mano (Jan 2007 - Dec 2013)
 Eighth Principal: Ms Cheah Poh Lian (Dec 2013 - Dec 2018)  
 Ninth Principal: Mr Andy Mickey Choong Tek Choy (Jan 2019 - Present)
 
-Jiemin Primary School started functioning at Yishun Street 71 in January 1985 with 23 classes and was holding another 16 classes for Peixin Primary School. In March that year, another 13 classes from West Hill Primary School joined the school making a total of 52 classes. However, in June of the same year, Peixin pupils moved into their own premises in Yishun Ring Road.
+Jiemin Primary School started operations at Yishun Street 71 in January 1985 with 23 classes and was holding another 16 classes for Peixin Primary School. In March that year, another 13 classes from West Hill Primary School joined the school making a total of 52 classes. However, in June of the same year, Peixin pupils moved into their own premises in Yishun Ring Road.
 
   
 
-The name of the school, Jiemin, originates from two traditional Chinese schools, Jiegu and Quanmin Public Schools, which were functioning at Bukit Merah before their closure in 1984.
+The name of the school, Jiemin, originates from two traditional Chinese schools, Jiegu and Quanmin Public Schools, which were located at Bukit Merah before their closure in 1984.
 
   
 
-Our priority has always been to provide a holistic, meaningful and well-balanced education for our pupils. We place very great emphasis on academic excellence as well as in Co-Curricular Activities. We also believe in creating a safe and conducive environment for our pupils' learning.
+Our priority has always been to provide a holistic, meaningful and well-balanced education for our pupils. We place great emphasis on academic excellence as well as in Co-Curricular Activities. We also believe in creating a safe and conducive environment for our pupils' learning.
 
 <strong><u>Photos of Jiemin Primary School over the years</u></strong>
 
