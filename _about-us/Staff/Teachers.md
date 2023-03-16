@@ -85,7 +85,7 @@ P6 Year Head: Mrs Tan Hwee Min <br>
   </tr>
   <tr>
     <td class="tg-imuo">2 Kindness</td>
-    <td class="tg-imuo">Mrs Beth See / Ms Elga Tan</td>
+    <td class="tg-imuo">Mr Erman Lim Chong Ping</td>
     <td class="tg-imuo">Mdm Fang Yunna</td>
   </tr>
   <tr>
@@ -203,10 +203,21 @@ P6 Year Head: Mrs Tan Hwee Min <br>
     <td class="tg-imuo">Mrs Lynn Lim-Chng</td>
 		<td class="tg-a6j4">Mdm Mageswari Naidu</td></tbody>
 	
-| Teacher | Subject |  |
+| Teacher | Subject | |
 | -------- | -------- | -------- |
-| Text     | Text     |    |
-
+| Mrs Ghana    | English Language     |   |
+| Mr Keith Tan     | English Language     |   |
+| Miss Soumini Nair    | English Language and Mathematics     |   |	
+| Mr Enrico Tong    | Mathematics     |   |
+| Mdm Razinah     | Mathematics     |   |
+| Mr Enrico Tong    | Mathematics     |   |
+| Mrs Jessie Wong     | Mathematics     |   |
+| Mdm Razinah     | Mathematics     |   |
+| Ms Tan Moh   | Chinese Language     |   |
+| Mrs Sarojah Raj     | Tamil Language     |   |
+| Mdm Jennie Teo    | Art     |   |
+| Mr Joseph Chan  | Physical Education     |   |
+| Mdm Michelle Tan     | Social Studies     |   |
 
 		
   </tr></tbody>
