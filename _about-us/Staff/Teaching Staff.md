@@ -202,23 +202,65 @@ P6 Year Head: Mrs Tan Hwee Min <br>
     <td class="tg-imuo">6 Joy</td>
     <td class="tg-imuo">Mrs Lynn Lim-Chng</td>
 		<td class="tg-a6j4">Mdm Mageswari Naidu</td></tbody>
-	
-| Teacher | Subject | |
-| -------- | -------- | -------- |
-| Mrs Ghana    | English Language     |   |
-| Mr Keith Tan     | English Language     |   |
-| Miss Soumini Nair    | English Language and Mathematics     |   |	
-| Mr Enrico Tong    | Mathematics     |   |
-| Mdm Razinah     | Mathematics     |   |
-| Mr Enrico Tong    | Mathematics     |   |
-| Mrs Jessie Wong     | Mathematics     |   |
-| Mdm Razinah     | Mathematics     |   |
-| Mdm Chua Siew Beng  | Chinese Language     |   |
-| Ms Tan Moh   | Chinese Language     |   |
-| Mrs Sarojah Raj     | Tamil Language     |   |
-| Mdm Jennie Teo    | Art     |   |
-| Mr Joseph Chan  | Physical Education     |   |
-| Mdm Michelle Tan     | Social Studies     |   |
 
-		
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-imuo{background-color:#FFF;color:#58595B;text-align:center;vertical-align:top}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Staff Name</span></td>
+    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Subjects </span></td>
+  </tr>
+  <tr>
+    <td class="tg-imuo"><span style="font-weight:normal">Mrs Ghana</span></td>
+    <td class="tg-imuo"><span style="font-weight:normal">English Language</span></td>
+  </tr>
+	 <tr>
+    <td class="tg-imuo"><span style="font-weight:normal">Mr Keith Tan</span></td>
+    <td class="tg-imuo"><span style="font-weight:normal">English Language</span></td>
+  </tr> <tr>
+    <td class="tg-imuo"><span style="font-weight:normal">Miss Soumini Nair</span></td>
+    <td class="tg-imuo"><span style="font-weight:normal">English Language and Mathematics</span></td>
+  </tr> <tr>
+    <td class="tg-imuo"><span style="font-weight:normal">Mr Enrico Tong</span></td>
+    <td class="tg-imuo"><span style="font-weight:normal">Mathematics</span></td>
+  </tr> <tr>
+    <td class="tg-imuo"><span style="font-weight:normal">Mrs Jessie Wong</span></td>
+    <td class="tg-imuo"><span style="font-weight:normal">Mathematics</span></td>
+  </tr> <tr>
+    <td class="tg-imuo"><span style="font-weight:normal">Mdm Razinah</span></td>
+    <td class="tg-imuo"><span style="font-weight:normal">Mathematics</span></td>
+  </tr><tr>
+    <td class="tg-imuo"><span style="font-weight:normal">Mr Wee Chong Cheut</span></td>
+    <td class="tg-imuo"><span style="font-weight:normal">Mathematics</span></td>
+  </tr> <tr>
+    <td class="tg-imuo"><span style="font-weight:normal">Mdm Chua Siew Beng</span></td>
+    <td class="tg-imuo"><span style="font-weight:normal">Chinese Language</span></td>
+  </tr>
+	 <tr>
+    <td class="tg-imuo"><span style="font-weight:normal">Miss Tan Moh</span></td>
+    <td class="tg-imuo"><span style="font-weight:normal">Chinese Language</span></td>
+  </tr>
+	 <tr>
+    <td class="tg-imuo"><span style="font-weight:normal">Mrs Sarojah Raj</span></td>
+    <td class="tg-imuo"><span style="font-weight:normal">Tamil Language</span></td>
+  </tr> <tr>
+    <td class="tg-imuo"><span style="font-weight:normal">Mdm Jennie Teo</span></td>
+    <td class="tg-imuo"><span style="font-weight:normal">Art</span></td>
+  </tr> <tr>
+    <td class="tg-imuo"><span style="font-weight:normal">Mr Joseph Chan</span></td>
+    <td class="tg-imuo"><span style="font-weight:normal">Physical Education</span></td>
+  </tr> <tr>
+    <td class="tg-imuo"><span style="font-weight:normal">Mdm Michelle Tan</span></td>
+    <td class="tg-imuo"><span style="font-weight:normal">Social Studies</span></td>
+  </tr>
+	
   </tr></tbody>
