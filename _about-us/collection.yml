@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Staff/Executive & Administration Staff.md
       - Staff/School Management Committee.md
       - Staff/.keep
       - Principal's Message.md
