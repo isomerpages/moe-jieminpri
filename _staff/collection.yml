@@ -2,7 +2,6 @@ collections:
   staff:
     output: true
     order:
-      - Primary 1 Teachers.md
       - Primary 2 Teachers.md
       - Primary 3 Teachers.md
       - Primary 4 Teachers.md
