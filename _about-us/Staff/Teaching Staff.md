@@ -4,7 +4,6 @@ permalink: /about-us/staff/teaching-staff/
 description: ""
 third_nav_title: Staff
 ---
-
 P1 Year Head: Mdm Jayasree <br>
 P2 Year Head: Mdm Hartini <br>
 P2 Assistant Year Head: Mdm Norhayati <br>
@@ -214,6 +213,7 @@ P6 Year Head: Mrs Tan Hwee Min <br>
 | Mr Enrico Tong    | Mathematics     |   |
 | Mrs Jessie Wong     | Mathematics     |   |
 | Mdm Razinah     | Mathematics     |   |
+| Mdm Chua Siew Beng  | Chinese Language     |   |
 | Ms Tan Moh   | Chinese Language     |   |
 | Mrs Sarojah Raj     | Tamil Language     |   |
 | Mdm Jennie Teo    | Art     |   |
