@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Staff/Primary 3 Teachers.md
       - Staff/Primary 2 Teachers.md
       - Staff/Primary 1 Teachers.md
       - Staff/.keep
