@@ -201,5 +201,12 @@ P6 Year Head: Mrs Tan Hwee Min <br>
   <tr>
     <td class="tg-imuo">6 Joy</td>
     <td class="tg-imuo">Mrs Lynn Lim-Chng</td>
-    <td class="tg-a6j4">Mdm Mageswari Naidu</td>
+		<td class="tg-a6j4">Mdm Mageswari Naidu</td></tbody>
+	
+| Teacher | Subject |  |
+| -------- | -------- | -------- |
+| Text     | Text     |    |
+
+
+		
   </tr></tbody>
