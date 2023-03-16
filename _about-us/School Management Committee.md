@@ -50,44 +50,44 @@ description: ""
     <td class="tg-a6j4">HOD Mathematics</td>
   </tr>
   <tr>
-    <td class="tg-a6j4">Ms Sherly Lim</td>
+    <td class="tg-a6j4">Mdm Christy Sia</td>
+    <td class="tg-a6j4">HOD Mother Tongue Languages</td>
+  </tr>
+  <tr>
+    <td class="tg-a6j4">Miss Sherly Lim</td>
     <td class="tg-a6j4">HOD Science</td>
   </tr>
   <tr>
     <td class="tg-a6j4">Mr Lee Sze Yong</td>
-    <td class="tg-a6j4">HOD ICT</td>
+    <td class="tg-a6j4">HOD Information Communication & Technology</td>
   </tr>
   <tr>
-    <td class="tg-a6j4">Mr Desmond Seah</td>
-    <td class="tg-a6j4">HOD Aesthetics</td>
+    <td class="tg-a6j4">Mdm Anne Koh</td>
+    <td class="tg-a6j4">HOD Physical Education, Art and Music</td>
   </tr>
   <tr>
-    <td class="tg-a6j4">Mr Wee Chong Cheut</td>
-    <td class="tg-a6j4">HOD Discipline</td>
+    <td class="tg-imuo">Mr Ravindran Kanna </td>
+    <td class="tg-a6j4">HOD Character & Citizenship Education</td>
   </tr>
   <tr>
-    <td class="tg-imuo">Mdm Christy Sia  </td>
-    <td class="tg-a6j4">HOD Mother Tongue Languages</td>
-  </tr>
-  <tr>
-    <td class="tg-a6j4">Mr Ravindran Kanna </td>
-    <td class="tg-a6j4"> HOD Character &amp; Citizenship</td>
+    <td class="tg-a6j4">Mr Wee Chong Cheut </td>
+    <td class="tg-a6j4"> HOD Discipline</td>
   </tr>
   <tr>
     <td class="tg-a6j4">Mdm Jayasree d/o K N Unnithan</td>
-    <td class="tg-a6j4">Year Head P1 - P2</td>
+    <td class="tg-a6j4">Year Head P1</td>
+  </tr>
+	 <tr>
+    <td class="tg-a6j4">Mdm Hartini Abdullah</td>
+    <td class="tg-a6j4">Year Head P2</td>
   </tr>
   <tr>
     <td class="tg-a6j4">Mdm Mas'linda Bte Mas'od</td>
-    <td class="tg-a6j4">Year Head P3 - P4</td>
+    <td class="tg-a6j4">Year Head P3</td>
   </tr>
   <tr>
     <td class="tg-a6j4">Mrs Tan Hwee Min<br></td>
-    <td class="tg-a6j4">Year Head P5 - P6</td>
-  </tr>
-  <tr>
-    <td class="tg-imuo">Mr Lim Tee Wui</td>
-    <td class="tg-a6j4">Subject Head - CCA</td>
+    <td class="tg-a6j4">Year Head P6</td>
   </tr>
   <tr>
     <td class="tg-a6j4">Mdm Shoba d/o Cummar</td>
@@ -98,23 +98,34 @@ description: ""
     <td class="tg-a6j4">Level Head - Mathematics</td>
   </tr>
   <tr>
-    <td class="tg-a6j4"> Ms Sarah Wong</td>
-    <td class="tg-a6j4"> Level Head - Character &amp; Citizenship</td>
+    <td class="tg-imuo">Miss Goh Chuin Pei</td>
+    <td class="tg-a6j4">Level Head / Chinese Language</td>
+  </tr> 
+	<tr>
+    <td class="tg-a6j4"> Mdm Sarah Wong</td>
+    <td class="tg-a6j4"> Level Head - Character &amp; Citizenship Education</td>
   </tr>
-  <tr>
-    <td class="tg-a6j4">Mr Damodaran Prabaharan</td>
-    <td class="tg-a6j4">Assistant Year Head - P6</td>
+ <tr>
+    <td class="tg-imuo">Mr Lim Tee Wui</td>
+    <td class="tg-a6j4">Subject Head - Co-Curricular Activities</td>
+  </tr>
+	  <tr>
+    <td class="tg-imuo">Mr Gion Pee</td>
+    <td class="tg-a6j4">Subject Head - Information Communication and Technology</td>
   </tr>
   <tr>
     <td class="tg-a6j4">Mdm Norhayati Bte Mohd Ansari</td>
-    <td class="tg-a6j4">Assistant Year Head - P1</td>
+    <td class="tg-a6j4">Assistant Year Head - P2</td>
   </tr>
-  <tr>
-    <td class="tg-imuo">Miss Lynn Chng</td>
-    <td class="tg-a6j4">Senior Teacher / English Language</td>
+	<tr>
+    <td class="tg-a6j4">Ms Kwan Yee Ching</td>
+    <td class="tg-a6j4">Assistant Year Head - P4</td>
   </tr>
-  <tr>
-    <td class="tg-imuo">Miss Harjit Kaur</td>
+	<tr>
+    <td class="tg-a6j4">Mr Damodaran Prabaharan</td>
+    <td class="tg-a6j4">Assistant Year Head - P5</td>
+  </tr> <tr>
+    <td class="tg-imuo">Mrs Lynn Lim</td>
     <td class="tg-a6j4">Senior Teacher / English Language</td>
   </tr>
   <tr>
@@ -122,20 +133,12 @@ description: ""
     <td class="tg-a6j4">Senior Teacher / Malay Language</td>
   </tr>
   <tr>
-    <td class="tg-a6j4">Mdm Susan Koh</td>
-    <td class="tg-a6j4">Senior Teacher / Science</td>
-  </tr>
-  <tr>
     <td class="tg-a6j4">Mrs Shirley Lee</td>
     <td class="tg-a6j4">Senior Teacher / Chinese Language</td>
   </tr>
   <tr>
-    <td class="tg-a6j4"> Ms Sharmaine Tan</td>
-    <td class="tg-a6j4">Senior Teacher / Mathematics </td>
-  </tr>
-  <tr>
-    <td class="tg-a6j4">Mr Choo Ching Hoi</td>
-    <td class="tg-a6j4">Operations Manager</td>
+    <td class="tg-a6j4"> Mr Desmond Seah</td>
+    <td class="tg-a6j4">Senior Teacher / Music </td>
   </tr>
   <tr>
     <td class="tg-a6j4">Ms Linda Yeo Mui Lan</td>
