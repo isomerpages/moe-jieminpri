@@ -4,9 +4,7 @@ permalink: /about-us/staff/teachers/
 description: ""
 third_nav_title: Staff
 ---
-
-
-**Year Head: Mdm Jayasree**
+**P1 Year Head: Mdm Jayasree**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -27,38 +25,39 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-imuo">1 Care</td>
-    <td class="tg-imuo">Mdm Phillips Marion Jean</td>
-    <td class="tg-a6j4">Mdm Aswati Shariff<br></td>
+    <td class="tg-imuo"><a href=mailto:“rachel_mah_ying_hui@schools.gov.sg”>Miss Rachel Mah Ying Hui</a></td>
+    <td class="tg-a6j4">Mdm Udiana Jamalludin<br></td>
   </tr>
   <tr>
     <td class="tg-imuo">1 Diligence</td>
-    <td class="tg-imuo">Mdm Sulastry Saiman</td>
-    <td class="tg-a6j4">Mdm Fang Yunna<br></td>
+    <td class="tg-imuo">Mdm Charlotte Aw</td>
+    <td class="tg-a6j4">Mdm Misbannisha<br></td>
   </tr>
   <tr>
     <td class="tg-imuo">1 Grace</td>
-    <td class="tg-imuo">Mdm Sumathi Supramaniam</td>
-    <td class="tg-a6j4">Ms Siow Ai Chiun</td>
+    <td class="tg-imuo">Mdm Loh Wan Teng</td>
+    <td class="tg-a6j4">Mdm Aswati bte Md Shariff</td>
   </tr>
   <tr>
     <td class="tg-imuo">1 Honesty</td>
-    <td class="tg-imuo">Mr Ronald Chai</td>
-    <td class="tg-imuo"><span style="background-color:initial">Mrs Grace Tan</span></td>
+    <td class="tg-imuo">Mdm Esther Chuah</td>
+    <td class="tg-imuo"><span style="background-color:initial">Mdm Arfah bte Arshad</span></td>
   </tr>
   <tr>
     <td class="tg-imuo">1 Joy</td>
-    <td class="tg-imuo">Miss Tan Pin Jen<br></td>
-    <td class="tg-a6j4">Mr Tan Chian Loong</td>
+    <td class="tg-imuo">Miss Erni Suzanah<br></td>
+    <td class="tg-a6j4">Mdm Christy Sia</td>
   </tr>
   <tr>
     <td class="tg-imuo">1 Kindness</td>
-    <td class="tg-imuo">Miss Elga Tan</td>
-    <td class="tg-a6j4">Mdm Arfah</td>
+    <td class="tg-imuo">Mdm Diana Chan</td>
+    <td class="tg-a6j4">Mrs Shirley Lee</td>
   </tr>
-  <tr>
+ </tbody>
+	
+	 <tr>
     <td class="tg-a6j4">1 Respect </td>
     <td class="tg-a6j4"> Mdm Zahirah Raihan</td>
     <td class="tg-a6j4">Mrs Beth See</td>
   </tr>
-</tbody>
 </table>
