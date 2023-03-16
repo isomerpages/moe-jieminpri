@@ -54,7 +54,6 @@ P1 Year Head: Mdm Jayasree
   </tr>
  </tbody>
 	
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -107,7 +106,7 @@ P1 Year Head: Mdm Jayasree
     <td class="tg-a6j4">Mdm Zahirah bte Raihan</td>
     <td class="tg-a6j4">Mrs Grace Tan <br></td>
   </tr>
-</tbody>
+</tbody><br>
 P2 Year Head: Mdm Hartini Abdullah
 <br>
 	P2 Asst Year Head: Mdm Norhayati M Ansari
@@ -159,7 +158,7 @@ P2 Year Head: Mdm Hartini Abdullah
     <td class="tg-imuo">Mdm Norliza bte Abdullah</td>
   </tr>
 
-</tbody>
+</tbody><br>
 P3 Year Head: Mdm Mas'linda bte Mas'od
 	<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -191,21 +190,114 @@ P3 Year Head: Mdm Mas'linda bte Mas'od
   <tr>
     <td class="tg-imuo">4 Grace</td>
     <td class="tg-a6j4">Mr Gary Lim</td>
-    <td class="tg-a6j4">Miss Goh Chuin Pei<br></td>
+    <td class="tg-a6j4">Mrs Shoba Michael<br></td>
   </tr>
   <tr>
-    <td class="tg-imuo">3 Honesty</td>
-    <td class="tg-imuo">Miss Tan Kun Lan</td>
-    <td class="tg-a6j4">Mdm Petrina Raymond</td>
+    <td class="tg-imuo">4 Honesty</td>
+    <td class="tg-imuo">Miss Angelina Tan</td>
+    <td class="tg-a6j4">Mr Gion Pee</td>
   </tr>
   <tr>
-    <td class="tg-imuo">3 Joy</td>
-    <td class="tg-imuo">Mdm Samantha Sim</td>
-    <td class="tg-a6j4">Mrs Bernard</td>
-  </tr>
+    <td class="tg-imuo">4 Joy</td>
+    <td class="tg-imuo">Mrs Kalpana Jason</td>
+    <td class="tg-a6j4">Mdm Muliana bte Mohamad</td>
+  </tr><br>
  
 P4 Assistant Year Head: Ms Kwan Yee Ching
-
+	<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-imuo{background-color:#FFF;color:#58595B;text-align:center;vertical-align:top}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a6j4{background-color:#FFF;color:#58595B;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-a4yv">Class</td>
+    <td class="tg-a4yv">Form Teacher</td>
+    <td class="tg-a4yv">Co-Form Teacher</td>
+  </tr>
+  <tr>
+    <td class="tg-imuo">5 Care</td>
+    <td class="tg-a6j4">Mrs Sharon Wong</td>
+    <td class="tg-imuo">Mr Leow Boon Tat</td>
+  </tr>
+  <tr>
+    <td class="tg-imuo">5 Diligence</td>
+    <td class="tg-imuo">Mr Shahul Hamid</td>
+    <td class="tg-imuo">Mrs Adrienne Lye</td>
+  </tr>
+  <tr>
+    <td class="tg-imuo">5 Grace</td>
+    <td class="tg-a6j4">Mr Muhd Firdaus bin Jamil</td>
+    <td class="tg-a6j4">Mdm Charmaine Woo<br></td>
+  </tr>
+  <tr>
+    <td class="tg-imuo">5 Honesty</td>
+    <td class="tg-imuo">Mr Zhuo Guanlin</td>
+    <td class="tg-a6j4">Miss Harjit Kaur</td>
+  </tr>
+  <tr>
+    <td class="tg-imuo">5 Joy</td>
+    <td class="tg-imuo">Mdm Magdalene Yeo</td>
+    <td class="tg-a6j4">Mr Lim Tee Wui</td>
+  </tr>
+<tr>
+    <td class="tg-imuo">5 Kindness</td>
+    <td class="tg-imuo">Miss Aliya Maisarah Suhadar</td>
+    <td class="tg-a6j4">Mrs Lim-Yap Siew Ching</td>
+  </tr><br>
+	P5 Asst Year Head: Mr Damodaran Prabaharan
+	<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-imuo{background-color:#FFF;color:#58595B;text-align:center;vertical-align:top}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a6j4{background-color:#FFF;color:#58595B;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-a4yv">Class</td>
+    <td class="tg-a4yv">Form Teacher</td>
+    <td class="tg-a4yv">Co-Form Teacher</td>
+  </tr>
+  <tr>
+    <td class="tg-imuo">6 Care</td>
+    <td class="tg-a6j4">Mrs Bok-Tay Bee Lian</td>
+    <td class="tg-imuo">Mr Lee Sze Yong</td>
+  </tr>
+  <tr>
+    <td class="tg-imuo">6 Diligence</td>
+    <td class="tg-imuo">Miss Surya Parvathy Pillai</td>
+    <td class="tg-imuo">Miss Joanne Lim</td>
+  </tr>
+  <tr>
+    <td class="tg-imuo">6 Grace</td>
+    <td class="tg-a6j4">Mrs Tanuja Suraj</td>
+    <td class="tg-a6j4">Mr David Tan<br></td>
+  </tr>
+  <tr>
+    <td class="tg-imuo">6 Honesty</td>
+    <td class="tg-imuo">Mdm Joyce Cheng</td>
+    <td class="tg-a6j4">Mr Muhd Faizrin bin Hashim</td>
+  </tr>
+  <tr>
+    <td class="tg-imuo">6 Joy</td>
+    <td class="tg-imuo">Mrs Lynn Lim-Chng</td>
+    <td class="tg-a6j4">Mdm Mageswari Naidu</td>
+  </tr>
+<br>
+	P6 Year Head: Mrs Tan Hwee Min
+	
+	
 	
 	
 </table>
