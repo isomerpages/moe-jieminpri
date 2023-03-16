@@ -17,7 +17,7 @@ third_nav_title: Staff
 <tbody>
   <tr>
     <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Staff Name</span></td>
-    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Programme</span></td>
+    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Programme / Role</span></td>
   </tr>
   <tr>
     <td class="tg-imuo"><span style="font-weight:normal">Mdm Arfah bte Arshad</span><br><span style="font-weight:normal">Mrs Grace Tan Chee Beng</span></td>
