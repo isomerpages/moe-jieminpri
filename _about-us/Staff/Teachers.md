@@ -4,7 +4,7 @@ permalink: /about-us/staff/teachers/
 description: ""
 third_nav_title: Staff
 ---
-**P1 Year Head: Mdm Jayasree**
+P1 Year Head: Mdm Jayasree
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -24,7 +24,7 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-imuo">1 Care</td>
-    <td class="tg-imuo"><a href=mailto:“rachel_mah_ying_hui@schools.gov.sg”>Miss Rachel Mah Ying Hui</a></td>
+    <td class="tg-imuo">Miss Rachel Mah Ying Hui</td>
     <td class="tg-a6j4">Mdm Udiana Jamalludin<br></td>
   </tr>
   <tr>
@@ -209,6 +209,7 @@ P3 Year Head: Mdm Mas'linda bte Mas'od
     <td class="tg-imuo">Mdm Norliza bte Abdullah</td>
   </tr>
 P4 Assistant Year Head: Ms Kwan Yee Ching
+
 	
 	
 </table>
