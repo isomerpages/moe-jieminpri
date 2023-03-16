@@ -4,13 +4,6 @@ permalink: /about-us/executive-and-administration-staff/
 description: ""
 third_nav_title: Staff
 ---
-
-**Strategic Outcomes:**  
-
-1.  EAS Achieving Admin Excellence
-2.  EAS Achieving Service Excellence
-3.  Fostering a Positive Work Environment
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -41,6 +34,10 @@ third_nav_title: Staff
     <td class="tg-vqji">Mr Choo Ching Hoi</td>
     <td class="tg-vqji">Operations Manager</td>
   </tr>
+	 <tr>
+    <td class="tg-vqji">Mdm Dewi Hartini</td>
+    <td class="tg-vqji">Information Communication & Technology Manager</td>
+  </tr>
   <tr>
     <td class="tg-vqji">Mdm Haslindawati Karim<br></td>
     <td class="tg-vqji">Administrative Executive</td>
@@ -70,7 +67,7 @@ third_nav_title: Staff
     <td class="tg-vqji">Desktop Engineer</td>
   </tr>
   <tr>
-    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">Mr Syakir</span></td>
+    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">Ms Nodiana Bte Mohd Yeari</span></td>
     <td class="tg-vqji">Desktop Engineer</td>
   </tr>
   <tr>
