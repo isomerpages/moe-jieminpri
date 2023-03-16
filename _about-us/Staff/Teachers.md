@@ -263,7 +263,6 @@ P4 Assistant Year Head: Ms Kwan Yee Ching
 .tg .tg-a6j4{background-color:#FFF;color:#58595B;text-align:center;vertical-align:middle}
 </style>
 </tbody></table><br>
-	P6 Year Head: Mrs Tan Hwee Min
 	<title>Table Example</title><table class="tg">
 <tbody>
   <tr>
@@ -295,5 +294,12 @@ P4 Assistant Year Head: Ms Kwan Yee Ching
     <td class="tg-imuo">6 Joy</td>
     <td class="tg-imuo">Mrs Lynn Lim-Chng</td>
     <td class="tg-a6j4">Mdm Mageswari Naidu</td>
-  </tr>
+  </tr><br>
+	P6 Year Head: Mrs Tan Hwee Min
+
+| Teacher | Subject|  |
+| -------- | -------- | -------- |
+| Text     | Text     |
+| Text     | Text     |
+
 	</tbody></table>
