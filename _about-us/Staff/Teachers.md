@@ -4,7 +4,13 @@ permalink: /about-us/staff/teachers/
 description: ""
 third_nav_title: Staff
 ---
-P1 Year Head: Mdm Jayasree
+P1 Year Head: Mdm Jayasree <br>
+P2 Year Head: Mdm Hartini <br>
+P2 Assistant Year Head: Mdm Norhayati <br>
+P3 Year Head: Mdm Mas'linda <br>
+P4 Assistant Year Head: Miss Kwan Yee Ching <br>
+P5 Assistant Year Head: Mr Damodaran Prabaharan <br>
+P6 Year Head: Mrs Tan Hwee Min <br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -52,29 +58,6 @@ P1 Year Head: Mdm Jayasree
     <td class="tg-imuo">Mdm Diana Chan</td>
     <td class="tg-a6j4">Mrs Shirley Lee</td>
   </tr>
- </tbody>
-	
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-imuo{background-color:#FFF;color:#58595B;text-align:center;vertical-align:top}
-.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-a6j4{background-color:#FFF;color:#58595B;text-align:center;vertical-align:middle}
-</style>
-</table><br>
-P2 Year Head: Mdm Hartini Abdullah
-<br>
-	P2 Asst Year Head: Mdm Norhayati M Ansari
-	<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-a4yv">Class</td>
-    <td class="tg-a4yv">Form Teacher</td>
-    <td class="tg-a4yv">Co-Form Teacher</td>
-  </tr>
   <tr>
     <td class="tg-imuo">2 Care</td>
     <td class="tg-a6j4">Mdm Phillips Marion Jean</td>
@@ -110,26 +93,7 @@ P2 Year Head: Mdm Hartini Abdullah
     <td class="tg-a6j4">Mdm Zahirah bte Raihan</td>
     <td class="tg-a6j4">Mrs Grace Tan <br></td>
   </tr>
-</tbody><style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-imuo{background-color:#FFF;color:#58595B;text-align:center;vertical-align:top}
-.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-a6j4{background-color:#FFF;color:#58595B;text-align:center;vertical-align:middle}
-</style>
-</table><br>
-P3 Year Head: Mdm Mas'linda bte Mas'od
-	<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-a4yv">Class</td>
-    <td class="tg-a4yv">Form Teacher</td>
-    <td class="tg-a4yv">Co-Form Teacher</td>
-  </tr>
-  <tr>
+	 <tr>
     <td class="tg-imuo">3 Care</td>
     <td class="tg-a6j4">Mdm Joyce Shen</td>
     <td class="tg-imuo">Mdm Lau Xin Wei</td>
@@ -159,27 +123,6 @@ P3 Year Head: Mdm Mas'linda bte Mas'od
     <td class="tg-imuo">Mr Hilmi bin Samsuddin</td>
     <td class="tg-imuo">Mdm Norliza bte Abdullah</td>
   </tr>
-
-</tbody><style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-imuo{background-color:#FFF;color:#58595B;text-align:center;vertical-align:top}
-.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-a6j4{background-color:#FFF;color:#58595B;text-align:center;vertical-align:middle}
-</style>
-</table><br>
- 
-P4 Assistant Year Head: Ms Kwan Yee Ching
-	<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-a4yv">Class</td>
-    <td class="tg-a4yv">Form Teacher</td>
-    <td class="tg-a4yv">Co-Form Teacher</td>
-  </tr>
   <tr>
     <td class="tg-imuo">4 Care</td>
     <td class="tg-a6j4">Mr Desmond Seah</td>
@@ -204,26 +147,8 @@ P4 Assistant Year Head: Ms Kwan Yee Ching
     <td class="tg-imuo">4 Joy</td>
     <td class="tg-imuo">Mrs Kalpana Jason</td>
     <td class="tg-a6j4">Mdm Muliana bte Mohamad</td>
-  </tr><style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-imuo{background-color:#FFF;color:#58595B;text-align:center;vertical-align:top}
-.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-a6j4{background-color:#FFF;color:#58595B;text-align:center;vertical-align:middle}
-</style>
-</tbody></table><br>
-	P5 Asst Year Head: Mr Damodaran Prabaharan
-	<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-a4yv">Class</td>
-    <td class="tg-a4yv">Form Teacher</td>
-    <td class="tg-a4yv">Co-Form Teacher</td>
   </tr>
-  <tr>
+ <tr>
     <td class="tg-imuo">5 Care</td>
     <td class="tg-a6j4">Mrs Sharon Wong</td>
     <td class="tg-imuo">Mr Leow Boon Tat</td>
@@ -252,25 +177,8 @@ P4 Assistant Year Head: Ms Kwan Yee Ching
     <td class="tg-imuo">5 Kindness</td>
     <td class="tg-imuo">Miss Aliya Maisarah Suhadar</td>
     <td class="tg-a6j4">Mrs Lim-Yap Siew Ching</td>
-  </tr><style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-imuo{background-color:#FFF;color:#58595B;text-align:center;vertical-align:top}
-.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-a6j4{background-color:#FFF;color:#58595B;text-align:center;vertical-align:middle}
-</style>
-</tbody></table><br>
-	<title>Table Example</title><table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-a4yv">Class</td>
-    <td class="tg-a4yv">Form Teacher</td>
-    <td class="tg-a4yv">Co-Form Teacher</td>
   </tr>
-  <tr>
+	 <tr>
     <td class="tg-imuo">6 Care</td>
     <td class="tg-a6j4">Mrs Bok-Tay Bee Lian</td>
     <td class="tg-imuo">Mr Lee Sze Yong</td>
@@ -294,12 +202,4 @@ P4 Assistant Year Head: Ms Kwan Yee Ching
     <td class="tg-imuo">6 Joy</td>
     <td class="tg-imuo">Mrs Lynn Lim-Chng</td>
     <td class="tg-a6j4">Mdm Mageswari Naidu</td>
-  </tr><br>
-	P6 Year Head: Mrs Tan Hwee Min
-
-| Teacher | Subject|  |
-| -------- | -------- | -------- |
-| Text     | Text     |
-| Text     | Text     |
-
-	</tbody></table>
+  </tr></tbody>
