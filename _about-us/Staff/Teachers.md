@@ -64,7 +64,11 @@ P1 Year Head: Mdm Jayasree
 .tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-a6j4{background-color:#FFF;color:#58595B;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+</table><br>
+P2 Year Head: Mdm Hartini Abdullah
+<br>
+	P2 Asst Year Head: Mdm Norhayati M Ansari
+	<table class="tg">
 <tbody>
   <tr>
     <td class="tg-a4yv">Class</td>
@@ -106,11 +110,7 @@ P1 Year Head: Mdm Jayasree
     <td class="tg-a6j4">Mdm Zahirah bte Raihan</td>
     <td class="tg-a6j4">Mrs Grace Tan <br></td>
   </tr>
-</tbody><br>
-P2 Year Head: Mdm Hartini Abdullah
-<br>
-	P2 Asst Year Head: Mdm Norhayati M Ansari
-	<style type="text/css">
+</tbody><style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -120,7 +120,9 @@ P2 Year Head: Mdm Hartini Abdullah
 .tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-a6j4{background-color:#FFF;color:#58595B;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+</table><br>
+P3 Year Head: Mdm Mas'linda bte Mas'od
+	<table class="tg">
 <tbody>
   <tr>
     <td class="tg-a4yv">Class</td>
@@ -158,9 +160,7 @@ P2 Year Head: Mdm Hartini Abdullah
     <td class="tg-imuo">Mdm Norliza bte Abdullah</td>
   </tr>
 
-</tbody><br>
-P3 Year Head: Mdm Mas'linda bte Mas'od
-	<style type="text/css">
+</tbody><style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -170,7 +170,10 @@ P3 Year Head: Mdm Mas'linda bte Mas'od
 .tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-a6j4{background-color:#FFF;color:#58595B;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+</table><br>
+ 
+P4 Assistant Year Head: Ms Kwan Yee Ching
+	<table class="tg">
 <tbody>
   <tr>
     <td class="tg-a4yv">Class</td>
@@ -201,10 +204,7 @@ P3 Year Head: Mdm Mas'linda bte Mas'od
     <td class="tg-imuo">4 Joy</td>
     <td class="tg-imuo">Mrs Kalpana Jason</td>
     <td class="tg-a6j4">Mdm Muliana bte Mohamad</td>
-  </tr><br>
- 
-P4 Assistant Year Head: Ms Kwan Yee Ching
-	<style type="text/css">
+  </tr><style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -214,7 +214,9 @@ P4 Assistant Year Head: Ms Kwan Yee Ching
 .tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-a6j4{background-color:#FFF;color:#58595B;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+</tbody></table><br>
+	P5 Asst Year Head: Mr Damodaran Prabaharan
+	<table class="tg">
 <tbody>
   <tr>
     <td class="tg-a4yv">Class</td>
@@ -250,9 +252,7 @@ P4 Assistant Year Head: Ms Kwan Yee Ching
     <td class="tg-imuo">5 Kindness</td>
     <td class="tg-imuo">Miss Aliya Maisarah Suhadar</td>
     <td class="tg-a6j4">Mrs Lim-Yap Siew Ching</td>
-  </tr><br>
-	P5 Asst Year Head: Mr Damodaran Prabaharan
-	<style type="text/css">
+  </tr><style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -262,7 +262,9 @@ P4 Assistant Year Head: Ms Kwan Yee Ching
 .tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-a6j4{background-color:#FFF;color:#58595B;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+</tbody></table><br>
+	P6 Year Head: Mrs Tan Hwee Min
+	<title>Table Example</title><table class="tg">
 <tbody>
   <tr>
     <td class="tg-a4yv">Class</td>
@@ -294,10 +296,64 @@ P4 Assistant Year Head: Ms Kwan Yee Ching
     <td class="tg-imuo">Mrs Lynn Lim-Chng</td>
     <td class="tg-a6j4">Mdm Mageswari Naidu</td>
   </tr>
-<br>
-	P6 Year Head: Mrs Tan Hwee Min
+  
+	 
+		  
+	 
+	 
+	</tbody></table>Subject Teachers
+	<table>     
+		<tbody><tr> 
+		<th>Teacher</th> 
+		<th>Subject</th>
+	</tr>
+	<tr>
+		<td>Mrs Ghana</td>
+		<td>English Language </td> 
+	</tr> 
+<tr>
+		<td>Mr Keith Tan</td>
+		<td>English Language </td> 
+</tr> 
+	<tr>
+		<td>Ms Soumini Nair</td>
+		<td>English Language <br> Mathematics </td> 
+	</tr><tr>
+		<td>Mr Enrico Tong</td>
+		<td>Mathematics </td> 
+	</tr> 
+			<tr>
+		<td>Mrs Jessie Wong</td>
+		<td>Mathematics </td> 
+	</tr>
+<tr>
+		<td>Mdm Razinah</td>
+		<td>Mathematics </td> 
+	</tr> 
+<tr>
+		<td>Ms Tan Moh</td>
+		<td>Chinese Language </td> 
+	</tr> 
+	<tr>
+		<td>Mrs Saroraj Raj</td>
+		<td>Tamil Language </td> 
+	</tr> 
+	<tr>
+		<td>Mdm Jennie Teo</td>
+		<td>Art </td> 
+	</tr> 
+<tr>
+		<td>Mr Joseph Chan</td>
+		<td>Physical Education </td> 
+	</tr> 
+<tr>
+		<td>Mdm Michelle Tan</td>
+		<td>Social Studies </td> 
+	</tr> 
+	</tbody></table>  
+	
+		
+
+
 	
 	
-	
-	
-</table>
