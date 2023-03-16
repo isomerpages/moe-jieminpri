@@ -203,11 +203,7 @@ P3 Year Head: Mdm Mas'linda bte Mas'od
     <td class="tg-imuo">Mdm Samantha Sim</td>
     <td class="tg-a6j4">Mrs Bernard</td>
   </tr>
-  <tr>
-    <td class="tg-imuo">3 Kindness</td>
-    <td class="tg-imuo">Mr Hilmi bin Samsuddin</td>
-    <td class="tg-imuo">Mdm Norliza bte Abdullah</td>
-  </tr>
+ 
 P4 Assistant Year Head: Ms Kwan Yee Ching
 
 	
