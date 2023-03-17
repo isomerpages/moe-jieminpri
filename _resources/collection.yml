@@ -2,12 +2,12 @@ collections:
   resources:
     output: true
     order:
-      - Students/Useful Links.md
+      - Students/.keep
       - Students/School Library.md
       - Students/e News.md
       - Students/Online Encyclopedia.md
       - Students/Student iCON Onboarding.md
-      - Students/.keep
+      - Students/Useful Links.md
       - Staff/.keep
       - Staff/Useful Links.md
       - Staff/Counselling & Special Needs @ JPS.md
