@@ -7,7 +7,8 @@ third_nav_title: Clubs
 **CCA Teachers:**    
 Ms Low Wan Teng    
 Mdm Aster He   
-Mdm Sumathi   
+Mdm Sumathi <br>
+Mrs Kalpana Jason
 
 
 ### Vision
@@ -27,7 +28,3 @@ To provide every pupil with an Art education that unlocks and nurtures his artis
 ![](/images/sandart1.jpeg)
 ![](/images/sandart2.jpeg)
 ![](/images/sandart3.jpeg)
-
-
-
-
