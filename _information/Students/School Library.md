@@ -8,9 +8,8 @@ Welcome to the School Library! 
 
 ![](/images/A%20Library%20-%20Welcome.jpeg)
 
-**(insert images here)**
 
-There are new books waiting for you to borrow them home:  
+There are new books waiting for you to borrow them home!
 
 #### Check out these new titles:
 
@@ -139,5 +138,5 @@ Want to read and learn more? Quench your thirst for knowledge by accessing these
 *   Videos
 
 **Accessing OPAC**  
-Your login would be your Student ID number, all capitalised.  E.g.  <strong><u>T</u></strong>1234567<strong><u>A</u></strong>     
+Your login would be your Student ID number, all capital letters.  E.g.  <strong><u>T</u></strong>1234567<strong><u>A</u></strong>     
 Please visit the library to find out what the default password is. You will be prompted to change your password the first time you log in successfully.
