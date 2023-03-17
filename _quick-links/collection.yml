@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - For Parents/.keep
       - For Students/.keep
       - For Students/School Library.md
       - For Students/e News.md
