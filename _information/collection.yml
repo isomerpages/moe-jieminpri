@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Counselling & Special Needs @ JPS.md
       - For Parents/.keep
       - For Parents/Circulars and Resources.md
       - For Parents/Sexuality Education.md
