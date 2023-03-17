@@ -2,11 +2,11 @@ collections:
   quick-links:
     output: true
     order:
+      - For Parents/.keep
+      - For Parents/For Parents.md
       - For Parents/Haze Management measures.md
       - For Parents/Sexuality Education.md
       - For Parents/PSLE.md
-      - For Parents/For Parents.md
-      - For Parents/.keep
       - For Students/.keep
       - For Students/School Library.md
       - For Students/e News.md
