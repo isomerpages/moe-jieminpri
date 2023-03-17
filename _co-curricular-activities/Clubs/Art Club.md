@@ -14,6 +14,11 @@ At the Art Club, the students develop the passion and skills in art, unlocking t
 
 ### Snapshots
 
+<img src="/images/CCA/Art%20Club/Art%20Club%201.png" 
+     style="width:65%">
+<img src="/images/CCA/Art%20Club/Art%20Club%202.png" 
+     style="width:65%">
+		 
 ![Art Club - Portrait](/images/CCA/Art%20Club/Art%20Club%201.png)
 ![Art Club - Digital Photography](/images/CCA/Art%20Club/Art%20Club%202.png)
 ![Art Club - Black and White Photography](/images/CCA/Art%20Club/Art%20Club%203.png)
