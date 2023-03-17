@@ -4,10 +4,8 @@ permalink: /information/students/student-icon/
 description: ""
 third_nav_title: Students
 ---
-![](/images/Student%20iCON%20-%20Student%20EDM%20Onboarding%20%20Introducing%20Student%20iCON.jpeg)
-
-
 ### Onboarding Guide
 
-Please read the onboarding guide to get started. [Student iCON Onboarding Guide.pdf](/files/Student%20iCON%20Onboarding%20Guide.pdf)     
-The default password for 2022 has been reset for all students. Please wait for instructions from your Form Teacher to login to Student iCON.
+Please read the onboarding guide to get started. 
+
+The default password for 2023 has been reset for all students. Your Form Teacher would have given you. Please approach your Form Teacher if you have forgotten your password. 
