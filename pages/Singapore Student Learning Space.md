@@ -163,7 +163,7 @@ Your account will be locked after 10 consecutive attempts to log in with an inco
   </tr>
   <tr>
     <td class="tg-mzni"><span style="font-weight:normal;color:#58595B"> </span></td>
-    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">SLS is accessible through internet browsers on either Windows PC, Mac, iPad or Android tablets. For a good user experience, tablets should have a screen size of at least 7 inches. However, a small number of resources may not work on tablets due to missing plugins. Currently, SLS is not fully optimised to display on mobile phones even though users can access the system and resources. The recommended operating systems and browsers are: <br><br><style type="text/css">
+    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">SLS is accessible through internet browsers on either Windows PC, Mac, iPad or Android tablets and mobile devices. <br> Due to the responsive nature of the site, the layout of the components on the website will appear differently on different devices. The recommended operating systems and browsers are: <br><style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -182,29 +182,29 @@ Your account will be locked after 10 consecutive attempts to log in with an inco
     <td class="tg-2r4h">Operating System</td>
     <td class="tg-2r4h">Browser</td>
   </tr>
-  <tr>
-    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">Microsoft Windows 7 SP1 and Windows 8.1</span></td>
-    <td class="tg-mzni">Google Chrome 64 and later</td>
-  </tr>
-  <tr>
+    <tr>
     <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">Microsoft Windows 10</span></td>
-    <td class="tg-mzni">Google Chrome 64 and later<br><br>Microsoft Edge 17 and later</td>
+    <td class="tg-mzni">Google Chrome 88 and later<br>Microsoft Edge 88 and later</td>
   </tr>
   <tr>
-    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">Mac OS X 10.9 and later</span></td>
-    <td class="tg-mzni">Safari 11 and later<br><br>Google Chrome 64 and later</td>
+    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">Mac OS 10.15 and later</span></td>
+    <td class="tg-mzni">Safari 14 and later<br>Google Chrome 88 and later</td>
+  </tr>
+	 <tr>
+    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">iPadOS 14 and later</span></td>
+    <td class="tg-mzni">Safari 14 and later<br>Google Chrome 88 and later</td>
   </tr>
   <tr>
-    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">iOS 11 and later</span></td>
-    <td class="tg-mzni">Safari 11 and later</td>
+    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">iOS 14 and later</span></td>
+    <td class="tg-mzni">Safari 14 and later <br>Google Chrome 88 and later</td>
   </tr>
   <tr>
-    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">Android 5 and later</span></td>
-    <td class="tg-mzni">Google Chrome 64 and later</td>
+    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">Android 10 and later</span></td>
+    <td class="tg-mzni">Google Chrome 88 and later</td>
   </tr>
   <tr>
-    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">ChromeOS</span></td>
-    <td class="tg-mzni">Google Chrome 64 and later</td>
+    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">ChromeOS 103 and later</span></td>
+    <td class="tg-mzni">Google Chrome 103 and later</td>
   </tr>
 </tbody>
 </table></span></td>
