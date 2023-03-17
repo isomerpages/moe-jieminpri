@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2cymvj5qla29a.amplifyapp.com/
 prod: https://master.d2cymvj5qla29a.amplifyapp.com/
-shareicon: /images/Design Elements/School Logo for Navigation Bar.png
+shareicon: /images/schoollogomin.jpeg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
