@@ -10,8 +10,7 @@ Mdm Aster He
 Mdm Sumathi <br>
 Mrs Kalpana Jason
 
-### Mission
-To provide every pupil with an Art education that unlocks and nurtures his artistic potential in a caring environment.
+At the Art Club, the students develop the passion and skills in art, unlocking their artistic potential in a caring environment.
 
 ### Snapshots
 
