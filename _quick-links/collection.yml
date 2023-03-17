@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - For Parents/For Parents.md
+      - For Parents/Information and Resources.md
       - For Parents/Haze Management measures.md
       - For Parents/Sexuality Education.md
       - For Students/.keep
