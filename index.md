@@ -15,8 +15,9 @@ sections:
       url: /announcements
   - infopic:
       title: Articles
-      subtitle: Jieminite Links
-      description: Catch Up with Us
+      subtitle: Jieminite Link
+      description: Learn about our latest happenings through our quarterly newsletter
+        Jieminite Link
       button: View More
       url: /information/parents#Jieminite_Links
       image: /images/jieminitelinkeg.png
