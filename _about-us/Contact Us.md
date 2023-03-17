@@ -32,4 +32,4 @@ Map from [OneMap](http://www.onemap.sg/)
 **Public Transport Amenities (Nearby)**
 
 *   Yishun MRT
-*   Bus Services - 167 , 169, 171, 800, 807, 811, 812, 856, 858, 859, 969, 980 (please check the bus stops' locations with SBS / SMRT)
+*   Bus Services - 167 , 169, 171, 800, 807, 811, 812, 856, 858, 859, 969, 980 (please check the locations of the bus stops with SBS / SMRT)
