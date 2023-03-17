@@ -2,7 +2,7 @@
 layout: homepage
 title: Jiemin Primary School
 description: An Isomer site of the Singapore Government
-image: /images/Design Elements/School Logo for Navigation Bar.png
+image: /images/schoollogomin.jpeg
 permalink: /
 notification: ""
 sections:
@@ -29,4 +29,5 @@ sections:
       button: View More
       url: /sls
 ---
+
 
