@@ -2,12 +2,12 @@ collections:
   quick-links:
     output: true
     order:
-      - Students/.keep
-      - Students/School Library.md
-      - Students/e News.md
-      - Students/Online Encyclopedia.md
-      - Students/Student iCON Onboarding.md
-      - Students/Useful Links.md
+      - For Students/.keep
+      - For Students/School Library.md
+      - For Students/e News.md
+      - For Students/Online Encyclopedia.md
+      - For Students/Student iCON Onboarding.md
+      - For Students/Useful Links.md
       - Staff/.keep
       - Staff/Useful Links.md
       - Staff/Counselling & Special Needs @ JPS.md
