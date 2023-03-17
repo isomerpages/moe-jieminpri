@@ -4,12 +4,12 @@ permalink: /information/students/e-news/
 description: ""
 third_nav_title: Students
 ---
+Want to know what's going around the world? Check out these news websites:
 *   [The Straits Times](http://www.straitstimes.com/)
-*   [The Electric New Paper](http://www.tnp.sg/)  
 *   [TODAY Online](http://www.todayonline.com/)
-*   [Business Times](http://www.businesstimes.com.sg/)  
 *   [Berita Harian](http://cyberita.asia1.com.sg/)
 *   [联合早报](http://www.zaobao.com.sg/)
+*   [早报校园](http://zbschools.sg/)
 *   [Tamil Murasu](http://tamilmurasu.com.sg/)
 *   [Channel NewsAsia](http://www.channelnewsasia.com/)
 *   [CNN.com](http://edition.cnn.com/)
