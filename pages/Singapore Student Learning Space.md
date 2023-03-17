@@ -3,24 +3,21 @@ title: Singapore Student Learning Space
 permalink: /sls/
 description: ""
 ---
+## What is SLS?
 
-## Introduction
+The Singapore Student Learning Space, or SLS, is MOE's core platform for teaching and learning and is one of MOE’s key initiatives to transform the learning experiences of Singaporean students through the purposeful use of technology to enable students to engage in different learning modes.
 
-As part of our commitment to nurture future-ready learners, all students in Singapore schools are supported in their learning by the Singapore Student Learning Space (SLS), an online learning platform that contains curriculum-aligned resources and learning tools.  
-
-
-With the SLS, students will be able to learn better through the use of technology.  Students will be able to learn anytime, anywhere, and at their own pace, whether independently or with their peers. Teachers will also be able to use the SLS to complement their classroom teaching, further enriching students’ learning experience. With the provision of SLS, our teachers aim to develop self-directed and collaborative learning in our students. 
-
-Below are some information to assist your child in resolving login issues. We will do our best to assist in resetting password and unlocking account which depends on the volume of requests as well as the accuracy of the information provided. We seek your understanding should it take longer than you expected.   
-
+By logging to SLS, Jieminites have access to curriculum-aligned resources. They can learn anytime, anywhere, and at their own pace. The SLS is also integral for our teachers to design lessons and curate digital resources.
 
 We look forward to your support as we help our students strengthen their learning through the SLS.
+
+Below are some of the common issues faced by students when logging in to SLS:
 
 
 #### LOGIN PROBLEMS
 
-**Forgot your user name**   
-A student’s SLS username comprises of the first five characters of his/her name followed by the last five characters of his/her NRIC/BC/FIN ID.
+**Forgetting username**   
+A student’s SLS username is made up of the first five characters of his/her name followed by the last five characters of his/her NRIC/BC/FIN ID.
 
 <center>
 <style type="text/css">
@@ -53,7 +50,7 @@ A student’s SLS username comprises of the first five characters of his/her nam
 </table>
 </center>
 
-**Forgot password**
+**Forgetting password**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
