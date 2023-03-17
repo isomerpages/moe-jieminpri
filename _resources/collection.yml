@@ -1,5 +1,5 @@
 collections:
-  information:
+  resources:
     output: true
     order:
       - Students/Useful Links.md
