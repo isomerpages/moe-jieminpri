@@ -111,6 +111,3 @@ description: ""
 </tbody>
 </table>
 </center>
-
-[2022 Iss 1](/files/Jieminite%20Link/Jieminite%20Link%202022%20Iss%201.pdf)
-[T2 2022](/files/Jieminite%20Link/Jieminite%20Link%20T2%202022%20Final.pdf)
