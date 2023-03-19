@@ -4,9 +4,7 @@ permalink: /information/for-parents/important-contacts-and-resources/
 description: ""
 third_nav_title: For Parents
 ---
-
-#### Quick Links for Parents
-
+#### Quick Links <br>
 <h5><a href="#Service_Providers">Service Providers</a><br>
 <a href="#Curriculum_Time">Curriculum Time</a><br>
 <a href="#Gate_Opening_Hours">Gate Opening Hours</a><br>
@@ -127,7 +125,7 @@ jmscc@nascans.com</td>
   <tr>
     <td class="tg-0bjf">Fri</td>
     <td class="tg-0bjf">7.45 am – 1.15 pm</td>
-		<td class="tg-e87b">7.30 am
+		<td class="tg-e87b">7.30 am</td>
   </tr>
 </tbody>
 </table>
