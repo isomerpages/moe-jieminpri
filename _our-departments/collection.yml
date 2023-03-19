@@ -1,5 +1,5 @@
 collections:
-  our-programmes:
+  our-departments:
     output: true
     order:
       - Aesthetics/Aesthetics.md
