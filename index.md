@@ -16,8 +16,7 @@ sections:
   - infopic:
       title: Articles
       subtitle: Jieminite Link
-      description: Learn about our latest happenings through our quarterly newsletter
-        Jieminite Link
+      description: Learn about our latest happenings through our newsletter Jieminite Link
       button: View More
       url: /information/parents#Jieminite_Links
       image: /images/jieminitelinkeg.png
@@ -29,5 +28,3 @@ sections:
       button: View More
       url: /sls
 ---
-
-
