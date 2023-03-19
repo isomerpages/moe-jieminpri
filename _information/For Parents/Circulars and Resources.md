@@ -6,8 +6,7 @@ third_nav_title: For Parents
 ---
 #### Quick Links for Parents
 
-<h5><a href="#Jieminite_Links">Jieminite Links</a><br>
-<a href="#Service_Providers">Service Providers</a><br>
+<h5><a href="#Service_Providers">Service Providers</a><br>
 <a href="#Curriculum_Time">Curriculum Time</a><br>
 <a href="#Gate_Opening_Hours">Gate Opening Hours</a><br>
 <a href="#Drop_Off_And_Pick_Up_Points">Drop Off and Pick Up Points</a><br>
@@ -118,17 +117,18 @@ third_nav_title: For Parents
     <td class="tg-yml4">DAY</td>
     <td class="tg-yml4">SCHOOL HOURS</td>
     <td class="tg-044a"> REPORTING TIME</td>
-    <td class="tg-yml4">RECESS*</td>
+    <td class="tg-yml4">RECESS</td>
   </tr>
   <tr>
     <td class="tg-0bjf">Mon, Tue, Wed, Thu</td>
-    <td class="tg-0bjf">7.45 am – 1.30* pm</td>
-    <td class="tg-e87b" rowspan="2">7.30 am</td>
+    <td class="tg-0bjf">7.45 am – 1.30 pm</td>
+    <td class="tg-e87b">7.30 am</td>
     <td class="tg-0bjf" rowspan="2">P1  : 8.45am – 9.15am<br>P2 : 9.15am – 9.45am<br>P3 : 11.15am – 11.45am<br>P4: 10.15am - 10.45am<br>P5: 9.45am - 10.15am<br>P6: 10.45am - 11.15am</td>
   </tr>
   <tr>
     <td class="tg-0bjf">Fri</td>
-    <td class="tg-0bjf">7.45 am – 1.15* pm</td>
+    <td class="tg-0bjf">7.45 am – 1.15 pm</td>
+		<td class="tg-e87b">7.30 am
   </tr>
 </tbody>
 </table>
@@ -289,76 +289,6 @@ The MOE FAS is open to all pupils who are Singapore Citizens. The MOE FAS applic
 
 If there are any changes to the pupils' official address and/or parents'/guardians' contact numbers, please update your information in Parents Gateway.
 
-
-<h5><a id="parents11">Circulars from School</a></h5>
-
-We encourage parents to login to Parents Gateway to obtain information on the latest circulars.
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-a6j4{background-color:#FFF;color:#58595B;text-align:center;vertical-align:middle}
-.tg .tg-0pyt{background-color:#FFF;color:#21088A;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
-.tg .tg-vtmj{background-color:#FFF;color:#21088A;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-a4yv">Notification Number </th>
-    <th class="tg-a4yv">Name of Circular</th>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Circular in Soft copy</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-a6j4"> 073/2020</td>
-    <td class="tg-a6j4">Term 3 School reopens </td>
-    <td class="tg-0pyt"><a href="/files/Letter%20to%20Parents%20on%20Term%203%20School%20Reopens%20(PG).pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">Letter to Parents on Term 3 School Reopens (PG).pdf</span></a>  </td>
-  </tr>
-  <tr>
-    <td class="tg-a6j4"> 69/2020</td>
-    <td class="tg-a6j4">End Of Term 2 Updates (P1 and P2) </td>
-    <td class="tg-a6j4"> <a href="/files/69%20End%20of%20Term%202%20Updates%20(P1%20and%20P2).pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">69. End of Term 2 Updates (P1 and P2).pdf</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-a6j4"> 70/2020</td>
-    <td class="tg-a6j4">End Of Term 2 Updates (P3 to P5)  </td>
-    <td class="tg-0pyt"><a href="/files/70%20End%20of%20Term%202%20Updates%20(P3%20-%20P5).pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">70. End of Term 2 Updates (P3 - P5).pdf</span></a>  </td>
-  </tr>
-  <tr>
-    <td class="tg-a6j4"> 71/2020</td>
-    <td class="tg-a6j4">End Of Term 2 Updates (P6)  </td>
-    <td class="tg-0pyt"><a href="/files/71%20End%20of%20Term%202%20Updates%20(P6).pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">71. End of Term 2 Updates (P6).pdf</span></a>  </td>
-  </tr>
-  <tr>
-    <td class="tg-a6j4"> 23/2020</td>
-    <td class="tg-a6j4">Primary 5 - 2020 Internationalisation trip to Penang  </td>
-    <td class="tg-a6j4"> <a href="/files/23_2020%20P5%20Internationalisation%20Trip%20to%20Penang.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">23_2020 P5 Internationalisation Trip to Penang.pdf</span></a>  </td>
-  </tr>
-  <tr>
-    <td class="tg-a6j4"> 20/2020 </td>
-    <td class="tg-a6j4"> Tok Tok Communications for P2 to P6 Students </td>
-    <td class="tg-a6j4"><a href="/files/20_2020%20TOK%20TOK%20COMMUNICATION%20FOR%20P2%20TO%20P6.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">20_2020 TOK TOK COMMUNICATION FOR P2 TO P6.pdf</span></a>    </td>
-  </tr>
-  <tr>
-    <td class="tg-a6j4"> 19/2020</td>
-    <td class="tg-a6j4">Tok Tok Communications for P1 Students  </td>
-    <td class="tg-0pyt"><a href="/files/19_2020%20TOK%20TOK%20COMMUNICATION%20%20FOR%20P1.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">19_2020 TOK TOK COMMUNICATION FOR P1.pdf</span></a>  </td>
-  </tr>
-  <tr>
-    <td class="tg-a6j4"> </td>
-    <td class="tg-a6j4">Getting started with Singapore Students Learning Space (SLS) </td>
-    <td class="tg-a6j4"> <a href="/files/2%20SLS%20instructions%20-%20Annexes%20to%20Letter%20to%20Parents.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">2. SLS instructions - Annexes to Letter to Parents.pdf</span></a></td>
-  </tr>
-</tbody>
-</table>
-
-
 <h5><a id="parents12">Payment of School Fees</a></h5>
 
 We encourage parents to pay school fees via non-cash channels (eg. either by GIRO, directly via iBanking or at AXS machines), so that your child does not need to carry cash to school to pay for the school fees with the risk of losing his/her wallet.
@@ -414,24 +344,3 @@ MOE FAS students, who are eligible for Transport Vouchers and have been approved
 <h5><a id="parents14">Resource for Building Resilience in Your Child</a></h5>
 
 Click [here](/files/Resilience-Resources_for%20parents_final.pdf) to access resource for building resilience in your child.
-
-
-<h5><a id="parents15">Additional Precautionary Measures in School from Term 2 Onwards</a></h5>
-
-Dear Parents, 
-
-The following are additional precautionary measures that the school will set in place from Term 2 onwards.
-
-1.  Students, who have travelled overseas on or after Saturday, 14 March 2020 regardless of country or mode of entry, should not report to school on Monday. 
-2.  All CCAs and After School Programmes (Remedial, Supplementary Classes, SDR, RRP) will be suspended. Only Higher Mother Tongue and Foundation Mother Tongue classes, will continue.
-3.  The school has arranged for designated seating by class in the canteen during recess.
-4.  The current practice of wipe-down routine will be expanded to classrooms. Students will wipe their own tables before lessons. This is to inculcate habits of keeping the school clean and safe.
-5.  Please ensure that your child has a working thermometer and bring it to school daily.
-6.  If your child is unwell with flu-like symptoms, he/she will not be allowed in school and will need to seek medical advice from the doctor. 
-
-Thank you.
-
-
-<h5><a id="parents16">Parents' Guide to Device Use for HBL</a></h5>
-
-Click [here](/files/Parents%20Guide%20to%20Device%20Use%20for%20Home-Based%20Learning.pdf) for the Parents' Guide to Device use for HBL
