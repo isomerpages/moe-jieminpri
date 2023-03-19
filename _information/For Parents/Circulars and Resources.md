@@ -83,9 +83,10 @@ third_nav_title: For Parents
     <td class="tg-cqn3">Pricing depends on size<br><span style="font-weight:normal;color:#58595B"> </span><br></td>
   </tr>
   <tr>
-    <td class="tg-imuo">Student Care Centre<br>(Care Hut by Care Community Services Society)</td>
+    <td class="tg-imuo">Student Care Centre<br>(NASCAN)</td>
     <td class="tg-imuo">After school hours to 7pm</td>
-    <td class="tg-imuo">Student Care Centre inside<br>Jiemin Primary School<br>Tel :  88223075</td>
+    <td class="tg-imuo">Student Care Centre inside<br>Jiemin Primary School<br>Tel :  8298 8565
+jmscc@nascans.com</td>
     <td class="tg-imuo"></td>
   </tr>
 </tbody>
@@ -136,8 +137,7 @@ third_nav_title: For Parents
 
 * All pupils MUST assemble in the hall at the respective reporting time.
 * Pupils are to engage themselves in Silent Reading once they report to the hall.
-* *In view of the recent safe distancing measures, dismissal and recess times for the respective levels have been staggered.
-* *Please refer to announcements in Parents Gateway for the latest details.
+* Please refer to announcements in Parents Gateway for the latest details.
 
 
 <h5><a id="#Gate_Opening_Hours">Gate Opening Hours</a></h5>
