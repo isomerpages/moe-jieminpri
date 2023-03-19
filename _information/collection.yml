@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - For Parents/Circulars and Resources.md
+      - For Parents/Important Contacts and Resources.md
       - For Parents/Sexuality Education.md
       - For Students/.keep
       - For Students/School Library.md
