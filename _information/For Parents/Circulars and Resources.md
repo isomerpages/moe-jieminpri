@@ -16,12 +16,9 @@ third_nav_title: For Parents
 <a href="#parents8">Helplines</a><br>
 <a href="#parents9">Financial Assistance Scheme (FAS)</a><br>
 <a href="#parents10">Updating of Pupils' Official Address and Contact Numbers</a><br>
-<a href="#parents11">Circulars from School</a><br>
-<a href="#parents12">Payment of School Fees</a><br>
-<a href="#parents13">MOE FAS - Transport Vouchers Redemption</a><br>
-<a href="#parents14">Resource for Building Resilience in Your Child</a><br>
-<a href="#parents15">Additional Precautionary Measures in School from Term 2 Onwards</a><br>
-<a href="#parents16">Parents' Guide to Device Use for HBL</a></h5>
+<a href="#parents11">Payment of School Fees</a><br>
+<a href="#parents12">MOE FAS - Transport Vouchers Redemption</a><br>
+<a href="#parents13">Resource for Building Resilience in Your Child</a><br>
 
 
 
@@ -59,7 +56,7 @@ third_nav_title: For Parents
     <td class="tg-imuo">School Dental Clinic</td>
     <td class="tg-imuo"><span style="background-color:initial">Please contact the clinic for details</span></td>
     <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">1pm - 2pm</span></td>
-    <td class="tg-imuo">School Dental Clinic : 6757 4231<br>or<br><span style="background-color:initial">HEALTH PROMOTION BOARD</span><br><br><span style="font-weight:normal;color:#58595B">#04-00, School Dental Service</span><br><span style="font-weight:normal;color:#58595B">No. 3, Second Hospital Avenue</span><br><span style="font-weight:normal;color:#58595B">Singapore 168937</span><br><span style="font-weight:normal;color:#58595B">Tel: 6435-3782 (Pls call for appointment/enquiry)</span></td>
+    <td class="tg-imuo">School Dental Clinic<br> Tel: 6757 4231<br>or<br><span style="background-color:initial">Health Promotion Board</span><br><span style="font-weight:normal;color:#58595B">#04-00, School Dental Service</span><br><span style="font-weight:normal;color:#58595B">No. 3, Second Hospital Avenue</span><br><span style="font-weight:normal;color:#58595B">Singapore 168937</span><br><span style="font-weight:normal;color:#58595B">Tel: 6435-3782 (Pls call for appointment/enquiry)</span></td>
     <td class="tg-a6j4">NA </td>
   </tr>
   <tr>
@@ -289,7 +286,7 @@ The MOE FAS is open to all pupils who are Singapore Citizens. The MOE FAS applic
 
 If there are any changes to the pupils' official address and/or parents'/guardians' contact numbers, please update your information in Parents Gateway.
 
-<h5><a id="parents12">Payment of School Fees</a></h5>
+<h5><a id="parents11">Payment of School Fees</a></h5>
 
 We encourage parents to pay school fees via non-cash channels (eg. either by GIRO, directly via iBanking or at AXS machines), so that your child does not need to carry cash to school to pay for the school fees with the risk of losing his/her wallet.
 
@@ -335,12 +332,12 @@ For more information on school fees, please refer to the [MOE webpage](https://
 
 
 
-<h5><a id="parents13">MOE FAS - Transport Vouchers Redemption</a></h5>
+<h5><a id="parents12">MOE FAS - Transport Vouchers Redemption</a></h5>
 
 MOE FAS students, who are eligible for Transport Vouchers and have been approved the transport subsidy, can refer to the following guide on how to redeem the transport vouchers:  
 [Annex - Redemption of Voucher and List of Suggested Merchants.pdf](/files/Annex%20-%20Redemption%20of%20Voucher%20and%20List%20of%20Suggested%20Merchants.pdf) 
 
 
-<h5><a id="parents14">Resource for Building Resilience in Your Child</a></h5>
+<h5><a id="parents13">Resource for Building Resilience in Your Child</a></h5>
 
 Click [here](/files/Resilience-Resources_for%20parents_final.pdf) to access resource for building resilience in your child.
