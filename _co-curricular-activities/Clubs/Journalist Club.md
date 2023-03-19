@@ -9,7 +9,18 @@ Miss Aliya Maisarah Suhada<br>
 Mdm K S Sharmila   
 Miss Surya Parvathy Pillai
 
-Members of the Journalist Club get to explore news reporting and writing, as well as photojournalism. These skills are aligned with our school’s Applied Learning Programme "Journalist in the Making". Acquiring these skills, members explore social and cultural issues, and also build their confidence in expression.
+In Journalist Club, pupils
+pick up various journalistic
+skills such as photography,
+photojournalism, interview
+and writing skills. They are given a variety of
+opportunities to hone these skills, such as working on
+school events as reporters and photographers. They
+strive to conduct accurate
+interviews and produce
+compelling and creative
+photographs with each
+opportunity.
 
 ### Snapshots
 <img src="/images/CCA/Journalist%20Club/Journalist%20Club%201.jpg" 
