@@ -1,0 +1,4 @@
+collections:
+  our-newsletter:
+    output: true
+    order: []
