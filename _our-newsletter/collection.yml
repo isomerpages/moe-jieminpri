@@ -1,4 +1,5 @@
 collections:
   our-newsletter:
     output: true
-    order: []
+    order:
+      - Jieminite Link.md
