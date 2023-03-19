@@ -31,7 +31,7 @@ description: ""
   <tr>
     <td class="tg-fxx4"><span style="color:#222"> 2022</span></td>
     <td class="tg-fxx4"><span style="color:#222"> Term 1</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span><a href="/files/jieminite-link/Jieminite%20Link%202022%20Iss%201%20(1).pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">JLink_T1_2022.pdf</span></a><br></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span><a href="/files/jieminite-link/Jieminite%20Link%202022%20Iss%201.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">JLink_T1_2022.pdf</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
