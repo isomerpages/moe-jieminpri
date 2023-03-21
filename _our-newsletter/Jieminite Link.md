@@ -41,7 +41,7 @@ description: ""
   <tr>
     <td class="tg-fxx4"><span style="color:#222"> 2021</span></td>
     <td class="tg-fxx4"><span style="color:#222"> Term 1</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span>(insert Jlink_T1_2021.pdf here)</td>
+    <td class="tg-fxx4"><span style="color:#222"> </span><a href="/files/Jieminite%20Link/Term%201%202021%20issue.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">JLink_T1_2021.pdf</span></a></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
