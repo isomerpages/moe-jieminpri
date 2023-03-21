@@ -1,0 +1,17 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - History.md
+      - School Song.md
+      - Staff/.keep
+      - Staff/School Management Committee.md
+      - Staff/Executive & Administration Staff.md
+      - Staff/Teaching Staff.md
+      - Staff/Learning Support.md
+      - General Guidelines.md
+      - Student Admissions.md
+      - ALP and LLP.md
+      - Booklists for 2023.md
+      - Contact Us.md

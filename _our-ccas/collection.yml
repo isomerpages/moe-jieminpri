@@ -1,0 +1,22 @@
+collections:
+  our-ccas:
+    output: true
+    order:
+      - Clubs/Art Club.md
+      - Clubs/Journalist Club.md
+      - Clubs/Robotics Club.md
+      - Clubs/.keep
+      - Music and Dance/.keep
+      - Music and Dance/Angklung Ensemble.md
+      - Music and Dance/Chinese Dance.md
+      - Music and Dance/Dance Experience Module.md
+      - Music and Dance/Guzheng Ensemble.md
+      - Music and Dance/Malay Dance.md
+      - Music and Dance/Modern Dance.md
+      - Uniformed Groups/Red Cross.md
+      - Uniformed Groups/.keep
+      - Physical Sports/.keep
+      - Physical Sports/Basketball.md
+      - Physical Sports/Floorball.md
+      - Physical Sports/Sports Experience Module.md
+      - Physical Sports/Taekwondo.md
