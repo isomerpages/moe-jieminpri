@@ -201,8 +201,7 @@ P6 Year Head: Mrs Tan Hwee Min <br>
   <tr>
     <td class="tg-imuo">6 Joy</td>
     <td class="tg-imuo">Mrs Lynn Lim-Chng</td>
-		<td class="tg-a6j4">Mdm Mageswari Naidu</td></tbody>
-
+		<td class="tg-a6j4">Mdm Mageswari Naidu</td>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -263,4 +262,5 @@ P6 Year Head: Mrs Tan Hwee Min <br>
     <td class="tg-imuo"><span style="font-weight:normal">Social Studies</span></td>
   </tr>
 	
-  </tr></tbody>
+  </tr>
+	</tbody>
