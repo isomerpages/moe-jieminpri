@@ -22,7 +22,7 @@ P6 Year Head: Mrs Tan Hwee Min <br>
 .tg .tg-a6j4{background-color:#FFF;color:#58595B;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
-<tbody>
+
   <tr>
     <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Class</span></td>
     <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Form Teacher</span></td>
@@ -201,8 +201,7 @@ P6 Year Head: Mrs Tan Hwee Min <br>
   <tr>
     <td class="tg-imuo">6 Joy</td>
     <td class="tg-imuo">Mrs Lynn Lim-Chng</td>
-		<td class="tg-a6j4">Mdm Mageswari Naidu</td></tbody>
-
+		<td class="tg-a6j4">Mdm Mageswari Naidu</td>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -214,7 +213,6 @@ P6 Year Head: Mrs Tan Hwee Min <br>
 .tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
-<tbody>
   <tr>
     <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Staff Name</span></td>
     <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Subjects </span></td>
@@ -262,5 +260,3 @@ P6 Year Head: Mrs Tan Hwee Min <br>
     <td class="tg-imuo"><span style="font-weight:normal">Mdm Michelle Tan</span></td>
     <td class="tg-imuo"><span style="font-weight:normal">Social Studies</span></td>
   </tr>
-	
-  </tr></tbody>
