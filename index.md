@@ -18,7 +18,7 @@ sections:
       subtitle: Jieminite Link
       description: Learn about our latest happenings through our newsletter Jieminite Link
       button: View More
-      url: /information/parents#Jieminite_Links
+      url: /our-newsletter/jieminite-link/
       image: /images/jieminitelinkeg.png
       alt: jieminitelinkeg
   - infobar:
