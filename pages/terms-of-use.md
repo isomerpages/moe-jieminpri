@@ -22,7 +22,7 @@ Click [here](https://www.jieminpri.moe.edu.sg/privacy/) to review this Website 
 
 Except as otherwise provided, the Contents of this Website shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of Jiemin Primary School. To use any parts of the contents of this Site, the user must seek permission in writing, stating the contents for use; intent of use; manner of use; time frame of use and identity of the user. MOE reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient.
 
-Modification of any of the Contents or use of the Contents for any other purpose will be a violation of Jiemin Primary School's copyright and other intellectual property rights. Graphics and images on this Web Site are protected by copyright and may not be reproduced or appropriated in any manner without written permission of Jiemin Primary School
+Modification of any of the Contents or use of the Contents for any other purpose will be a violation of Jiemin Primary School's copyright and other intellectual property rights. Graphics and images on this Website are protected by copyright and may not be reproduced or appropriated in any manner without written permission of Jiemin Primary School
 
 ### Right of access
 
