@@ -16,7 +16,7 @@ The materials located on this Website including the information and software pro
 
 ### Privacy Policy
 
-Click HERE to review this Website Privacy Statement.
+Click [here](https://www.jieminpri.moe.edu.sg/privacy/) to review this Website Privacy Statement.
 
 ### Restrictions on use of materials
 
