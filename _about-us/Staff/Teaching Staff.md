@@ -23,7 +23,7 @@ P6 Year Head: Mrs Tan Hwee Min <br>
 </style>
 <table class="tg">
 
-  <tr>
+  <tbody><tr>
     <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Class</span></td>
     <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Form Teacher</span></td>
     <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Co-Form Teacher</span></td>
@@ -76,7 +76,7 @@ P6 Year Head: Mrs Tan Hwee Min <br>
   <tr>
     <td class="tg-imuo">2 Honesty</td>
     <td class="tg-imuo">Mr Ronald Chai</td>
-    <td class="tg-a6j4">Mdm Sarah Wong</td>
+    <td class="tg-a6j4">Ms Sarah Wong</td>
   </tr>
   <tr>
     <td class="tg-imuo">2 Joy</td>
@@ -212,8 +212,8 @@ P6 Year Head: Mrs Tan Hwee Min <br>
 .tg .tg-imuo{background-color:#FFF;color:#58595B;text-align:center;vertical-align:top}
 .tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
-  <tr>
+</tr></tbody></table><table class="tg">
+  <tbody><tr>
     <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Staff Name</span></td>
     <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Subjects </span></td>
   </tr>
@@ -259,4 +259,4 @@ P6 Year Head: Mrs Tan Hwee Min <br>
   </tr> <tr>
     <td class="tg-imuo"><span style="font-weight:normal">Mdm Michelle Tan</span></td>
     <td class="tg-imuo"><span style="font-weight:normal">Social Studies</span></td>
-  </tr>
+  </tr></tbody></table>
