@@ -4,7 +4,6 @@ permalink: /about-us/school-management-committee/
 description: ""
 third_nav_title: Staff
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -61,7 +60,7 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-a6j4">Mr Lee Sze Yong</td>
-    <td class="tg-a6j4">HOD Information Communication & Technology</td>
+    <td class="tg-a6j4">HOD Information Communication &amp; Technology</td>
   </tr>
   <tr>
     <td class="tg-a6j4">Mdm Anne Koh</td>
@@ -69,7 +68,7 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-imuo">Mr Ravindran Kanna </td>
-    <td class="tg-a6j4">HOD Character & Citizenship Education</td>
+    <td class="tg-a6j4">HOD Character &amp; Citizenship Education</td>
   </tr>
   <tr>
     <td class="tg-a6j4">Mr Wee Chong Cheut </td>
@@ -104,7 +103,7 @@ third_nav_title: Staff
     <td class="tg-a6j4">Level Head / Chinese Language</td>
   </tr> 
 	<tr>
-    <td class="tg-a6j4"> Mdm Sarah Wong</td>
+    <td class="tg-a6j4"> Ms Sarah Wong</td>
     <td class="tg-a6j4"> Level Head - Character &amp; Citizenship Education</td>
   </tr>
  <tr>
