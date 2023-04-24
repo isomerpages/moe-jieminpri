@@ -2,10 +2,10 @@ collections:
   our-ccas:
     output: true
     order:
-      - Sports Clubs/Art Club.md
-      - Sports Clubs/Journalist Club.md
-      - Sports Clubs/Robotics Club.md
-      - Sports Clubs/.keep
+      - Clubs/Art Club.md
+      - Clubs/Journalist Club.md
+      - Clubs/Robotics Club.md
+      - Clubs/.keep
       - Music and Dance/.keep
       - Music and Dance/Angklung Ensemble.md
       - Music and Dance/Chinese Dance.md
