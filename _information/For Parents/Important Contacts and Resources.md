@@ -21,7 +21,7 @@ third_nav_title: For Parents
 
 
 
-<h5><a id="Service_Providers">Service Providers</a></h5>
+</h5><h5><a id="Service_Providers">Service Providers</a></h5>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -35,7 +35,7 @@ third_nav_title: For Parents
 .tg .tg-cqn3{background-color:#FFF;color:#58595B;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-a6j4{background-color:#FFF;color:#58595B;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 739px">
+<br><span style="font-weight:normal;color:#58595B">The bus fees is dependent on the distance travelled.</span><table class="tg" style="undefined;table-layout: fixed; width: 739px">
 <colgroup>
 <col style="width: 123px">
 <col style="width: 163px">
@@ -62,7 +62,7 @@ third_nav_title: For Parents
     <td class="tg-imuo">School Bus Transport</td>
     <td class="tg-a6j4" colspan="2">NA</td>
     <td class="tg-imuo"><span style="background-color:initial">1) </span><span style="background-color:transparent"> Mdm Lee Kwee Hoe</span><br><br><span style="font-weight:normal;color:#58595B">HP No: 9006 1050</span><br><br><span style="font-weight:normal;color:#58595B">2) </span><span style="background-color:transparent">Mr Lee Eng Lay</span><br><span style="font-weight:normal;color:#58595B">HP No: 9379 5850</span><br><br><span style="font-weight:normal;color:#58595B">3) Mr Benny Ng</span><br><span style="font-weight:normal;color:#58595B">96 Transit</span><br><span style="font-weight:normal;color:#58595B">HP No. 8668 9923</span></td>
-    <td class="tg-imuo"><span style="font-weight:normal;color:#58595B">Please liaise with the vendors directly. </span><br><span style="font-weight:normal;color:#58595B">The bus fees is dependent on the distance travelled.</span></td>
+    <td class="tg-imuo"><span style="font-weight:normal;color:#58595B">Please liaise with the vendors directly.<br><br> Bus Fare:<br><a href="/files/busfare2023.jpg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Bus Fare 2023.jpg</span></a></span></td>
   </tr>
   <tr>
     <td class="tg-imuo">Bookstore<br><span style="font-weight:normal;color:#58595B">(Continental Bookstore)</span></td>
@@ -81,7 +81,7 @@ third_nav_title: For Parents
   <tr>
     <td class="tg-imuo">Student Care Centre<br>(NASCAN)</td>
     <td class="tg-imuo">After school hours to 7pm</td>
-    <td class="tg-imuo">Student Care Centre inside<br>Jiemin Primary School<br>Tel :  8298 8565
+    <td class="tg-imuo">Student Care Centre inside<br>Jiemin Primary School<br>Tel :&nbsp;&nbsp;8298 8565
 jmscc@nascans.com</td>
     <td class="tg-imuo"></td>
   </tr>
@@ -138,7 +138,7 @@ jmscc@nascans.com</td>
 
 <h5><a id="#Gate_Opening_Hours">Gate Opening Hours</a></h5>
 
-To better safeguard our pupils' safety and well-being, the opening hours of the respective gates are as follows.  Visitors are requested to inform our security guards at the guard post.
+To better safeguard our pupils' safety and well-being, the opening hours of the respective gates are as follows. &nbsp;Visitors are requested to inform our security guards at the guard post.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -180,23 +180,23 @@ To better safeguard our pupils' safety and well-being, the opening hours of the 
 
 
 * **Pupils taking school bus to school**     
-The school bus will drop off and pick up your child / ward at the School Bus Bay. 
+The school bus will drop off and pick up your child / ward at the School Bus Bay.&nbsp;
 
 
 * **Pupils walking to school**    
 <u>Accessible Gates</u>   
 Pupils walking to school may use the side gate or Back Gate    
-(Please note opening hours)     
+(Please note opening hours)&nbsp;    
 <u>Rainy Day</u>     
-During rainy days, you may use the shelters located at the Side Gate and Back Gate. 
+During rainy days, you may use the shelters located at the Side Gate and Back Gate.&nbsp;
 
   
 
 * **Parents driving pupils to school**    
-You may park your car at the nearby HDB car parks if you wish to come into the school to drop off or pick up your child/ward. Pupils may use the gate that is most convenient to them. 
+You may park your car at the nearby HDB car parks if you wish to come into the school to drop off or pick up your child/ward. Pupils may use the gate that is most convenient to them.&nbsp;
 
-_\*For safety of the pupils, cars are not allowed drive into the school premises._     
-_\*Please let your child alight safely along the pavement in front of the Main Gate (near to the main building)_     
+_\*For safety of the pupils, cars are not allowed drive into the school premises._&nbsp;    
+_\*Please let your child alight safely along the pavement in front of the Main Gate (near to the main building)_&nbsp;    
 _\*On raining days, you may drive into the school and drop off or pick up your child / ward at the front porch._
 
 
@@ -218,7 +218,7 @@ Please do not bring your child to school when he/she is unwell. Your child shoul
 
 Please call the General Office to update the status of your child for the school's attendance tracking.
 
-We look forward to your support and co-operation as we do our best to create a happy and safe environment conducive to your child’s learning.
+We look forward to your support and co-operation as we do our best to create a happy&nbsp;and safe environment conducive to your child’s learning.
 
 <h5><a id="parents8">Helplines</a></h5>
 
@@ -327,7 +327,7 @@ If you wish to pay via cash (provided you are not on GIRO scheme), please note t
 </table>
 </center>
 
-For more information on school fees, please refer to the [MOE webpage](https://www.moe.gov.sg/financial-matters/fees).
+For more information on school fees, please refer to the&nbsp;[MOE webpage](https://www.moe.gov.sg/financial-matters/fees).
 
 
 
@@ -339,4 +339,4 @@ MOE FAS students, who are eligible for Transport Vouchers and have been approved
 
 <h5><a id="parents13">Resource for Building Resilience in Your Child</a></h5>
 
-Click [here](/files/Resilience-Resources_for%20parents_final.pdf) to access resource for building resilience in your child.
+Click&nbsp;[here](/files/Resilience-Resources_for%20parents_final.pdf)&nbsp;to access resource for building resilience in your child.
