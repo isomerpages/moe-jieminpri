@@ -62,7 +62,7 @@ third_nav_title: For Parents
     <td class="tg-imuo">School Bus Transport</td>
     <td class="tg-a6j4" colspan="2">NA</td>
     <td class="tg-imuo"><span style="background-color:initial">1) </span><span style="background-color:transparent"> Mdm Lee Kwee Hoe</span><br><br><span style="font-weight:normal;color:#58595B">HP No: 9006 1050</span><br><br><span style="font-weight:normal;color:#58595B">2) </span><span style="background-color:transparent">Mr Lee Eng Lay</span><br><span style="font-weight:normal;color:#58595B">HP No: 9379 5850</span><br><br><span style="font-weight:normal;color:#58595B">3) Mr Benny Ng</span><br><span style="font-weight:normal;color:#58595B">96 Transit</span><br><span style="font-weight:normal;color:#58595B">HP No. 8668 9923</span></td>
-    <td class="tg-imuo"><span style="font-weight:normal;color:#58595B">Please liaise with the vendors directly.<br><br> Bus Fare:<br><a href="/files/busfare2023.jpg"><span style="font-weight:500;text-decoration:underline;color:#21088A">Bus Fare 2023.jpg</span></a></span></td>
+    <td class="tg-imuo"><span style="font-weight:normal;color:#58595B">Please liaise with the vendors directly.<br><br> Bus Fare:<br><a href="/files/busfare2023.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">Bus Fare 2023.pdf</span></a></span></td>
   </tr>
   <tr>
     <td class="tg-imuo">Bookstore<br><span style="font-weight:normal;color:#58595B">(Continental Bookstore)</span></td>
