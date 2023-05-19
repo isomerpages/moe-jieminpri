@@ -35,7 +35,7 @@ third_nav_title: For Parents
 .tg .tg-cqn3{background-color:#FFF;color:#58595B;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-a6j4{background-color:#FFF;color:#58595B;text-align:center;vertical-align:middle}
 </style>
-<br><span style="font-weight:normal;color:#58595B">The bus fees is dependent on the distance travelled.</span><table class="tg" style="undefined;table-layout: fixed; width: 739px">
+<br><span style="font-weight:normal;color:#58595B"></span><table class="tg" style="undefined;table-layout: fixed; width: 739px">
 <colgroup>
 <col style="width: 123px">
 <col style="width: 163px">
@@ -61,7 +61,7 @@ third_nav_title: For Parents
   <tr>
     <td class="tg-imuo">School Bus Transport</td>
     <td class="tg-a6j4" colspan="2">NA</td>
-    <td class="tg-imuo"><span style="background-color:initial">1) </span><span style="background-color:transparent"> Mdm Lee Kwee Hoe</span><br><br><span style="font-weight:normal;color:#58595B">HP No: 9006 1050</span><br><br><span style="font-weight:normal;color:#58595B">2) </span><span style="background-color:transparent">Mr Lee Eng Lay</span><br><span style="font-weight:normal;color:#58595B">HP No: 9379 5850</span><br><br><span style="font-weight:normal;color:#58595B">3) Mr Benny Ng</span><br><span style="font-weight:normal;color:#58595B">96 Transit</span><br><span style="font-weight:normal;color:#58595B">HP No. 8668 9923</span></td>
+    <td class="tg-imuo"><span style="background-color:initial">1) </span><span style="background-color:transparent"> Mr Benny Ng</span><br><span style="font-weight:normal;color:#58595B">96 Transit</span><br><span style="font-weight:normal;color:#58595B">HP No. 8668 9923</span></td>
     <td class="tg-imuo"><span style="font-weight:normal;color:#58595B">Please liaise with the vendors directly.<br><br> Bus Fare:<br><a href="/files/busfare2023.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">Bus Fare 2023.pdf</span></a></span></td>
   </tr>
   <tr>
