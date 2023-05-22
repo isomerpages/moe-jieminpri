@@ -31,11 +31,8 @@ third_nav_title: For Parents
 | School Uniform<br>Chop Kong Chong| - | Sembawang Shopping Centre, 604 Sembawang Road , #02-13, S(758459<br>Tel No: 67531489<br>Fax: 67589290<br><br>11.30am - 8pm<br>(Mondays to Saturdays)<br><br>11.30am - 6pm<br>Sundays and public holidays<br><br>Online orders<br>https://euniforms.com.sg/shop/product-category/primary-schools/jps/ | Pricing depends on size |
 | Student Care Centre (NASCAN) | After school hours to 7pm | - | Student Care Centre inside<br>Jiemin Primary School<br>Tel :  8298 8565 <br>jmscc@nascans.com |
 
-
-
-
-</a><h5><a href="/files/busfare2023.pdf"></a><a id="Curriculum_Time">Curriculum Time</a></h5>
-
+</a><h5><a href="/files/Nametag%20order%20form%20(Generic).pdf"></a><a id="Curriculum Time">Curriculum Time</a></h5>
+	
 <center>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
