@@ -23,11 +23,11 @@ third_nav_title: For Parents
 
 </h5><h5><a id="Service_Providers">Service Providers</a></h5>
 
-| Service Provider | Operating Hours | Lunch Break | Address / Telephone Number |
-| :-------: | :-------: | :-------: | :-------: |
+| Service Provider | Operating Hours |Lunch Break | Address / Telephone Number |
+| :-------: | :-------: |:-------:|:-------:|
 |School Dental Clinic | Please contact the clinic for details |1pm - 2pm| School Dental Clinic<br>Tel: 6757 4231 <br>or<br> Health Promotion Board #04-00, <br>School Dental Service No. 3,<br> Second Hospital Avenue<br> Singapore 168937 <br>Tel: 6435-3782 <br>(Pls call for appointment/enquiry)|
 | School Bus Transport | - | 96 Transit<br><br>Mr Benny Ng<br>HP No. 8668 9923 | Please liaise with the vendors directly<br><br>Bus Fare:<br><a href="/files/busfare2023.pdf">Bus Fare 2023.pdf
-| Bookstore Continental Bookstore| School Term<br>Mon to Fri : 8am to 3pm<br>*Parents only allowed to come in from 2pm to 3 pm | 11.30am – 12.30pm | Tel : 6255 0181<br>Name-tag Order Form:<br>Nametag order form (Generic).pdf |
+| Bookstore Continental Bookstore| School Term<br>Mon to Fri : 8am to 3pm<br>*Parents only allowed to come in from 2pm to 3 pm | 11.30am – 12.30pm | Tel : 6255 0181<br>Name-tag Order Form:</a><a href="/files/Nametag%20order%20form%20(Generic).pdf"><br>Nametag order form (Generic).pdf |
 | School Uniform<br>Chop Kong Chong| - | Sembawang Shopping Centre, 604 Sembawang Road , #02-13, S(758459<br>Tel No: 67531489<br>Fax: 67589290<br><br>11.30am - 8pm<br>(Mondays to Saturdays)<br><br>11.30am - 6pm<br>Sundays and public holidays<br><br>Online orders<br>https://euniforms.com.sg/shop/product-category/primary-schools/jps/ | Pricing depends on size |
 | Student Care Centre (NASCAN) | After school hours to 7pm | - | Student Care Centre inside<br>Jiemin Primary School<br>Tel :  8298 8565 <br>jmscc@nascans.com |
 
