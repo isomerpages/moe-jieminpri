@@ -18,13 +18,13 @@ third_nav_title: For Parents
 <a href="#parents11">Payment of School Fees</a><br>
 <a href="#parents12">MOE FAS - Transport Vouchers Redemption</a><br>
 <a href="#parents13">Resource for Building Resilience in Your Child</a><br>
-
+<br>
 
 
 ##### Service Providers <br>
 
 | Service Provider | Operating Hours |Lunch Break | Address / Telephone Number |
-| :-------: | :-------: |:-------:|:-------:|
+| :-------: | :-------: | :-------: | :-------: |
 |School Dental Clinic | Please contact the clinic for details |1pm - 2pm| School Dental Clinic<br>Tel: 6757 4231 <br>or<br> Health Promotion Board #04-00, <br>School Dental Service No. 3,<br> Second Hospital Avenue<br> Singapore 168937 <br>Tel: 6435-3782 <br>(Pls call for appointment/enquiry)|
 | School Bus Transport | - | 96 Transit<br><br>Mr Benny Ng<br>HP No. 8668 9923 | Please liaise with the vendors directly<br><br>Bus Fare:<br><a href="/files/busfare2023.pdf">Bus Fare 2023.pdf
 | Bookstore Continental Bookstore| School Term<br>Mon to Fri : 8am to 3pm<br>*Parents only allowed to come in from 2pm to 3 pm | 11.30am – 12.30pm | Tel : 6255 0181<br><br>Name-tag Order Form:</a><a href="/files/Nametag%20order%20form%20(Generic).pdf"><br>Nametag order form (Generic).pdf |
@@ -228,7 +228,7 @@ The MOE FAS is open to all pupils who are Singapore Citizens. The MOE FAS applic
 
 If there are any changes to the pupils' official address and/or parents'/guardians' contact numbers, please update your information in Parents Gateway.
 
-</a><h5><a href="/files/Nametag%20order%20form%20(Generic).pdf"></a><a id="parents11">Payment of School Fees</a></h5>
+</a></h5><h5><a href="/files/Nametag%20order%20form%20(Generic).pdf"></a><a id="parents11">Payment of School Fees</a></h5>
 
 We encourage parents to pay school fees via non-cash channels (eg. either by GIRO, directly via iBanking or at AXS machines), so that your child does not need to carry cash to school to pay for the school fees with the risk of losing his/her wallet.
 
@@ -274,7 +274,7 @@ For more information on school fees, please refer to the&nbsp;[MOE webpage](http
 
 
 
-</h5><h5><a id="parents12">MOE FAS - Transport Vouchers Redemption</a></h5>
+<h5><a id="parents12">MOE FAS - Transport Vouchers Redemption</a></h5>
 
 MOE FAS students, who are eligible for Transport Vouchers and have been approved the transport subsidy, can refer to the following guide on how to redeem the transport vouchers:  
 [Annex - Redemption of Voucher and List of Suggested Merchants.pdf](/files/Annex%20-%20Redemption%20of%20Voucher%20and%20List%20of%20Suggested%20Merchants.pdf) 
