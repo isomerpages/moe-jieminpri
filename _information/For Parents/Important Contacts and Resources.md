@@ -21,17 +21,17 @@ third_nav_title: For Parents
 <br>
 
 
-##### Service Providers <br>
+</h5><h5><a id="Service_Providers">Service Providers</a></h5>
 
 | Service Provider | Operating Hours |Lunch Break | Address / Telephone Number |
-| :-------: | :-------: | :-------: | :-------: |
+| :-------: | :-------: |:-------:|:-------:|
 |School Dental Clinic | Please contact the clinic for details |1pm - 2pm| School Dental Clinic<br>Tel: 6757 4231 <br>or<br> Health Promotion Board #04-00, <br>School Dental Service No. 3,<br> Second Hospital Avenue<br> Singapore 168937 <br>Tel: 6435-3782 <br>(Pls call for appointment/enquiry)|
 | School Bus Transport | - | 96 Transit<br><br>Mr Benny Ng<br>HP No. 8668 9923 | Please liaise with the vendors directly<br><br>Bus Fare:<br><a href="/files/busfare2023.pdf">Bus Fare 2023.pdf
-| Bookstore Continental Bookstore| School Term<br>Mon to Fri : 8am to 3pm<br>*Parents only allowed to come in from 2pm to 3 pm | 11.30am – 12.30pm | Tel : 6255 0181<br><br>Name-tag Order Form:</a><a href="/files/Nametag%20order%20form%20(Generic).pdf"><br>Nametag order form (Generic).pdf |
+| Bookstore Continental Bookstore| School Term<br>Mon to Fri : 8am to 3pm<br>*Parents only allowed to come in from 2pm to 3 pm | 11.30am – 12.30pm | Tel : 6255 0181<br>Name-tag Order Form:</a><a href="/files/Nametag%20order%20form%20(Generic).pdf"><br>Nametag order form (Generic).pdf |
 | School Uniform<br>Chop Kong Chong| - | Sembawang Shopping Centre, 604 Sembawang Road , #02-13, S(758459<br>Tel No: 67531489<br>Fax: 67589290<br><br>11.30am - 8pm<br>(Mondays to Saturdays)<br><br>11.30am - 6pm<br>Sundays and public holidays<br><br>Online orders<br>https://euniforms.com.sg/shop/product-category/primary-schools/jps/ | Pricing depends on size |
 | Student Care Centre (NASCAN) | After school hours to 7pm | - | Student Care Centre inside<br>Jiemin Primary School<br>Tel :  8298 8565 <br>jmscc@nascans.com |
 
-##### Curriculum Time <br>
+</a><h5><a href="/files/Nametag%20order%20form%20(Generic).pdf"></a><a id="Curriculum Time">Curriculum Time</a></h5>
 	
 <center>
 <style type="text/css">
@@ -228,7 +228,7 @@ The MOE FAS is open to all pupils who are Singapore Citizens. The MOE FAS applic
 
 If there are any changes to the pupils' official address and/or parents'/guardians' contact numbers, please update your information in Parents Gateway.
 
-</a></h5><h5><a href="/files/Nametag%20order%20form%20(Generic).pdf"></a><a id="parents11">Payment of School Fees</a></h5>
+<h5><a href="/files/Nametag%20order%20form%20(Generic).pdf"></a><a id="parents11">Payment of School Fees</a></h5>
 
 We encourage parents to pay school fees via non-cash channels (eg. either by GIRO, directly via iBanking or at AXS machines), so that your child does not need to carry cash to school to pay for the school fees with the risk of losing his/her wallet.
 
