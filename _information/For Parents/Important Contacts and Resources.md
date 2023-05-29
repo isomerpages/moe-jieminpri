@@ -21,7 +21,7 @@ third_nav_title: For Parents
 <br>
 
 
-</h5><h5><a id="Service_Providers">Service Providers</a></h5>
+#### Service Providers <br>
 
 | Service Provider | Operating Hours |Lunch Break | Address / Telephone Number |
 | :-------: | :-------: |:-------:|:-------:|
@@ -31,7 +31,7 @@ third_nav_title: For Parents
 | School Uniform<br>Chop Kong Chong| - | Sembawang Shopping Centre, 604 Sembawang Road , #02-13, S(758459<br>Tel No: 67531489<br>Fax: 67589290<br><br>11.30am - 8pm<br>(Mondays to Saturdays)<br><br>11.30am - 6pm<br>Sundays and public holidays<br><br>Online orders<br>https://euniforms.com.sg/shop/product-category/primary-schools/jps/ | Pricing depends on size |
 | Student Care Centre (NASCAN) | After school hours to 7pm | - | Student Care Centre inside<br>Jiemin Primary School<br>Tel :  8298 8565 <br>jmscc@nascans.com |
 
-</a><h5><a href="/files/Nametag%20order%20form%20(Generic).pdf"></a><a id="Curriculum Time">Curriculum Time</a></h5>
+#### Curriculum Time <br>
 	
 <center>
 <style type="text/css">
@@ -228,7 +228,7 @@ The MOE FAS is open to all pupils who are Singapore Citizens. The MOE FAS applic
 
 If there are any changes to the pupils' official address and/or parents'/guardians' contact numbers, please update your information in Parents Gateway.
 
-<h5><a href="/files/Nametag%20order%20form%20(Generic).pdf"></a><a id="parents11">Payment of School Fees</a></h5>
+</a><h5><a href="/files/Nametag%20order%20form%20(Generic).pdf"></a><a href="/files/Nametag%20order%20form%20(Generic).pdf"></a><a id="parents11">Payment of School Fees</a></h5>
 
 We encourage parents to pay school fees via non-cash channels (eg. either by GIRO, directly via iBanking or at AXS machines), so that your child does not need to carry cash to school to pay for the school fees with the risk of losing his/her wallet.
 
@@ -274,7 +274,7 @@ For more information on school fees, please refer to the&nbsp;[MOE webpage](http
 
 
 
-<h5><a id="parents12">MOE FAS - Transport Vouchers Redemption</a></h5>
+</h5><h5><a id="parents12">MOE FAS - Transport Vouchers Redemption</a></h5>
 
 MOE FAS students, who are eligible for Transport Vouchers and have been approved the transport subsidy, can refer to the following guide on how to redeem the transport vouchers:  
 [Annex - Redemption of Voucher and List of Suggested Merchants.pdf](/files/Annex%20-%20Redemption%20of%20Voucher%20and%20List%20of%20Suggested%20Merchants.pdf) 
