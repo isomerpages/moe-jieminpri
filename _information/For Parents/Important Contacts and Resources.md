@@ -18,10 +18,10 @@ third_nav_title: For Parents
 <a href="#parents11">Payment of School Fees</a><br>
 <a href="#parents12">MOE FAS - Transport Vouchers Redemption</a><br>
 <a href="#parents13">Resource for Building Resilience in Your Child</a><br>
+<br>
 
 
-
-</h5><h5><a id="Service_Providers">Service Providers</a></h5>
+#### Service Providers <br>
 
 | Service Provider | Operating Hours |Lunch Break | Address / Telephone Number |
 | :-------: | :-------: |:-------:|:-------:|
@@ -31,7 +31,7 @@ third_nav_title: For Parents
 | School Uniform<br>Chop Kong Chong| - | Sembawang Shopping Centre, 604 Sembawang Road , #02-13, S(758459<br>Tel No: 67531489<br>Fax: 67589290<br><br>11.30am - 8pm<br>(Mondays to Saturdays)<br><br>11.30am - 6pm<br>Sundays and public holidays<br><br>Online orders<br>https://euniforms.com.sg/shop/product-category/primary-schools/jps/ | Pricing depends on size |
 | Student Care Centre (NASCAN) | After school hours to 7pm | - | Student Care Centre inside<br>Jiemin Primary School<br>Tel :  8298 8565 <br>jmscc@nascans.com |
 
-</a><h5><a href="/files/Nametag%20order%20form%20(Generic).pdf"></a><a id="Curriculum Time">Curriculum Time</a></h5>
+#### Curriculum Time <br>
 	
 <center>
 <style type="text/css">
@@ -79,7 +79,7 @@ third_nav_title: For Parents
 * Please refer to announcements in Parents Gateway for the latest details.
 
 
-<h5><a id="#Gate_Opening_Hours">Gate Opening Hours</a></h5>
+##### Gate Opening Hours <br>
 
 To better safeguard our pupils' safety and well-being, the opening hours of the respective gates are as follows. &nbsp;Visitors are requested to inform our security guards at the guard post.
 
@@ -119,7 +119,7 @@ To better safeguard our pupils' safety and well-being, the opening hours of the 
 </table>
 
 
-<h5><a id="Drop_Off_And_Pick_Up_Points">Drop Off and Pick Up Points</a></h5>
+##### Drop Off and Pick Up Points <br>
 
 
 * **Pupils taking school bus to school**     
@@ -143,11 +143,11 @@ _\*Please let your child alight safely along the pavement in front of the Main G
 _\*On raining days, you may drive into the school and drop off or pick up your child / ward at the front porch._
 
 
-<h5><a id="parents6">Visiting School</a></h5>
+##### Visiting School <br>
 
 When visiting the school, please seek clearance at the security stand and then proceed to the General Office for assistance. We will do our best to assist you. We seek your co-operation to help us facilitate the smooth running of the school and ensure the safety of our pupils. 
 
-<h5><a id="parents7.5">Picking Up Your Child</a></h5>
+##### Picking Up Your Child <br>
 
 * Parents should wait at the designated waiting areas – either front or back gate.
 * If your child is ill,
@@ -155,7 +155,7 @@ When visiting the school, please seek clearance at the security stand and then p
 	* Family member or adult authorised by parents has to fill up a “Early Release" Form. 
 	* Pupils are not allowed to leave the school during curriculum time unless permission is granted by the teacher
 
-<h5><a id="parents7">Well-Being Of Your Child</a></h5>
+##### Well-Being Of Your Child<br>
 
 Please do not bring your child to school when he/she is unwell. Your child should only return to school after he/she has been certified to be medically fit by a medical doctor.
 
@@ -163,7 +163,7 @@ Please call the General Office to update the status of your child for the school
 
 We look forward to your support and co-operation as we do our best to create a happy&nbsp;and safe environment conducive to your child’s learning.
 
-<h5><a id="parents8">Helplines</a></h5>
+##### Helplines<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -218,17 +218,17 @@ We look forward to your support and co-operation as we do our best to create a h
 </tbody>
 </table>
 
-<h5><a id="parents9">Financial Assistance Scheme (FAS)</a></h5>
+##### Financial Assistance Scheme (FAS)<br>
 
 The MOE FAS is open to all pupils who are Singapore Citizens. The MOE FAS application period would start sometime from mid-September to October. Please refer to the circular issued to all parents.  Details of the financial assistance scheme can be found in the following website - https://www.moe.gov.sg/financial-matters/financial-assistance.
 
 
 
-<h5><a id="parents10">Updating of Pupils' Official Address and Contact Numbers</a></h5>
+##### Updating of Pupils' Official Address and Contact Numbers<br>
 
 If there are any changes to the pupils' official address and/or parents'/guardians' contact numbers, please update your information in Parents Gateway.
 
-<h5><a id="parents11">Payment of School Fees</a></h5>
+</a><h5><a href="/files/Nametag%20order%20form%20(Generic).pdf"></a><a href="/files/Nametag%20order%20form%20(Generic).pdf"></a><a id="parents11">Payment of School Fees</a></h5>
 
 We encourage parents to pay school fees via non-cash channels (eg. either by GIRO, directly via iBanking or at AXS machines), so that your child does not need to carry cash to school to pay for the school fees with the risk of losing his/her wallet.
 
@@ -274,7 +274,7 @@ For more information on school fees, please refer to the&nbsp;[MOE webpage](http
 
 
 
-<h5><a id="parents12">MOE FAS - Transport Vouchers Redemption</a></h5>
+</h5><h5><a id="parents12">MOE FAS - Transport Vouchers Redemption</a></h5>
 
 MOE FAS students, who are eligible for Transport Vouchers and have been approved the transport subsidy, can refer to the following guide on how to redeem the transport vouchers:  
 [Annex - Redemption of Voucher and List of Suggested Merchants.pdf](/files/Annex%20-%20Redemption%20of%20Voucher%20and%20List%20of%20Suggested%20Merchants.pdf) 
