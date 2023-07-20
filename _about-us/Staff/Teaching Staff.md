@@ -36,7 +36,7 @@ P6 Year Head: Mrs Tan Hwee Min <br>
   <tr>
     <td class="tg-imuo">1 Diligence</td>
     <td class="tg-imuo">Mdm Charlotte Aw</td>
-    <td class="tg-a6j4">Mdm Misbannisha<br></td>
+    <td class="tg-a6j4">Mr Teng Cheng Boon<br></td>
   </tr>
   <tr>
     <td class="tg-imuo">1 Grace</td>
@@ -46,7 +46,7 @@ P6 Year Head: Mrs Tan Hwee Min <br>
   <tr>
     <td class="tg-imuo">1 Honesty</td>
     <td class="tg-imuo">Mdm Arfah Arshad</td>
-    <td class="tg-imuo"><span style="background-color:initial">Mdm Arfah bte Arshad</span></td>
+    <td class="tg-imuo"><span style="background-color:initial">Mdm Aster He <br> Miss Drolma Quek</span></td>
   </tr>
   <tr>
     <td class="tg-imuo">1 Joy</td>
@@ -111,7 +111,7 @@ P6 Year Head: Mrs Tan Hwee Min <br>
   <tr>
     <td class="tg-imuo">3 Honesty</td>
     <td class="tg-imuo">Miss Tan Kun Lan</td>
-    <td class="tg-a6j4">Mdm Petrina Raymond</td>
+    <td class="tg-a6j4">Mdm Petrina Raymond <br> Mdm Aik Hooi San</td>
   </tr>
   <tr>
     <td class="tg-imuo">3 Joy</td>
@@ -199,7 +199,7 @@ P6 Year Head: Mrs Tan Hwee Min <br>
     <td class="tg-a6j4">Mr Muhd Faizrin bin Hashim</td>
   </tr>
   <tr>
-    <td class="tg-imuo">6 Joy</td>
+    <td class="tg-imuo">6 Kindness</td>
     <td class="tg-imuo">Mrs Lynn Lim-Chng</td>
 		<td class="tg-a6j4">Mdm Mageswari Naidu</td>
 
@@ -218,9 +218,12 @@ P6 Year Head: Mrs Tan Hwee Min <br>
     <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Subjects </span></td>
   </tr>
   <tr>
+    <td class="tg-imuo"><span style="font-weight:normal">Mdm Sharmila</span></td>
+    <td class="tg-imuo"><span style="font-weight:normal">English Language</span></td>
+  </tr>   <tr>
     <td class="tg-imuo"><span style="font-weight:normal">Mr Keith Tan</span></td>
     <td class="tg-imuo"><span style="font-weight:normal">English Language</span></td>
-  </tr>  <tr>
+  </tr> <tr>
     <td class="tg-imuo"><span style="font-weight:normal">Mrs Teng Siok Fun</span></td>
     <td class="tg-imuo"><span style="font-weight:normal">English Language</span></td>
   </tr> <tr>
