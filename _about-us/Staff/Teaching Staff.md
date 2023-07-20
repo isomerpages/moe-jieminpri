@@ -220,6 +220,9 @@ P6 Year Head: Mrs Tan Hwee Min <br>
   <tr>
     <td class="tg-imuo"><span style="font-weight:normal">Mr Keith Tan</span></td>
     <td class="tg-imuo"><span style="font-weight:normal">English Language</span></td>
+  </tr>  <tr>
+    <td class="tg-imuo"><span style="font-weight:normal">Mrs Teng Siok Fun</span></td>
+    <td class="tg-imuo"><span style="font-weight:normal">English Language</span></td>
   </tr> <tr>
     <td class="tg-imuo"><span style="font-weight:normal">Miss Soumini Nair</span></td>
     <td class="tg-imuo"><span style="font-weight:normal">English Language and Mathematics</span></td>
