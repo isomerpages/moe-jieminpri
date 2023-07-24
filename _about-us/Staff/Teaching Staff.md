@@ -8,7 +8,7 @@ P1 Year Head: Mdm Jayasree <br>
 P2 Year Head: Mdm Hartini <br>
 P2 Assistant Year Head: Mdm Norhayati <br>
 P3 Year Head: Mdm Mas'linda <br>
-P4 Assistant Year Head: Miss Kwan Yee Ching <br>
+P4 Assistant Year Head: Ms Kwan Yee Ching <br>
 P5 Assistant Year Head: Mr Damodaran Prabaharan <br>
 P6 Year Head: Mrs Tan Hwee Min <br>
 <style type="text/css">
@@ -36,7 +36,7 @@ P6 Year Head: Mrs Tan Hwee Min <br>
   <tr>
     <td class="tg-imuo">1 Diligence</td>
     <td class="tg-imuo">Mdm Charlotte Aw</td>
-    <td class="tg-a6j4">Mdm Misbannisha<br></td>
+    <td class="tg-a6j4">Mr Teng Cheng Boon<br></td>
   </tr>
   <tr>
     <td class="tg-imuo">1 Grace</td>
@@ -45,8 +45,8 @@ P6 Year Head: Mrs Tan Hwee Min <br>
   </tr>
   <tr>
     <td class="tg-imuo">1 Honesty</td>
-    <td class="tg-imuo">Mdm Esther Chuah</td>
-    <td class="tg-imuo"><span style="background-color:initial">Mdm Arfah bte Arshad</span></td>
+    <td class="tg-imuo">Mdm Arfah Arshad</td>
+    <td class="tg-imuo"><span style="background-color:initial">Mdm Aster He <br> Miss Drolma Quek</span></td>
   </tr>
   <tr>
     <td class="tg-imuo">1 Joy</td>
@@ -111,7 +111,7 @@ P6 Year Head: Mrs Tan Hwee Min <br>
   <tr>
     <td class="tg-imuo">3 Honesty</td>
     <td class="tg-imuo">Miss Tan Kun Lan</td>
-    <td class="tg-a6j4">Mdm Petrina Raymond</td>
+    <td class="tg-a6j4">Mdm Petrina Raymond <br> Mdm Aik Hooi San</td>
   </tr>
   <tr>
     <td class="tg-imuo">3 Joy</td>
@@ -199,7 +199,7 @@ P6 Year Head: Mrs Tan Hwee Min <br>
     <td class="tg-a6j4">Mr Muhd Faizrin bin Hashim</td>
   </tr>
   <tr>
-    <td class="tg-imuo">6 Joy</td>
+    <td class="tg-imuo">6 Kindness</td>
     <td class="tg-imuo">Mrs Lynn Lim-Chng</td>
 		<td class="tg-a6j4">Mdm Mageswari Naidu</td>
 
@@ -218,11 +218,13 @@ P6 Year Head: Mrs Tan Hwee Min <br>
     <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Subjects </span></td>
   </tr>
   <tr>
-    <td class="tg-imuo"><span style="font-weight:normal">Mrs Ghana</span></td>
+    <td class="tg-imuo"><span style="font-weight:normal">Mdm Sharmila</span></td>
     <td class="tg-imuo"><span style="font-weight:normal">English Language</span></td>
-  </tr>
-	 <tr>
+  </tr>   <tr>
     <td class="tg-imuo"><span style="font-weight:normal">Mr Keith Tan</span></td>
+    <td class="tg-imuo"><span style="font-weight:normal">English Language</span></td>
+  </tr> <tr>
+    <td class="tg-imuo"><span style="font-weight:normal">Mrs Teng Siok Fun</span></td>
     <td class="tg-imuo"><span style="font-weight:normal">English Language</span></td>
   </tr> <tr>
     <td class="tg-imuo"><span style="font-weight:normal">Miss Soumini Nair</span></td>
@@ -244,15 +246,15 @@ P6 Year Head: Mrs Tan Hwee Min <br>
     <td class="tg-imuo"><span style="font-weight:normal">Chinese Language</span></td>
   </tr>
 	 <tr>
-    <td class="tg-imuo"><span style="font-weight:normal">Miss Tan Moh</span></td>
-    <td class="tg-imuo"><span style="font-weight:normal">Chinese Language</span></td>
+    <td class="tg-imuo"><span style="font-weight:normal">Mrs Ganapathy</span></td>
+    <td class="tg-imuo"><span style="font-weight:normal">Tamil  Language</span></td>
   </tr>
 	 <tr>
     <td class="tg-imuo"><span style="font-weight:normal">Mrs Sarojah Raj</span></td>
     <td class="tg-imuo"><span style="font-weight:normal">Tamil Language</span></td>
   </tr> <tr>
-    <td class="tg-imuo"><span style="font-weight:normal">Mdm Jennie Teo</span></td>
-    <td class="tg-imuo"><span style="font-weight:normal">Art</span></td>
+    <td class="tg-imuo"><span style="font-weight:normal">Ms Angela Tang</span></td>
+    <td class="tg-imuo"><span style="font-weight:normal">Chinese Language and Music</span></td>
   </tr> <tr>
     <td class="tg-imuo"><span style="font-weight:normal">Mr Joseph Chan</span></td>
     <td class="tg-imuo"><span style="font-weight:normal">Physical Education</span></td>

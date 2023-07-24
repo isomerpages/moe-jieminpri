@@ -36,7 +36,7 @@ third_nav_title: Staff
   </tr>
 	 <tr>
     <td class="tg-vqji">Mdm Dewi Hartini</td>
-    <td class="tg-vqji">Information Communication & Technology Manager</td>
+    <td class="tg-vqji">Information Communication &amp; Technology Manager</td>
   </tr>
   <tr>
     <td class="tg-vqji">Mdm Haslindawati Karim<br></td>
@@ -62,12 +62,16 @@ third_nav_title: Staff
     <td class="tg-vqji">Mrs Lim Fei Mee</td>
     <td class="tg-vqji">Support Staff – Library</td>
   </tr>
+	  <tr>
+    <td class="tg-vqji">Mdm Ruby Tok</td>
+    <td class="tg-vqji">Support Staff – Science Lab</td>
+  </tr>
   <tr>
-    <td class="tg-vqji">Mr Ng Gee Siong, Seon</td>
+    <td class="tg-vqji">Mr Mohd Dannie Afiq Sukamee</td>
     <td class="tg-vqji">Desktop Engineer</td>
   </tr>
   <tr>
-    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">Ms Nodiana Bte Mohd Yeari</span></td>
+    <td class="tg-mzni"><span style="font-weight:normal;color:#58595B">Ms Nordiana Bte Mohd Yeari</span></td>
     <td class="tg-vqji">Desktop Engineer</td>
   </tr>
   <tr>

@@ -34,7 +34,7 @@ third_nav_title: Staff
     <td class="tg-imuo"><span style="font-weight:normal">Special Education Needs Officer</span></td>
   </tr>
 	<tr>
-    <td class="tg-imuo"><span style="font-weight:normal">Mdm Christine Teo</span><br><span style="font-weight:normal">Miss Trishia Ng</span></td>
+    <td class="tg-imuo"><span style="font-weight:normal">Mdm Christine Teo</span></td>
     <td class="tg-imuo"><span style="font-weight:normal">School Counsellor</span></td>
   </tr>
 </tbody>
