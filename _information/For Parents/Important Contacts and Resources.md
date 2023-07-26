@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Parents
 ---
 #### Quick Links <br>
-<h5><a href="#Service_Providers">Service Providers</a><br>
+
 <a href="#Curriculum_Time">Curriculum Time</a><br>
 <a href="#Gate_Opening_Hours">Gate Opening Hours</a><br>
 <a href="#Drop_Off_And_Pick_Up_Points">Drop Off and Pick Up Points</a><br>
@@ -22,7 +22,7 @@ third_nav_title: For Parents
 
 
 #### Service Providers <br>
-**School Dental Clinic**<br>
+<b>School Dental Clinic</b><br>
 Operating Hours (Please contact clinic directly)<br>
 Lunch Break: 1pm – 2pm<br>
 Tel: 85331492  or<br>
@@ -30,14 +30,14 @@ Health Promotion Board #04-00, <br>
 No.3, Second Hospital Avenue <br>
 Singapore 168937<br>
 <br>
-**School Bus Transportation**<br>
+<b>School Bus Transportation</b><br>
 96 Transit<br>
 Mr Benny Ng <br>
 Tel: 86689923<br>
 Please liaise with vendors directly<br>
 Bus fare<br>
 <br>
-**Bookstore Continental Bookstore**<br>
+<b>Bookstore Continental Bookstore</b><br>
 School Term<br>
 Monday to Friday<br>
 8am to 3pm<br>
@@ -46,7 +46,7 @@ Lunch Break: 11.30am – 12.30pm<br>
 Tel: 62550181<br>
 Name Tag order form<br>
 <br>
-**School Uniform Chop Kong Chong**<br>
+<b>School Uniform Chop Kong Chong</b><br>
 Sembawang Shopping Centre<br>
 604 Sembawang Road,<br>
 #02-13 S758459<br>
@@ -60,7 +60,7 @@ Sunday and Public Holidays<br>
 Online Orders <br>
 *Pricing depends on size<br>
 <br>
-**Student Care Centre Nascan**<br>
+<b>Student Care Centre Nascan</b><br>
 Operational Hours:  After school hours to 7pm<br>
 Student Care Centre inside Jiemin Primary School<br>
 Tel: 82988565<br>
@@ -263,7 +263,7 @@ The MOE FAS is open to all pupils who are Singapore Citizens. The MOE FAS applic
 
 If there are any changes to the pupils' official address and/or parents'/guardians' contact numbers, please update your information in Parents Gateway.
 
-</h5><h5><a href="/files/Nametag%20order%20form%20(Generic).pdf"></a><a href="/files/Nametag%20order%20form%20(Generic).pdf"></a><a id="parents11">Payment of School Fees</a></h5>
+<h5><a href="/files/Nametag%20order%20form%20(Generic).pdf"></a><a href="/files/Nametag%20order%20form%20(Generic).pdf"></a><a id="parents11">Payment of School Fees</a></h5>
 
 We encourage parents to pay school fees via non-cash channels (eg. either by GIRO, directly via iBanking or at AXS machines), so that your child does not need to carry cash to school to pay for the school fees with the risk of losing his/her wallet.
 
