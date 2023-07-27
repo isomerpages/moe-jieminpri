@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Parents
 ---
 #### Quick Links <br>
-<h5><a href="#Service_Providers">Service Providers</a><br>
+
 <a href="#Curriculum_Time">Curriculum Time</a><br>
 <a href="#Gate_Opening_Hours">Gate Opening Hours</a><br>
 <a href="#Drop_Off_And_Pick_Up_Points">Drop Off and Pick Up Points</a><br>
@@ -22,14 +22,49 @@ third_nav_title: For Parents
 
 
 #### Service Providers <br>
-
-| Service Provider | Operating Hours |Lunch Break | Address / Telephone Number |
-| :-------: | :-------: |:-------:|:-------:|
-|School Dental Clinic | Please contact the clinic for details |1pm - 2pm| School Dental Clinic<br>Tel: 6757 4231 <br>or<br> Health Promotion Board #04-00, <br>School Dental Service No. 3,<br> Second Hospital Avenue<br> Singapore 168937 <br>Tel: 6435-3782 <br>(Pls call for appointment/enquiry)|
-| School Bus Transport | - | 96 Transit<br><br>Mr Benny Ng<br>HP No. 8668 9923 | Please liaise with the vendors directly<br><br>Bus Fare:<br><a href="/files/busfare2023.pdf">Bus Fare 2023.pdf
-| Bookstore Continental Bookstore| School Term<br>Mon to Fri : 8am to 3pm<br>*Parents only allowed to come in from 2pm to 3 pm | 11.30am – 12.30pm | Tel : 6255 0181<br>Name-tag Order Form:</a><a href="/files/Nametag%20order%20form%20(Generic).pdf"><br>Nametag order form (Generic).pdf |
-| School Uniform<br>Chop Kong Chong| - | Sembawang Shopping Centre, 604 Sembawang Road , #02-13, S(758459<br>Tel No: 67531489<br>Fax: 67589290<br><br>11.30am - 8pm<br>(Mondays to Saturdays)<br><br>11.30am - 6pm<br>Sundays and public holidays<br><br>Online orders<br>https://euniforms.com.sg/shop/product-category/primary-schools/jps/ | Pricing depends on size |
-| Student Care Centre (NASCAN) | After school hours to 7pm | - | Student Care Centre inside<br>Jiemin Primary School<br>Tel :  8298 8565 <br>jmscc@nascans.com |
+<b>School Dental Clinic</b><br>
+Operating Hours (Please contact clinic directly)<br>
+Lunch Break: 1pm – 2pm<br>
+Tel: 85331492  or<br>
+Health Promotion Board #04-00, <br>
+No.3, Second Hospital Avenue <br>
+Singapore 168937<br>
+<br>
+<b>School Bus Transportation</b><br>
+96 Transit<br>
+Mr Benny Ng <br>
+Tel: 86689923<br>
+Please liaise with vendors directly<br>
+Bus fare<br>
+<br>
+<b>Bookstore Continental Bookstore</b><br>
+School Term<br>
+Monday to Friday<br>
+8am to 3pm<br>
+*Parents only allowed to come in from 2pm to 3pm<br>
+Lunch Break: 11.30am – 12.30pm<br>
+Tel: 62550181<br>
+Name Tag order form<br>
+<br>
+<b>School Uniform Chop Kong Chong</b><br>
+Sembawang Shopping Centre<br>
+604 Sembawang Road,<br>
+#02-13 S758459<br>
+Tel: 67531489<br>
+Fax: 67589290<br>
+Operating Hours<br>
+Monday to Saturday<br>
+11.30 – 8pm<br>
+Sunday and Public Holidays<br>
+11.30 – 6pm<br>
+Online Orders <br>
+*Pricing depends on size<br>
+<br>
+<b>Student Care Centre Nascan</b><br>
+Operational Hours:  After school hours to 7pm<br>
+Student Care Centre inside Jiemin Primary School<br>
+Tel: 82988565<br>
+<br>
 
 #### Curriculum Time <br>
 	
@@ -228,7 +263,7 @@ The MOE FAS is open to all pupils who are Singapore Citizens. The MOE FAS applic
 
 If there are any changes to the pupils' official address and/or parents'/guardians' contact numbers, please update your information in Parents Gateway.
 
-</a><h5><a href="/files/Nametag%20order%20form%20(Generic).pdf"></a><a href="/files/Nametag%20order%20form%20(Generic).pdf"></a><a id="parents11">Payment of School Fees</a></h5>
+<h5><a href="/files/Nametag%20order%20form%20(Generic).pdf"></a><a href="/files/Nametag%20order%20form%20(Generic).pdf"></a><a id="parents11">Payment of School Fees</a></h5>
 
 We encourage parents to pay school fees via non-cash channels (eg. either by GIRO, directly via iBanking or at AXS machines), so that your child does not need to carry cash to school to pay for the school fees with the risk of losing his/her wallet.
 
@@ -274,7 +309,7 @@ For more information on school fees, please refer to the&nbsp;[MOE webpage](http
 
 
 
-</h5><h5><a id="parents12">MOE FAS - Transport Vouchers Redemption</a></h5>
+<h5><a id="parents12">MOE FAS - Transport Vouchers Redemption</a></h5>
 
 MOE FAS students, who are eligible for Transport Vouchers and have been approved the transport subsidy, can refer to the following guide on how to redeem the transport vouchers:  
 [Annex - Redemption of Voucher and List of Suggested Merchants.pdf](/files/Annex%20-%20Redemption%20of%20Voucher%20and%20List%20of%20Suggested%20Merchants.pdf) 
