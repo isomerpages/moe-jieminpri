@@ -106,11 +106,7 @@ third_nav_title: Staff
     <td class="tg-a6j4"> Ms Sarah Wong</td>
     <td class="tg-a6j4"> Level Head - Character &amp; Citizenship Education</td>
   </tr>
- <tr>
-    <td class="tg-imuo">Mr Lim Tee Wui</td>
-    <td class="tg-a6j4">Subject Head - Co-Curricular Activities</td>
-  </tr>
-	  <tr>
+	<tr>
     <td class="tg-imuo">Mr Gion Pee</td>
     <td class="tg-a6j4">Subject Head - Information Communication and Technology</td>
   </tr>
