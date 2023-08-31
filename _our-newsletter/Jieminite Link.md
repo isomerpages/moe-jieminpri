@@ -31,12 +31,12 @@ description: ""
   <tr>
    <td class="tg-fxx4"><span style="color:#222"> 2023</span></td>
     <td class="tg-fxx4"><span style="color:#222"> Term 1</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span><a href="/files/jieminitelinkterm12023.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">JLink_T1_2023.pdf</span></a><br></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span><a href="/files/Jieminite%20Link/jieminitelinkterm12023.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">JLink_T1_2023.pdf</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222"> Term 2</span></td>
-    <td class="tg-fxx4"><span style="color:#222"> </span><a href="/files/jieminitelinkterm22023.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">JLink_T2_2023.pdf</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222"> </span><a href="/files/Jieminite%20Link/jieminitelinkterm22023.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">JLink_T2_2023.pdf</span></a></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222"> 2022</span></td>
