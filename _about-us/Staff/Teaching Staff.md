@@ -185,7 +185,7 @@ P6 Year Head: Mrs Tan Hwee Min <br>
   </tr>
   <tr>
     <td class="tg-imuo">6 Diligence</td>
-    <td class="tg-imuo">Miss Surya Parvathy Pillai</td>
+    <td class="tg-imuo">Ms Surya Parvathy Pillai</td>
     <td class="tg-imuo">Miss Joanne Lim</td>
   </tr>
   <tr>
