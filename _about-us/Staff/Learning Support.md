@@ -24,13 +24,13 @@ third_nav_title: Staff
     <td class="tg-imuo"><span style="font-weight:normal">Learning Support Programme (LSP)</span></td>
   </tr>
   <tr>
-    <td class="tg-imuo"><span style="font-weight:normal">Miss Erni Suzanah bte Jaini</span><br><span style="font-weight:normal">Mdm Joyce Shen</span><br><span style="font-weight:normal">Miss Surya Parvathy Pillai</span><br><span style="font-weight:normal">Mrs Tanuja Suraj</span><br><span style="font-weight:normal">Mdm Udiana Jamalludin</span><br><span style="font-weight:normal">Mrs Vivianne Low-Goh</span><br><span style="font-weight:normal">Mdm Zahirah bte Raihan</span><br></td>
+    <td class="tg-imuo"><span style="font-weight:normal">Miss Erni Suzanah bte Jaini</span><br><span style="font-weight:normal">Mdm Joyce Shen</span><br><span style="font-weight:normal">Ms Surya Parvathy Pillai</span><br><span style="font-weight:normal">Mrs Tanuja Suraj</span><br><span style="font-weight:normal">Mdm Udiana Jamalludin</span><br><span style="font-weight:normal">Mrs Vivianne Low-Goh</span><br><span style="font-weight:normal">Mdm Zahirah bte Raihan</span><br></td>
     <td class="tg-imuo"><span style="font-weight:normal">Learning Support for Mathematics (LSM)</span></td>
   </tr><tr>
     <td class="tg-imuo"><span style="font-weight:normal">Mdm K S Sharmila</span><br><span style="font-weight:normal">Mdm Chua Siew Beng</span></td>
     <td class="tg-imuo"><span style="font-weight:normal">Teacher Counsellor</span></td>
   </tr> <tr>
-    <td class="tg-imuo"><span style="font-weight:normal">Mdm Suharni Binte Subarjo</span><br><span style="font-weight:normal">Mdm Ratna Mastika</span><br><span style="font-weight:normal">Mdm Neo Li Boon</span><br><span style="font-weight:normal">Mdm Sarimah binti Sarif</span><br><span style="font-weight:normal">Ms Kavitha Ramanathan</span></td>
+    <td class="tg-imuo"><span style="font-weight:normal">Mdm Suharni Binte Subarjo</span><br><span style="font-weight:normal">Mdm Ratna Mastika</span><br><span style="font-weight:normal">Mdm Neo Li Boon</span><br></td>
     <td class="tg-imuo"><span style="font-weight:normal">Special Education Needs Officer</span></td>
   </tr>
 	<tr>
