@@ -25,7 +25,7 @@ third_nav_title: For Parents
 <b>School Dental Clinic</b><br>
 Operating Hours (Please contact clinic directly)<br>
 Lunch Break: 1pm – 2pm<br>
-Tel: 85331492  or<br>
+Tel: 85332492  or<br>
 Health Promotion Board #04-00, <br>
 No.3, Second Hospital Avenue <br>
 Singapore 168937<br>
