@@ -46,7 +46,7 @@ P6 Year Head: Mrs Tan Hwee Min <br>
   <tr>
     <td class="tg-imuo">1 Honesty</td>
     <td class="tg-imuo">Mdm Arfah Arshad</td>
-    <td class="tg-imuo"><span style="background-color:initial">Mdm Aster He <br> Miss Drolma Quek</span></td>
+    <td class="tg-imuo"><span style="background-color:initial">Mdm Aster He</span></td>
   </tr>
   <tr>
     <td class="tg-imuo">1 Joy</td>
@@ -185,7 +185,7 @@ P6 Year Head: Mrs Tan Hwee Min <br>
   </tr>
   <tr>
     <td class="tg-imuo">6 Diligence</td>
-    <td class="tg-imuo">Miss Surya Parvathy Pillai</td>
+    <td class="tg-imuo">Ms Surya Parvathy Pillai</td>
     <td class="tg-imuo">Miss Joanne Lim</td>
   </tr>
   <tr>
