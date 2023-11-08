@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Vision, Mission and Core Values.md
       - Principal's Message.md
       - History.md
+      - Vision, Mission and Core Values.md
       - School Song.md
       - Staff/.keep
       - Staff/School Management Committee.md
