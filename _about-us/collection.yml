@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Booklist 2024.md
       - Principal's Message.md
       - History.md
       - Vision, Mission and Core Values.md
@@ -15,4 +14,5 @@ collections:
       - General Guidelines.md
       - Student Admissions.md
       - Booklists for 2023.md
+      - Booklist 2024.md
       - Contact Us.md
