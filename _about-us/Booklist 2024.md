@@ -50,5 +50,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-
-[](/files/Booklist%202024/Jiemin_Booklist_2024_Primary_6_4S1H.pdf)
