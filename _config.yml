@@ -3,7 +3,7 @@ url: https://jieminpri.moe.edu.sg
 favicon: /images/SCHOOL LOGO w white.png
 colors:
   primary-color: "#1e73b9"
-  secondary-color: "#cd6a56"
+  secondary-color: "#1e73b9"
   media-colors:
     - title: media-color-one
       color: "#49759a"
