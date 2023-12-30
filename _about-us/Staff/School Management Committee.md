@@ -3,6 +3,7 @@ title: School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -95,10 +96,6 @@ third_nav_title: Staff
     <td class="tg-a6j4">Level Head - English Language</td>
   </tr>
   <tr>
-    <td class="tg-a6j4">Mdm Norliza Bte Abdullah</td>
-    <td class="tg-a6j4">Level Head - Mathematics</td>
-  </tr>
-  <tr>
     <td class="tg-imuo">Miss Goh Chuin Pei</td>
     <td class="tg-a6j4">Level Head / Chinese Language</td>
   </tr> 
@@ -138,6 +135,10 @@ third_nav_title: Staff
     <td class="tg-a6j4">Senior Teacher / Music </td>
   </tr>
   <tr>
+    <td class="tg-a6j4">Mdm Norliza Bte Abdullah</td>
+    <td class="tg-a6j4">Senior Teacher / Mathematics</td>
+  </tr>
+	<tr>
     <td class="tg-a6j4">Ms Linda Yeo Mui Lan</td>
     <td class="tg-a6j4">Administration Manager</td>
   </tr>
