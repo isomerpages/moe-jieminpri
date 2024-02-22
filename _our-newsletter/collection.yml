@@ -2,5 +2,6 @@ collections:
   our-newsletter:
     output: true
     order:
+      - Jieminite Link eBook 2023.md
       - Jieminite Link eBook 2022.md
       - Jieminite Link.md
