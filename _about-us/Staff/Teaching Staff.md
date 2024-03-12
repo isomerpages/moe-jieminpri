@@ -6,8 +6,8 @@ third_nav_title: Staff
 variant: tiptap
 ---
 <h3><strong>Year Heads and Assistant Year Heads</strong></h3>
-<p>P1 Year Head: <a href="mailto:Jayasree_K_N_Unnithan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jayasree K N Unnithan</a>
-<br>P2 Assistant Year Head: <a href="mailto:Norhayati_Mohamed_Ansari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norhayati Mohamed Ansari</a>
+<p>P1 Year Head: <a href="mailto:Jayasree_K_N_Unnithan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jayasree K N Unnithan</a> 
+<br>P2 Assistant Year Head: <a href="mailto:Norhayati_Mohamed_Ansari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norhayati Mohamed Ansari</a> 
 <br>P3 Assistant Year Head: <a href="mailto:Kwan_Yee_Ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kwan Yee Ching</a> 
 <br>P4 Year Head: <a href="mailto:Maslinda_Masod@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mas'linda Masod</a> 
 <br>P5 Year Head: <a href="mailto:Tan_Hwee_Min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tan Hwee Min</a> 
@@ -184,7 +184,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="mailto:Enrico_SiewHong_Tong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Enrico Tong</a>
+<p><a href="mailto:Enrico_SiewHong_Tong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Enrico Tong</a> 
 <br><a href="mailto:Huang_Guanghui_Beth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Beth See</a>
 </p>
 </td>
@@ -398,7 +398,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:aik_hooi_san@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Aik Hooi San</a>
+<p><a href="mailto:aik_hooi_san@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Aik Hooi San</a> 
 <br><a href="mailto:Petrina_Raymond@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Petrina Raymond</a>
 </p>
 </td>
@@ -527,7 +527,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="mailto:Tan_Hwee_Min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tan Hwee Min</a>
+<p><a href="mailto:Tan_Hwee_Min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tan Hwee Min</a> 
 <br><a href="mailto:sim_ker_gui_samantha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Samantha Sim</a>
 </p>
 </td>
