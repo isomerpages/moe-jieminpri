@@ -121,7 +121,7 @@ variant: tiptap
 <p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_sze_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Sze Yong</a>
+<p><a href="mailto:lee_sze_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Sze Yong</a> 
 <br><a href="mailto:Jayasree_K_N_Unnithan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jayasree K N Unnithan</a>
 </p>
 </td>
