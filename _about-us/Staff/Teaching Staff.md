@@ -123,7 +123,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_sze_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Sze Yong</a>
 </p>
-<p><a href="mailto:Jayasree_K_N_Unnithan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jayasree K N Unnithan</a> 
+<p><a href="mailto:Jayasree_K_N_Unnithan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jayasree K N Unnithan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
