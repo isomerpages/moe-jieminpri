@@ -14,7 +14,12 @@ variant: tiptap
 <br>P6 Assistant Year Head: <a href="mailto:Damodaran_Prabaharan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Damodaran Prabaharan</a>
 </p>
 <hr>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -116,7 +121,9 @@ variant: tiptap
 <p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:He_Wanqian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Aster He Wanqian</a>
+<p><a href="mailto:lee_sze_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Sze Yong</a>
+</p>
+<p><a href="mailto:Jayasree_K_N_Unnithan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jayasree K N Unnithan</a> 
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -127,7 +134,13 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -232,7 +245,12 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -332,7 +350,13 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
@@ -433,7 +457,14 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -539,7 +570,14 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="5">
@@ -661,7 +699,11 @@ variant: tiptap
 </table>
 <p>&nbsp;</p>
 <hr>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
