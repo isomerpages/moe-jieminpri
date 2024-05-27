@@ -11,9 +11,9 @@ variant: tiptap
 </div>
 <p>There are new books waiting for you to borrow them home!</p>
 <p></p>
-<h3>Recommended Storybooks for the June Holidays </h3>
+<h3>Recommended Storybooks for the June Holidays</h3>
 <h3>Theme: Climate Change</h3>
-<h4>P1 - P3: </h4>
+<h4>P1 - P3:</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -270,7 +270,7 @@ these online resources through the School eResource Repository on OPAC:&nbsp;</p
 <p>Videos</p>
 </li>
 </ul>
-<p><strong>Accessing OPAC</strong>
-<br>Your login would be your Student ID number, all capital letters. E.g.&nbsp; <strong><u>T</u></strong>1234567<strong><u>A</u></strong>
+<p><strong>Accessing OPAC</strong> 
+<br>Your login would be your Student ID number, all capital letters. E.g.&nbsp; <strong><u>T</u></strong>1234567<strong><u>A</u></strong> 
 <br>Please visit the library to find out what the default password is. You
 will be prompted to change your password the first time you log in successfully.</p>
