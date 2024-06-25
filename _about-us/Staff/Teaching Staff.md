@@ -558,7 +558,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="mailto:Tan_Hwee_Min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tan Hwee Min</a> 
+<p><a href="mailto:Tan_Hwee_Min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tan Hwee Min</a>
 </p>
 <p><a href="mailto:tan_jiaying_elga@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Elga Tan Jiaying</a>
 </p>
