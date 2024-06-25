@@ -522,7 +522,7 @@ variant: tiptap
 <p>5 Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Tan_Jiaying_Elga@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Elga Tan Jiaying</a>
+<p><a href="mailto:sim_ker_gui_samantha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Samantha Sim Ker Gui</a>
 </p>
 </td>
 <td rowspan="1" colspan="2">
@@ -558,8 +558,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="mailto:Tan_Hwee_Min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tan Hwee Min</a> 
-<br><a href="mailto:sim_ker_gui_samantha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Samantha Sim</a>
+<p><a href="mailto:Tan_Hwee_Min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tan Hwee Min</a>
+</p>
+<p><a href="mailto:tan_jiaying_elga@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Elga Tan Jiaying</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -737,15 +738,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Teng Siok Fun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Catherine Lim Poh Eng</p>
+<p>Mdm Sukirah Bte Kateni</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English Language</p>
@@ -820,10 +813,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Michelle Tan</p>
+<p>Mdm Siti Nadiah Binte Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Social Studies</p>
+<p>Art</p>
 </td>
 </tr>
 </tbody>
