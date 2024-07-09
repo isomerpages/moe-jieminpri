@@ -5,7 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h5><a rel="noopener noreferrer nofollow" target="_blank">Jieminite Link</a></h5>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -39,6 +44,19 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/files/Jieminite Link/Jieminte_Link_Term_2__2024.pdf" rel="noopener noreferrer nofollow" target="_blank">JLink_T2_2024.pdf</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/Jieminite Link/Jieminite_Link_2024__Issue_3_.pdf" rel="noopener noreferrer nofollow" target="_blank">JLink_T3_2024.pdf</a></strong>
 </p>
 </td>
 </tr>
