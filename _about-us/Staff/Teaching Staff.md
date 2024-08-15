@@ -122,7 +122,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_sze_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Sze Yong</a> 
-<br><a href="mailto:Jayasree_K_N_Unnithan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jayasree K N Unnithan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -179,11 +178,11 @@ variant: tiptap
 <p>2 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Aw_Bixi_Charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Charlotte Aw Bixi</a>
+<p><a href="mailto:Muliana_Mohammad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Muliana Mohd</a>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="mailto:Muliana_Mohammad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Muliana Mohd</a>
+<p><a href="mailto:jiemin_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Dzuraiha</a>
 </p>
 </td>
 </tr>
@@ -776,23 +775,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Chua_Siew_Beng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Siew Beng</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Moh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese Language</p>
 </td>
 </tr>
 <tr>
