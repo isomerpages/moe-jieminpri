@@ -3,10 +3,8 @@ title: Useful Links
 permalink: /information/staff/useful-links/
 description: ""
 third_nav_title: For Staff
+variant: markdown
 ---
-
-
-
 ### MOE Websites / Applications
 
 
@@ -20,7 +18,6 @@ third_nav_title: For Staff
 
 ### Restricted Websites (VPN connection may be needed)
 
-*   [MOE Intranet](http://intranet.moe.gov.sg/) ([My Applications](http://intranet.moe.gov.sg/my_workspace_admin/applications/))
 *   [MIMS Portal](https://idp.mims.moe.gov.sg/nidp/app) 
 *   [School Cockpit](https://schoolcockpit.moe.gov.sg/CP/scapp/security)
 *   [Resource Booking System](https://rbs.avero-tech.com/)
