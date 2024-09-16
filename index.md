@@ -14,7 +14,7 @@ sections:
       button: View More
       url: /announcements
       description: The Primary 1 Orientation will be held on 16 Nov (Sat) 9am to
-        11am... School will start next year on...
+        11am...  School will start next year on...
   - infopic:
       title: Articles
       subtitle: Jieminite Link
