@@ -13,10 +13,14 @@ sections:
       subtitle: Our Latest News
       button: View More
       url: /announcements
+      description: The Primary 1 Orientation will be held on 16 Nov (Sat) 9am to
+        11am...  School will start next year on 2 Jan 2025 for P1s and 3 Jan for
+        P2s to P6s...
   - infopic:
       title: Articles
       subtitle: Jieminite Link
-      description: Learn about our latest happenings through our newsletter Jieminite Link
+      description: Learn about our latest happenings through our termly newsletter
+        Jieminite Link
       button: View More
       url: /our-newsletter/jieminite-link/
       image: /images/jieminitelinkeg.png
@@ -24,7 +28,7 @@ sections:
   - infobar:
       title: SLS
       subtitle: Student Learning Space
-      description: Learn More About Our Use of SLS
+      description: Learn more about our use of SLS
       button: View More
       url: /sls
 ---
