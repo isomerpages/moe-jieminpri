@@ -13,9 +13,8 @@ sections:
       subtitle: Our Latest News
       button: View More
       url: /announcements
-      description: School will start on 2 Jan (Thu) next year for Primary 1 students,
-        and 3 Jan (Fri) for all Primary 2 to 6 students. The Primary 1
-        Orientation...
+      description: The Primary 1 Orientation will be held on 16 Nov (Sat) 9am to
+        11am... School will start next year on...
   - infopic:
       title: Articles
       subtitle: Jieminite Link
