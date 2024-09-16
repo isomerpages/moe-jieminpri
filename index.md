@@ -15,7 +15,7 @@ sections:
       url: /announcements
       description: The Primary 1 Orientation will be held on 16 Nov (Sat) 9am to
         11am...  School will start next year on 2 Jan 2025 for P1s and 3 Jan for
-        P2s to P5s...
+        P2s to P6s...
   - infopic:
       title: Articles
       subtitle: Jieminite Link
