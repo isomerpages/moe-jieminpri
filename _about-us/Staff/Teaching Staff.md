@@ -95,7 +95,7 @@ variant: tiptap
 <p>1 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kalpana_sarma@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Kalpana Jason</a>
+<p><a href="mailto:wan_teng_loh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Loh Wan Teng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -121,7 +121,7 @@ variant: tiptap
 <p>1 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_sze_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Sze Yong</a> 
+<p><a href="mailto:he_wanqian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms He Wanqian</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -196,8 +196,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p><a href="mailto:Enrico_SiewHong_Tong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Enrico Tong</a>
-</p>
-<p><a href="mailto:Loh_Wan_Teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Loh Wan Teng</a>
 </p>
 </td>
 </tr>
