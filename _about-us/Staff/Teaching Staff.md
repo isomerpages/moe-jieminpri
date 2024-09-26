@@ -718,6 +718,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:ravindran_kanna@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Ravindran Kanna</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:K_S_Sharmila@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm K S Sharmila</a>
 </p>
 </td>
@@ -773,6 +782,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_siew_beng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Chua Siew Beng</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
 </td>
 </tr>
 <tr>
