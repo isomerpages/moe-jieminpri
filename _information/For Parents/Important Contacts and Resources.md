@@ -58,10 +58,10 @@ variant: tiptap
 <p></p>
 </th>
 <th rowspan="1" colspan="2">
-<p>&gt;15-Seater – 30-Seaters</p>
+<p>&gt;15-Seater – 30-Seater</p>
 </th>
 <th rowspan="1" colspan="2">
-<p>&gt; 30-Seaters</p>
+<p>&gt; 30-Seater</p>
 </th>
 </tr>
 <tr>
