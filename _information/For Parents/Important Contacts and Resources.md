@@ -6,7 +6,7 @@ third_nav_title: For Parents
 variant: tiptap
 ---
 <h4>Quick Links <br></h4>
-<p><a href="#Curriculum_Time" rel="noopener noreferrer nofollow" target="_blank">Curriculum Time</a>
+<p><a href="#Curriculum_time" rel="noopener nofollow" target="_blank">Curriculum_time</a>
 <br><a href="#Gate_Opening_Hours" rel="noopener noreferrer nofollow" target="_blank">Gate Opening Hours</a>
 <br><a href="#Drop_Off_And_Pick_Up_Points" rel="noopener noreferrer nofollow" target="_blank">Drop Off and Pick Up Points</a>
 <br><a href="#parents6" rel="noopener noreferrer nofollow" target="_blank">Visiting School</a>
@@ -186,7 +186,7 @@ variant: tiptap
 <br>
 <br>
 </p>
-<h4>Curriculum Time <br></h4>
+<h4><a href="#Curriculum_time" rel="noopener nofollow" target="_blank">Curriculum Time</a> <br></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
