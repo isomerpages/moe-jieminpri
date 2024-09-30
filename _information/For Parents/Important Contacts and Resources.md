@@ -35,8 +35,8 @@ variant: tiptap
 <br>Mr Benny Ng
 <br>Tel: 86689923
 <br>Please liaise with vendors directly</p>
-<p>
-<br><strong>Daily School Bus Services based on NOT to Exceed Price (Per month)</strong>
+<p><strong>Daily School Bus Services</strong>
+<br><strong>Not-to-Exceed School Bus Fares (Per month)</strong>
 </p>
 <table style="minWidth: 175px">
 <colgroup>
@@ -54,14 +54,14 @@ variant: tiptap
 <p>Distance</p>
 </th>
 <th rowspan="1" colspan="2">
-<p>Up to 15 Seater</p>
+<p>Up to 15-Seater</p>
 <p></p>
 </th>
 <th rowspan="1" colspan="2">
-<p>&gt;15 seater – 30 seaters</p>
+<p>&gt;15-Seater – 30-Seaters</p>
 </th>
 <th rowspan="1" colspan="2">
-<p>&gt; 30 seaters</p>
+<p>&gt; 30-Seaters</p>
 </th>
 </tr>
 <tr>
