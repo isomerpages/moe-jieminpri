@@ -34,8 +34,9 @@ variant: tiptap
 <br>96 Transit
 <br>Mr Benny Ng
 <br>Tel: 86689923
-<br>Please liaise with vendors directly
-<br>
+<br>Please liaise with vendors directly</p>
+<p>
+<br><strong>Daily School Bus Services based on NOT to Exceed Price (Per month)</strong>
 </p>
 <table style="minWidth: 175px">
 <colgroup>
