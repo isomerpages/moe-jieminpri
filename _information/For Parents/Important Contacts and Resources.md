@@ -58,7 +58,7 @@ variant: tiptap
 <p></p>
 </th>
 <th rowspan="1" colspan="2">
-<p>&gt;15-Seater – 30-Seater</p>
+<p>15- to 30-Seater</p>
 </th>
 <th rowspan="1" colspan="2">
 <p>&gt; 30-Seater</p>
@@ -66,22 +66,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 way</p>
+<p>1-way</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 way</p>
+<p>2-way</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 way</p>
+<p>1-way</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 way</p>
+<p>2-way</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 way</p>
+<p>1-way</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 way</p>
+<p>2-way</p>
 </td>
 </tr>
 <tr>
