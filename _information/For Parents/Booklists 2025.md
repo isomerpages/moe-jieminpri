@@ -1,5 +1,5 @@
 ---
-title: Book Lists 2025
+title: Booklists 2025
 permalink: /information/for-parents/book-lists-2025/
 variant: tiptap
 description: ""
