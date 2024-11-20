@@ -36,7 +36,7 @@ third_nav_title: For Parents
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist 2025/Jiemin_Booklist_2025_Primary_2.pdf" rel="noopener nofollow" target="_blank">Primary 2 Booklist 2025</a>
+<p><u>To be updated</u>
 <br>
 </p>
 </td>
