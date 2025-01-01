@@ -691,6 +691,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:kalpana_sarma@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Kalpana Sarma</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language and Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Soumini Nair</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -784,6 +793,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Ang Teck Keng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physical Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Tee Wui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Physical Education</p>
