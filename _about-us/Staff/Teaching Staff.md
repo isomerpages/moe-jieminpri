@@ -361,7 +361,7 @@ variant: tiptap
 <p>4 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Shen_Xiurong_Joyce@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Phillips Marion Jean</a>
+<p><a href="mailto:phillips_marion_jean@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Phillips Marion Jean</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -374,7 +374,7 @@ variant: tiptap
 <p>4 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Goh_Lee_Teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Petrina Raymond</a>
+<p><a href="mailto:petrina_raymond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Petrina Raymond</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -387,7 +387,7 @@ variant: tiptap
 <p>4 Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ahmad_asri_umar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Zhuo Guan Lin</a>
+<p><a href="mailto:zhuo_guanlin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Zhuo Guanlin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -400,7 +400,7 @@ variant: tiptap
 <p>4 Honesty</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Tan_Kun_Lan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ronald Chai Guo Quan</a>
+<p><a href="mailto:chai_guo_quan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ronald Chai Guo Quan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -413,7 +413,7 @@ variant: tiptap
 <p>4 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Siti_Maisarah_Mohamed_Id@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ahmad Asri</a>
+<p><a href="mailto:ahmad_asri_umar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ahmad Asri</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -426,7 +426,7 @@ variant: tiptap
 <p>4 Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lim_Chin_Soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Bok-Tay Bee Lian</a>
+<p><a href="mailto:bok-tay_bee_lian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Bok-Tay Bee Lian</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -661,7 +661,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>English Language and Social Studies</p>
 </td>
 </tr>
 <tr>
@@ -694,7 +694,7 @@ variant: tiptap
 <p>Ms Soumini Nair</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English Language
+<p>English Language and
 <br>Mathematics</p>
 </td>
 </tr>
@@ -725,8 +725,33 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Cecila Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_set_lee_sarah@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Sarah Wong</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics and Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:chua_siew_beng@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chua Siew Beng</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Poh Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese Language</p>
@@ -750,14 +775,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Poh Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Wilson Kwa</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -770,14 +787,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Physical Education</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Cecila Soon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
 </td>
 </tr>
 </tbody>
