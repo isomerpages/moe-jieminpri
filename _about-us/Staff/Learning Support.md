@@ -63,6 +63,8 @@ variant: tiptap
 <br><a href="mailto:ratna_mastika_ramli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ratna Mastika</a>
 <br><a href="mailto:neo_li_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Neo Li Boon</a>
 </p>
+<p><a href="mailto:nurezma_farah_johan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nurezma Farah Johan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Education Needs Officer</p>
@@ -72,7 +74,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Teo_Wen_Jia_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Christine Teo</a>
 </p>
-<p>Ms Vedelyn Lien</p>
+<p><a href="mailto:lien_hui_ling_vedelyn@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Vedelyn Lien</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
