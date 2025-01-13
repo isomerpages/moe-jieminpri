@@ -522,7 +522,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leow_boon_tat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Leow Boon Tat</a>
+<p><a href="mailto:seah_zhijia_desmond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Desmond Seah</a>
 </p>
 </td>
 </tr>
@@ -535,7 +535,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:seah_zhijia_desmond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Desmond Seah</a>
+<p><a href="mailto:leow_boon_tat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Leow Boon Tat</a>
 </p>
 </td>
 </tr>
