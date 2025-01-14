@@ -66,7 +66,8 @@ to modulate their behaviours. Furthermore, our young are also exposed to
 a wide range of influences that could endanger health and undermine the
 integrity of the family. Our students require close guidance so that they
 can respond with discernment to the sexual messages in the media and other
-sources.&nbsp;</p>
+sources.</p>
+<p>&nbsp;</p>
 <p>7. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) lessons are
 taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons,
 students will learn healthy ways to manage the physiological, social and
@@ -74,6 +75,7 @@ emotional changes in their growing years. They learn to build healthy and
 rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
+<p>&nbsp;</p>
 <p><strong>Information for Parents</strong>
 </p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
@@ -82,13 +84,14 @@ programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the Sexuality Education lessons need to complete an opt-out form.
 This form will be communicated to parents at the start of the year and
-is also downloadable <a href="/files/Sexuality Education/2025_Opt_out_form_.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by <strong>29/02/2024</strong>.</p>
+is also downloadable <a href="/files/Sexuality Education/2025_Opt_out_form_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
+The completed opt-out form is to be submitted by <strong>28/02/2025</strong>.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6758
-6472 or email jiemin_ps@moe.edu.sg for discussion or to seek clarification
-about the school’s Sexuality Education programme.</p>
+6472 or email <a href="mailto:jiemin_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiemin_ps@moe.edu.sg</a> for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
 <p>For the lessons covered in the P5 and P6 curriculum, please refer here:&nbsp;
-<a href="/files/Sexuality Education/2024_Info_on_SEd_Lessons_and_Schedule_for_JPS.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Info on SEd Lessons and Schedule for JPS</a>
+<a href="/files/Sexuality Education/2025_Info_on_SEd_Lessons_and_Schedule_for_JPS.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>2025 Info on SEd Lessons and Schedule for JPS</u>.</a>
 </p>
 <p></p>
 <p></p>
