@@ -270,7 +270,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer nofollow" target="_blank">Ms Farhanah</a>
+<p><a href="mailto:farhana_mohammad_yunos@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Farhana</a>
 </p>
 </td>
 </tr>
