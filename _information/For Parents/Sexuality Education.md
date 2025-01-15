@@ -91,7 +91,7 @@ The completed opt-out form is to be submitted by <strong>28/02/2025</strong>.</p
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
 <p>For the lessons covered in the P5 and P6 curriculum, please refer here:&nbsp;
-<a href="/files/Sexuality Education/2025_Info_on_SEd_Lessons_and_Schedule_for_JPS.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>2025 Info on SEd Lessons and Schedule for JPS</u>.</a>
+<a href="/files/Sexuality Education/2025_Info_on_SEd_Lessons_and_Schedule_for_JPS.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>15 January 2025 Info on SEd Lessons and Schedule for JPS</u>.</a>
 </p>
 <p></p>
 <p></p>
