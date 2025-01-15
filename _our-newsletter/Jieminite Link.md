@@ -25,6 +25,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/Jieminite Link/Jieminite_Link_Issue_1_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">JLink_T1_2025.pdf</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
