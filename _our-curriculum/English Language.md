@@ -17,22 +17,14 @@ While the STELLAR2.0 program fosters a love for reading and a strong English lan
 
 #### Learning Support Program 2.0
 
-
-
-  
-
-#### P3 Stellar cum Guided Reading
-
-The school recognizes the value and significance of reading as it opens the door to the world of knowledge and information for our pupils. The school’s commitment to Guided Reading arises from the desire to help pupils learn to use independent reading strategies successfully and thereby hone their comprehension skills.
+The Learning Support Programme (LSP) was introduced in all primary schools in 1992 to provide additional support to students lacking in early reading skills. A review in 2005 found that systematic phonics instruction in small groups improved students' English language and literacy skills. In 2017, the LSP was further aligned with the mainstream EL STELLAR programme. LSP 2.0, piloted in 15 primary schools in 2018 and 2019, showed improved word reading outcomes. It was fully implemented in all primary schools by 2021.
 
   
 
-The programme serves to provide useful scaffolds to support the pupil as a developing reader. In this process, the teacher is not just facilitating or ‘doing’ reading but is teaching reading. The programme sets out to mould confident, independent and critical readers, who thoroughly enjoy reading.
+#### School-based Dyslexia Remediation Program (SDR) 2.0
 
-  
 
-This year the school is carrying the Guided Reading Programme. As we are embarking on STELLAR this year, we have decided to incorporate the reading strategies in Guided Reading into STELLAR. This will further enhance the pupils’ reading abilities.
-
+The school-based Dyslexia Remediation (SDR) programme 2.0 is an intensive literacy intervention for Primary 3 and 4 students with dyslexia. It aims to help students read, spell, and understand texts independently. The programme is evidence-based, focusing on systematic and explicit teaching, practice with feedback, progress monitoring, and differentiated instruction.
   
 
 #### P4 LET’S (Learn English Thro’ Storyboarding)
