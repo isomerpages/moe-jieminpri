@@ -2,30 +2,22 @@
 title: English Language
 permalink: /departments/english-language/
 description: ""
+variant: markdown
 ---
-### Journalism
+### STELLAR 2.0
 
-Journalism workshops are designed to inculcate the interests of our pupils in writing, whilst improving their ability to better convey their thoughts and ideas on paper. Our pupils will be given opportunities to practice different forms of writing such as newspapers and broadcast. They will learn the different features and writing techniques so that they can enhance their thinking, writing skills and self-expressions. The pupils will also be given opportunities to have a studio experience so that they can showcase their end products.
+The STELLAR 2.0 Programme is an updated version of the STELLAR programme, supporting the new English Language Syllabus 2020. It has been revised to better equip learners for changes in language use, such as the increasing importance of linguistic and communication skills, adaptability, and flexibility in a changing global environment. This includes advancements in infomation technology influencing literacy skills and the inclusion of multiliteracies in English. The programme also focuses on preparing learners for future workplace demands, emphasizing interpersonal skills, higher-order cognitive skills, and information systems skills.
 
-  
+While the STELLAR2.0 program fosters a love for reading and a strong English language foundation in students, language learning in the 21st century must encompass various competencies to prepare youth for the digital age. EL teaching practices are being re-evaluated to meet the communication demands of today's students through the key shifts in ELS2020.
 
-### STELLAR (Strategies for English Language Learning and Reading)
-
-#### P1 and P2 Stellar
-
-STELLAR is a new English Language Curriculum for Primary Schools in Singapore. At Jiemin, we have embarked on the programme since 2008.
 
   
 
-In STELLAR, the lessons are focused on reading using Big Books where pupils read for knowledge and enjoyment. Each unit is designed using one Big Book. Unlike past programmes, the teaching and learning in STELLAR involves more speaking and listening activities.
+### School Support Programs
 
-  
+#### Learning Support Program 2.0
 
-Pupils learn reading and writing using rich and interesting books, with discussions led by the teacher. In addition, our pupils get to interact in a non-threatening, conducive environment where it is enriched with pupils’ written work and various reading materials.
 
-  
-
-The focus in the classroom is on children’s interaction rather than on teacher talk.We hope that every pupil in Jiemin will develop a love for reading and a strong foundation in the English Language, and as the title of the programme suggests, achieve stellar grades.
 
   
 
