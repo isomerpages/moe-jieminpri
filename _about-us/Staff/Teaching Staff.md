@@ -67,7 +67,7 @@ variant: tiptap
 <p>1 Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wan_teng_loh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Low Wan Teng</a>
+<p><a href="mailto:wan_teng_loh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Loh Wan Teng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
