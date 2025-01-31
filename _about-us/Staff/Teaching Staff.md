@@ -479,7 +479,7 @@ variant: tiptap
 <p>5 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_swee_lin_sharon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sharon Wong-Tan Swee Lin</a>
+<p><a href="mailto:tan_swee_lin_sharon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sharon Wong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
