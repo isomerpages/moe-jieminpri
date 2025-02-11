@@ -66,9 +66,15 @@ Primary 4 and Primary 5 Jieminites are on the myON program. This program has a s
 
 #### English Language Week 2024
 
-![Our VP, Ms Wong, reading to the pupils during recess.](/images/WhatsApp_Image_2024_11_08_at_11_26_04_AM.jpg)
+
 
 Jiemin English Language Week aims to ignite a passion for English among Jieminites. This dedicated week creates an immersive environment filled with diverse, interactive activities tailored to various learning preferences. These engaging events are crafted to boost language proficiency while encouraging Jieminites to learn English through enjoyable and imaginative means.
+
+![Our VP, Ms Wong, reading to the pupils during recess.](/images/WhatsApp_Image_2024_11_08_at_11_26_04_AM.jpg)
+Our VP, Ms Wong, sharing an exciting story during recess.
+
+![Our Mystery Reader](/images/WhatsApp_Image_2024_11_08_at_11_30_35_AM.jpg)
+Our mystery reader, sharing a story with the pupils during recess. (Can you guess who he is?)
 
 The week features a range of activities, including dynamic EL storytelling sessions and entertaining library games. These hands-on experiences offer Jieminites practical opportunities to use and appreciate English in lively, engaging ways. The overarching aim is to cultivate a genuine appreciation for the language, empowering Jieminites to become self-assured and eager communicators.
 
@@ -80,6 +86,19 @@ In essence, English Language Week serves as a vibrant celebration of English, st
 
 
 ![Our VPs](/images/WhatsApp_Image_2024_11_08_at_11_27_49_AM.jpg)
+Mulan and Captain Jack Sparrow in Action!
+![Our 'Matilda"](/images/WhatsApp_Image_2024_11_08_at_11_32_22_AM.jpg)
+Our Matilda!
+![Dr. Seuss](/images/WhatsApp_Image_2024_11_08_at_11_32_21_AM.jpg)
+Dr. Seuss in our school!
+![Fantastic Mr Fox](/images/WhatsApp_Image_2024_11_08_at_11_32_21_AM__2_.jpg)
+Hi there, 'Mr Fox'! You are fantastic!
+![The goose who lay the golden egg](/images/WhatsApp_Image_2024_11_08_at_11_32_21_AM__1_.jpg)
+The farmer bringing his goose and the golden eggs around!
+![Alice](/images/WhatsApp_Image_2024_11_08_at_11_32_20_AM.jpg)
+Alice in JieminLand!
+![Aladdin and Jafar](/images/WhatsApp_Image_2024_11_08_at_11_32_20_AM__1_.jpg)
+Aladdin, Abu and Jafar chilling around!
 Character Day added an extra layer of excitement to the school's literary focus. English teachers transformed themselves into beloved storybook characters, bringing literature to life in a tangible way. Jieminites were treated to animated storytelling sessions featuring teachers embodying an array of characters from both classic and contemporary literature. This creative approach, featuring everything from fairy tale protagonists to intrepid explorers, made stories more engaging and accessible. The teachers' enthusiasm and performances inspired Jieminites to explore new books and immerse themselves more deeply in the world of reading.
 
 
