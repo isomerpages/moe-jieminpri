@@ -79,6 +79,7 @@ In essence, English Language Week serves as a vibrant celebration of English, st
 
 
 
+![Our VPs](/images/WhatsApp_Image_2024_11_08_at_11_27_49_AM.jpg)
 Character Day added an extra layer of excitement to the school's literary focus. English teachers transformed themselves into beloved storybook characters, bringing literature to life in a tangible way. Jieminites were treated to animated storytelling sessions featuring teachers embodying an array of characters from both classic and contemporary literature. This creative approach, featuring everything from fairy tale protagonists to intrepid explorers, made stories more engaging and accessible. The teachers' enthusiasm and performances inspired Jieminites to explore new books and immerse themselves more deeply in the world of reading.
 
 
