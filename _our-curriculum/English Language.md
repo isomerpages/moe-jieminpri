@@ -99,13 +99,103 @@ The farmer bringing his goose and the golden eggs around!
 Alice in JieminLand!
 ![Aladdin and Jafar](/images/WhatsApp_Image_2024_11_08_at_11_32_20_AM__1_.jpg)
 Aladdin, Abu and Jafar chilling around!
+
 Character Day added an extra layer of excitement to the school's literary focus. English teachers transformed themselves into beloved storybook characters, bringing literature to life in a tangible way. Jieminites were treated to animated storytelling sessions featuring teachers embodying an array of characters from both classic and contemporary literature. This creative approach, featuring everything from fairy tale protagonists to intrepid explorers, made stories more engaging and accessible. The teachers' enthusiasm and performances inspired Jieminites to explore new books and immerse themselves more deeply in the world of reading.
 
 
-#### P5 and P6 Fun and Engaging English Lessons (FEEL)
+###   English Enrichment Programs
 
-This programme is designed to help pupils to become better and more enthusiastic readers and writers. Pupils are expected to look for a certain element of literature in the story, such as setting or theme or point of view and become more sophisticated readers.
+
+#### P1 Choral Reading
+
+
+
+Choral Reading for Primary 1 Jieminites aims to nurture confident communicators through engaging and interactive techniques. By employing Antiphonal and Cumulative reading methods, Jieminites learn to read aloud in unison and build upon each other's voices, fostering teamwork and mutual support. We have incorporated environmental themes, to spark interest in both reading and current issues. Through regular practice, Jieminites can develop improved articulation, expression, and voice projection. This holistic approach not only enhances their reading skills but also builds self-assurance in public speaking. As Jieminites explore various texts together, they cultivate a lasting enthusiasm for reading. Adaptive and critical thinking skills will be developed as they get to analyse and interpret different scripts, considering the environmental themes and how best to convey them through their performances. This approach aligns with the e-21st Century Competencies (e-21st CC) framework, emphasising the importance of these cognitive skills in today's rapidly changing world. of the program, we hope the Jieminites can express their thoughts clearly and articulate speech with intonation and expression.
+
+
+
+#### P2 Speech and Drama
+
+
+
+Speech and Drama for Primary 2 Jieminites aims to nurture confident communicators through elements of drama such as dramatization, characterization, and vocalization. We seek to build their confidence in presenting their works to a live audience. We believe that Jieminites will develop critical thinking skills as they analyse environmental issues and consider how to effectively communicate them through drama. This aligns with the e-21st Century Competencies framework, encouraging Jieminites to think deeply about complex topics and express them creatively. The program also fosters adaptive thinking, as Jieminites learn to adjust their performances based on audience reactions and feedback. This skill is crucial in the e-21st CC framework, preparing Jieminites to navigate and respond to changing situations effectively. We aim to develop confident speakers who can express their thoughts and feelings clearly, use facial expressions to convey character emotions, intonate and articulate speech, share and build on ideas respectfully, dramatize texts, and project their voices to the audience.
+
+
+
+#### P3 Puppetry
+
+
+
+Puppetry for Primary 3 Jieminites aims to teach P3 Jieminites puppetry elements such as puppet manipulation, characterization, and handling. It also seeks to build their skills in presenting their works to the class while incorporating different environmental issues as the central theme in the puppetry lessons. Aligning with the e-21st Century Competencies (e-21st CC) framework, we hope to foster critical thinking as Jieminites analyse environmental issues and creatively express them through puppetry. It also develops adaptive thinking skills, as they learn to adjust their performances based on audience reactions and peer feedback. Jieminites will not only enhance their communication skills but also develop a deeper understanding of environmental issues. This experience can build greater confidence and creativity, which are valuable life skills. Additionally, the durable puppets can serve as lasting educational tools that Jieminites can use in future presentations and projects, further reinforcing their e-21st CC skills.
+
+
+
+#### P4 Public Speaking
+
+
+
+Public Speaking for P4 Jieminites aims to build confidence in public speaking, a vital skill offering three key advantages that align closely with e-21st Century Competencies. We hope each P4 Jieminte is able to effectively convey their messages and engage their audience, enhancing their communication skills. This aligns with the e-21st CC focus on clear and expressive communication, preparing Jieminites to articulate complex ideas in various contexts. We believe that a confident P4 Jieminte can also develop their self-awareness and self-management skills as a confident public speaker. By confidently presenting on environmental topics, P4 Jieminites can develop a deeper understanding of global issues and their role in addressing them, fostering responsible decision-making and active citizenship. The process of developing public speaking skills inherently cultivates other e-21st CC competencies. As our Jieminite prepare and deliver speeches, they enhance their critical and inventive thinking skills, learning to analyse information, generate ideas, and adapt their presentations based on audience feedback. This iterative process of improvement aligns perfectly with the adaptive thinking skills emphasised in the e-21st CC framework, preparing Jieminites to navigate the complexities of an ever-changing world with confidence and competence.
+
+
+###   School Competitions
+
+
+
+#### Spelling Bee
+
+
+![Prize Winners of Spelling Bee!](/images/WhatsApp_Image_2024_11_04_at_1_15_18_PM.jpg)
+P6 Prize Winners 2024
+![Prize winners](/images/WhatsApp_Image_2024_11_04_at_1_15_32_PM.jpg)
+P5 Prize Winners 2024
+
+The Jiemin Spelling Bee is an engaging event designed to cultivate a love for language while enhancing Jieminites' vocabulary, spelling, and comprehension skills. This competition goes beyond merely identifying top spellers; it challenges students to push their boundaries, build confidence, and develop a spirit of healthy competition.
+
+To ensure inclusive participation, preliminary rounds were conducted in each classroom using Kahoot!, a digital platform that aligns with the 21st CC of digital literacy. This approach allowed teachers to assess spelling abilities in a familiar environment while introducing an element of technology-enhanced learning. The finals was then held in the school hall, where they competed before an audience of fellow Jieminites and teachers.
+
+The Spelling Bee's impact on Jieminites was multifaceted, touching on several 21st CC: Communication, Collaboration, and Information Skills such as enriching vocabulary and improving language proficiency,developing information processing skills through rapid word recognition. At the same time, it boosts self-esteem through public speaking and performance.
+
+The event fostered a strong sense of school spirit as Jieminites enthusiastically cheered for the participants. Many participants expressed excitement and enjoyment throughout the competition, feeling both supported and motivated. The Spelling Bee transformed into a memorable experience that seamlessly blended learning with fun, leaving a lasting impact on students' confidence and enthusiasm for the English language.
+
+
+#### Internal Writing Competition
+
+
+
+
+#### National Competition
+
+
+
+
+#### YMCA Plain English Speaking (PESA) Competition
+
+
+
+The YMCA Plain English Speaking Awards (PESA) 2024, organized by the YMCA of Singapore in collaboration with the Ministry of Education and the Speak Good English Movement, emphasizes the skill of delivering a clear and persuasive message to an audience with sincerity and appropriate language. Successful speakers will showcase their unique voice and style. Detailed qualities of "Plain English Speaking" are outlined in this kit.
+
+The YMCA Plain English Speaking Awards (PESA) 2024 aims to promote public speaking in Plain English as a crucial social and academic skill. It offers students a platform to enhance their speaking abilities and build confidence in public presentations. Additionally, it provides an opportunity for students to learn by observing proficient speakers. Jiemin Primary School is proud to have several Jieminites participating in this prestigious competition, demonstrating their commitment to developing strong communication skills.
+
+Proficient speakers, like those showcased in PESA, offer numerous advantages that align with the goals of Jiemin Primary School and the e-21st Century Competencies framework:
+
+1\. Effective communication: They can articulate complex ideas clearly and concisely, a crucial skill in academic and professional settings.
+
+2\. Confidence building: Their ability to speak confidently inspires others and boosts their own self-esteem.
+
+3\. Critical thinking: Proficient speakers demonstrate the ability to analyse information and present logical arguments.
+
+4\. Adaptability: They can adjust their speaking style to suit different audiences and contexts, showcasing adaptive thinking skills.
+
+5\. Leadership potential: Strong public speaking skills often correlate with effective leadership abilities.
+
+6\. Global awareness: Through their presentations, proficient speakers often demonstrate knowledge of diverse topics, including global issues.
+
+7\. Persuasion and influence: They can effectively convince others and inspire action, particularly important when addressing critical issues.
+
+
+###   Budding Writer
+
+
 
   
 
-At the same time, these pupils will understand how and why a particular story works and become more appreciative of good writing. They can be more conscious there in writing with elements of literature into their own stories.
