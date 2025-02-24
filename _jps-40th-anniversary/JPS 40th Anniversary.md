@@ -23,7 +23,8 @@ embracing the future. We will be updating this page so stay tuned!</p>
 <h3>Upcoming Events</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>Invitation to Join Alumni Performance</p>
+<p><a href="https://jieminpri.moe.edu.sg/invitation-to-join-alumni-performance/" rel="noopener nofollow" target="_blank">Invitation to Join Alumni Performance</a>
+</p>
 </li>
 </ol>
 <p></p>
