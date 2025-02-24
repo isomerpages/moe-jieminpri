@@ -8,7 +8,7 @@ variant: tiptap
 <p>The latest JPS eBook, chronicling the events of 2024, is out! Check out
 the publication at <a href="https://go.gov.sg/jieminprimaryschool-ebook2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jieminprimaryschool-ebook2024</a>.</p>
 <p></p>
-<h3>Discontinuation of Tok-tok! App in 2025</h3>
+<h3>Invitation to Join the</h3>
 <p>We would like to update you that the Tok-Tok! Communicator app hass been
 discontinued in 2025 by the service provider. As part of this transition:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school no longer uses Tok-Tok!
