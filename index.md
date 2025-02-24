@@ -13,9 +13,8 @@ sections:
       subtitle: Our Latest News
       button: View More
       url: /announcements
-      description: School will start next year on 2 Jan 2025 for P1s and 3 Jan for P2s
-        to P6s... Tok-tok! app will be discontinued in 2025. Please save your
-        data by 31 Dec 2024...
+      description: We are inviting our alumni to take part in the 40th Anniversary
+        performance... The latest JPS eBook is out! Check it out at...
   - infopic:
       title: Articles
       subtitle: Jieminite Link

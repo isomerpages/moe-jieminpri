@@ -4,19 +4,18 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
-<h3>Start of School 2025</h3>
-<p>Please note that school will start on 2 Jan 2025 (Thu) for Primary 1 students,
-and 3 Jan 2025 (Fri) for all Primary 2 to 6 students.</p>
+<h3>Invitation to Join the 40th Anniversary Alumni Dance Performance</h3>
+<p>We are thrilled to invite our alumni to be part of a spectacular celebration
+as we mark Jiemin's 40th anniversary. This milestone is a reflection of
+the incredible journey we've had together, and we would like our alumni
+to be part of it!</p>
+<p>Event date: 31st May 2025</p>
+<p>More details are provided in this registration form: <a href="https://go.gov.sg/jps-40thalumform" rel="noopener nofollow" target="_blank">https://go.gov.sg/jps-40thalumform</a>
+</p>
+<p>We hope you will join us in making this 40th anniversary a truly unforgettable
+celebration!</p>
 <p></p>
-<h3>Discontinuation of Tok-tok! App in 2025</h3>
-<p>We would like to update you that the Tok-Tok! Communicator app will be
-discontinued in 2025 by the service provider. As part of this transition:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school will no longer use Tok-Tok!
-Communicator as a platform to communicate with parents from 1 Jan, 2025
-onwards.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All data stored within the app will
-be permanently deleted on Dec 31, 2024</p>
+<h3>Latest JPS eBook is Out!</h3>
+<p>The latest JPS eBook, chronicling the events of 2024, is out! Check out
+the publication at <a href="https://go.gov.sg/jieminprimaryschool-ebook2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jieminprimaryschool-ebook2024</a>.</p>
 <p>&nbsp;</p>
-<p>Parents are advised to save any important communications or documents
-shared through the app before Dec 31, 2024. Please refer to the Parents
-Gateway message sent to parents for more details.</p>
