@@ -8,12 +8,14 @@ variant: tiptap
 <p>The latest JPS eBook, chronicling the events of 2024, is out! Check out
 the publication at <a href="https://go.gov.sg/jieminprimaryschool-ebook2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jieminprimaryschool-ebook2024</a>.</p>
 <p></p>
-<h3>Invitation to Join the</h3>
-<p>We would like to update you that the Tok-Tok! Communicator app hass been
-discontinued in 2025 by the service provider. As part of this transition:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school no longer uses Tok-Tok!
-Communicator as a platform to communicate with parents from 1 Jan, 2025
-onwards.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All data stored within the app was
-permanently deleted on Dec 31, 2024</p>
+<h3>Invitation to Join the 40th Anniversary Alumni Dance Performance</h3>
+<p>We are thrilled to invite our alumni to be part of a spectacular celebration
+as we mark Jiemin's 40th anniversary. This milestone is a reflection of
+the incredible journey we've had together, and we would like our alumni
+to be part of it!</p>
+<p>Event date: 31st May 2025</p>
+<p>More details are provided in this registration form: <a href="https://go.gov.sg/jps-40thalumform" rel="noopener nofollow" target="_blank">https://go.gov.sg/jps-40thalumform</a>
+</p>
+<p>We hope you will join us in making this 40th anniversary a truly unforgettable
+celebration!</p>
 <p>&nbsp;</p>
