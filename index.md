@@ -13,8 +13,8 @@ sections:
       subtitle: Our Latest News
       button: View More
       url: /announcements
-      description: The latest JPS eBook is out! Check it out at
-        https://go.gov.sg/jieminprimaryschool-ebook2024
+      description: The latest JPS eBook is out! Check it out at... We are inviting our
+        alumni to take part in the 40th Anniversary performance...
   - infopic:
       title: Articles
       subtitle: Jieminite Link
