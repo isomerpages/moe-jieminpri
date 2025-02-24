@@ -5,6 +5,8 @@ variant: tiptap
 description: JPS 40th Anniversary logo
 image: /images/40th_Anniversary_Logo.png
 ---
+<h4>A Special Invitation to Celebrate Our 40th Anniversary - Join Us for a Dance Performance!</h4>
+<p></p>
 <p>Dear Alumni,</p>
 <p>We are thrilled to invite you to be part of a spectacular celebration
 as we mark Jiemin's 40th anniversary. This milestone is a reflection of
