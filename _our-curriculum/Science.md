@@ -2,6 +2,7 @@
 title: Science
 permalink: /departments/science/
 description: ""
+variant: markdown
 ---
 ![](/images/Science.jpeg)
 
@@ -44,24 +45,51 @@ To spark curiosity, interest and creativity in the learning of Science.
 </tbody>
 </table>
 
-## P3 Science Learning Journey at the Zoo
+## The Science curriculum aims to:
 
-![](/images/zoo%201.jpeg)
+1\. Provide pupils with experiences which build their interests and stimulate their curiosity about their environment;
 
-![](/images/zoo2.jpeg)
+2\. Provide pupils with basic scientific terms and concepts to help them understand and the world around them
+
+3\. Provide pupils with opportunities to develop skills, habits of mind and attitudes necessary for scientific inquiry
+
+4\. Prepare pupils towards using scientific knowledge and methods in making personal decisions.
+
+&nbsp;These are the programmes planned for pupils from P3 to P6
+
+## 1. Inquiry-based learning through hands-on activities
+
+## 2. Science is fun through experiential learning
+
+
+\-Magic of Science
+
+This programme provides opportunity for pupils to create their own science experiments and to showcase their work or invention by presenting it to their classmates at the concourse. It also allows pupils to be creative and to simulate ideas when they are crafting and designing their experiments.
+
+\- Science Busker Competition
+
+Every year, we send our pupils to participate in the Science Busker Competition organized by Science Centre. In 2023, our pupils won the Judges Awards for the best experiment presented during the competition.
+
+\-Learning Journey
+
+Every year, we provide other learning platforms for our pupils to learn science beyond their classroom.&nbsp; For instance, Primary Three pupils would visit Urban Farming to learn about diversity of plants that is related to topics covered in Primary Three science lessons. Primary Five pupils would discover interesting science concepts learnt during their school-based science fair while the Primary Six pupils would take a trip to a Sustainability tour organized by NEA. Not forgetting the Primary Four pupils, they would be engaged in Science and Technology programme.
+
+![Learning journey](/images/Science_website_2.jpg)
+## Stretch Programme for Science - E2K
+
+
+In Jiemin, we provide a platform for pupils to experience what a scientist does in the laboratory. In this enrichment programme, pupils will be working on open experiments that they have to formulate research questions, plan the experiment protocol, define what equipment they need, perform the experiment, present the results, and draw conclusion. Hence, we offer E2K science for pupils who have such curiosity and motivation to solve the challenge.
+
 
 ## Encapsulating our journey
 
-<img src="/images/butterfly%201.jpeg" 
-     style="width:65%">
+<img src="/images/butterfly%201.jpeg" style="width:65%">
 (Top Left) Pupils researched on the leaf preference of a caterpillar and brought along their own leaves (Top Right, Bottom Left) Brainstorm Session - Designing houses for their caterpillars (Bottom Right) Pupils enthusiastically observing the behaviour of a butterfly.
 
-<img src="/images/butterfly%202.jpeg" 
-     style="width:65%">
+<img src="/images/butterfly%202.jpeg" style="width:65%">
 Touching up on their final products – housing the caterpillars
 
-<img src="/images/butterfly%203.jpeg" 
-     style="width:65%">
+<img src="/images/butterfly%203.jpeg" style="width:65%">
 From Larva to Pupa
 
 ![](/images/MOG1.jpeg)
