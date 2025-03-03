@@ -59,6 +59,10 @@ To spark curiosity, interest and creativity in the learning of Science.
 
 ## 1. Inquiry-based learning through hands-on activities
 
+
+The hands-on activities using apparatus in the science laboratory will allow pupils to be engaged in meaningful exploration as they conduct experiments to make deductions on key Science concepts. They will analyse the data collected to track trends and patterns to arrive at conclusions.
+
+![Hands on activity](/images/Science_website_1.jpg)
 ## 2. Science is fun through experiential learning
 
 
@@ -75,24 +79,10 @@ Every year, we send our pupils to participate in the Science Busker Competition 
 Every year, we provide other learning platforms for our pupils to learn science beyond their classroom.&nbsp; For instance, Primary Three pupils would visit Urban Farming to learn about diversity of plants that is related to topics covered in Primary Three science lessons. Primary Five pupils would discover interesting science concepts learnt during their school-based science fair while the Primary Six pupils would take a trip to a Sustainability tour organized by NEA. Not forgetting the Primary Four pupils, they would be engaged in Science and Technology programme.
 
 ![Learning journey](/images/Science_website_2.jpg)
+
 ## Stretch Programme for Science - E2K
 
 
 In Jiemin, we provide a platform for pupils to experience what a scientist does in the laboratory. In this enrichment programme, pupils will be working on open experiments that they have to formulate research questions, plan the experiment protocol, define what equipment they need, perform the experiment, present the results, and draw conclusion. Hence, we offer E2K science for pupils who have such curiosity and motivation to solve the challenge.
 
 
-## Encapsulating our journey
-
-<img src="/images/butterfly%201.jpeg" style="width:65%">
-(Top Left) Pupils researched on the leaf preference of a caterpillar and brought along their own leaves (Top Right, Bottom Left) Brainstorm Session - Designing houses for their caterpillars (Bottom Right) Pupils enthusiastically observing the behaviour of a butterfly.
-
-<img src="/images/butterfly%202.jpeg" style="width:65%">
-Touching up on their final products – housing the caterpillars
-
-<img src="/images/butterfly%203.jpeg" style="width:65%">
-From Larva to Pupa
-
-![](/images/MOG1.jpeg)
-![](/images/MOG2.jpeg)
-![](/images/TERRARIUM%201.jpeg)
-![](/images/TERRARIUM%202.jpeg)
