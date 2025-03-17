@@ -160,11 +160,29 @@ The event fostered a strong sense of school spirit as Jieminites enthusiasticall
 #### Internal Writing Competition
 
 
+The Internal writing competition at Jiemin Primary School offers a valuable platform for nurturing budding writers and fostering a culture of literary excellence. These events provide Jieminites with regular opportunities to develop their creativity in a supportive, familiar environment. By participating in these competitions, Jieminites can experiment with various writing styles, genres, and themes without the added pressure of external judgement. This freedom to explore and take risks in their writing is crucial for developing confidence and finding their unique voice. Moreover, the consistent practice of writing for these competitions helps Jieminites refine their skills, improve their vocabulary, and enhance their ability to structure compelling narratives.
 
+The feedback and recognition received from these internal competitions serve as powerful motivators for Jieminites to continue honing their craft. Constructive critiques from teachers and peers provide valuable insights for improvement, while accolades for outstanding work boost confidence and encourage further literary pursuits. As Jieminites see their progress over time, they are more likely to view writing as an enjoyable and rewarding activity rather than a daunting task. This positive association with writing, coupled with the regular practice and feedback loop established through these competitions, lays a solid foundation for Jieminites to become prolific writers. The skills and habits developed through these internal events prepare students not only for external competitions but also for a lifetime of effective communication and creative expression.
+
+Internal writing competition winners:
+
+
+| Name | Class |
+| -------- | -------- | 
+| Kyra Lavin     | 3 Diligence    | 
+| Ng Jun Yu    | 3 Diligence     | 
+| Jayden Lim     | 4 Care     | 
+| Amber Wong     | 4 Joy    | 
+| Alyssa Goh    | 5 Diligence     | 
+| Kayden Loh   | 5 Diligence     | 
+| Han Renhao    | 6 Diligence    | 
+| Adhwa Binte Amirul Haque     | 6 Kindness    | 
 
 #### National Competition
 
+The National English Writing Competition (NEW-C), organized by the Singapore Young Writers Press, is an on-the-spot writing event for students aged 8 to 12, aimed at showcasing writing by children, for children. Jiemin takes great pride in its annual participation in this competition, which serves as a platform for Jieminites to showcase their writing prowess. The event offers students a valuable opportunity to hone their skills in producing high-quality written work. The prospect of having their stories published in JPS Budding Writers or recognised not only instils a sense of pride and achievement but also acts as a powerful motivator for Jieminites to further explore and develop their creative talents. This public acknowledgement of their work among peers fosters a supportive environment that celebrates literary accomplishments.
 
+Moreover, the competition encourages Jieminites to delve deeper into their creativity, employ critical thinking, and refine their narrative skills. By engaging with the work of fellow young writers, students gain exposure to diverse writing styles and perspectives, which in turn inspires them to elevate their own literary craftsmanship. We hope this competition plays a crucial role in helping young writers recognise the significance of their storytelling abilities, thereby cultivating a lifelong passion for the written word.
 
 
 #### YMCA Plain English Speaking (PESA) Competition
@@ -193,3 +211,7 @@ Proficient speakers, like those showcased in PESA, offer numerous advantages tha
 
 
 ###   Budding Writer
+
+Each year, JPS "Budding Writer" book showcases the exceptional writing talents of our young Jieminites, with each English teacher submitting an entry from their class. This initiative provides an exciting platform for Jieminites to see their work published, sparking a newfound enthusiasm for writing. For Jieminites, having their pieces featured boosts confidence, affirming their hard work and inspiring them to further develop their writing skills. It also encourages a healthy sense of competition and camaraderie as Jieminites support and celebrate each other’s accomplishments.
+
+In addition to recognizing individual talent, the Budding Writer book elevates the JPS literary reputation. It shines a spotlight on our Jieminites ' creativity and dedication, attracting attention and fostering pride within the JPS community. The book also includes works from the school’s top writers, who go on to represent JPS in the National English Writing Competition (NEW-C), organized by Singapore Young Writers Press. Participation in NEW-C not only gives our Jieminites\` exposure at a national level but also highlights our JPS commitment to fostering literary excellence. This annual publication has become a cornerstone of our English program, creating a legacy of young writers inspired to express, create, and excel.

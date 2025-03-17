@@ -2,6 +2,7 @@
 title: Science
 permalink: /departments/science/
 description: ""
+variant: markdown
 ---
 ![](/images/Science.jpeg)
 
@@ -14,57 +15,43 @@ Self-directed and discerning Science learners who are ignited with passion for c
 
 To spark curiosity, interest and creativity in the learning of Science.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-mzni{background-color:#FFF;color:#58595B;text-align:left;vertical-align:top}
-.tg .tg-17il{background-color:#0F0;color:#58595B;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-yum2{background-color:#FF0;color:#58595B;text-align:center;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 652px">
-<colgroup>
-<col style="width: 177px">
-<col style="width: 475px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-17il" colspan="2">In a Nutshell</td>
-  </tr>
-  <tr>
-    <td class="tg-yum2"><br><br>Core Curriculum</td>
-    <td class="tg-mzni"><br>·       Hands-on Inquiry Based Approach to the learning of Science Concepts<br>·       Experiential Learning through Science Learning Journeys<br>·       Spiral Approach to Mastering of Science Process Skills<br>·       Whole School Approach to Effective Communication in Science<br>·       Science Workshops for Parents<br></td>
-  </tr>
-  <tr>
-    <td class="tg-yum2"><br><br>Fueling Passion</td>
-    <td class="tg-mzni"><br>·      Magic of Science: showcase of experimental findings by pupils for pupils<br>·      The Raft Challenge : a first taste of designing and building<br>·       Seed Germination Project<br>·       Adopt a Plot: Green Fingers Project<br>·       VIA in Science : Caring for the Environment and learning from successful Green Movement stories<br>·      Bulletin Quizzes: based on termly Thematic Science Bulletin<br>·       Thematic Quiz-Quiz-Trade : pupils learning &amp; revising Science Concepts at their own pace with peers             (3 tiers : Basic, Intermediate and Advance)<br>·       I am a Young Architect: using recycling materials to house a caterpillar<br>·      Terrarium Building: using recycling materials to build a terrarium through an interdisciplinary approach<br>·       Sony Creative Toy Competition</td>
-  </tr>
-</tbody>
-</table>
 
-## P3 Science Learning Journey at the Zoo
+## The Science curriculum aims to:
 
-![](/images/zoo%201.jpeg)
+1\. Provide pupils with experiences which build their interests and stimulate their curiosity about their environment;
 
-![](/images/zoo2.jpeg)
+2\. Provide pupils with basic scientific terms and concepts to help them understand and the world around them
 
-## Encapsulating our journey
+3\. Provide pupils with opportunities to develop skills, habits of mind and attitudes necessary for scientific inquiry
 
-<img src="/images/butterfly%201.jpeg" 
-     style="width:65%">
-(Top Left) Pupils researched on the leaf preference of a caterpillar and brought along their own leaves (Top Right, Bottom Left) Brainstorm Session - Designing houses for their caterpillars (Bottom Right) Pupils enthusiastically observing the behaviour of a butterfly.
+4\. Prepare pupils towards using scientific knowledge and methods in making personal decisions.
 
-<img src="/images/butterfly%202.jpeg" 
-     style="width:65%">
-Touching up on their final products – housing the caterpillars
+&nbsp;These are the programmes planned for pupils from P3 to P6
 
-<img src="/images/butterfly%203.jpeg" 
-     style="width:65%">
-From Larva to Pupa
+## 1. Inquiry-based learning through hands-on activities
 
-![](/images/MOG1.jpeg)
-![](/images/MOG2.jpeg)
-![](/images/TERRARIUM%201.jpeg)
-![](/images/TERRARIUM%202.jpeg)
+
+The hands-on activities using apparatus in the science laboratory will allow pupils to be engaged in meaningful exploration as they conduct experiments to make deductions on key Science concepts. They will analyse the data collected to track trends and patterns to arrive at conclusions.
+
+![Hands on activity](/images/Science_website_1.jpg)
+## 2. Science is fun through experiential learning
+
+
+\-Magic of Science
+
+This programme provides opportunity for pupils to create their own science experiments and to showcase their work or invention by presenting it to their classmates at the concourse. It also allows pupils to be creative and to simulate ideas when they are crafting and designing their experiments.
+
+\- Science Busker Competition
+
+Every year, we send our pupils to participate in the Science Busker Competition organized by Science Centre. In 2023, our pupils won the Judges Awards for the best experiment presented during the competition.
+
+\-Learning Journey
+
+Every year, we provide other learning platforms for our pupils to learn science beyond their classroom.&nbsp; For instance, Primary Three pupils would visit Urban Farming to learn about diversity of plants that is related to topics covered in Primary Three science lessons. Primary Five pupils would discover interesting science concepts learnt during their school-based science fair while the Primary Six pupils would take a trip to a Sustainability tour organized by NEA. Not forgetting the Primary Four pupils, they would be engaged in Science and Technology programme.
+
+![Learning journey](/images/Science_website_2.jpg)
+
+## Stretch Programme for Science - E2K
+
+
+In Jiemin, we provide a platform for pupils to experience what a scientist does in the laboratory. In this enrichment programme, pupils will be working on open experiments that they have to formulate research questions, plan the experiment protocol, define what equipment they need, perform the experiment, present the results, and draw conclusion. Hence, we offer E2K science for pupils who have such curiosity and motivation to solve the challenge.
