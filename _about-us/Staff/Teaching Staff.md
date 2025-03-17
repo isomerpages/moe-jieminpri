@@ -292,7 +292,7 @@ variant: tiptap
 <p>3 Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lim_Tee_Wui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sean Lee Song Lin</a>
+<p><a href="mailto:lee_song_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sean Lee Song Lin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
