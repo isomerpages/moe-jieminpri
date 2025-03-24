@@ -213,11 +213,11 @@ variant: tiptap
 <p>2 Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hilmi_samsuddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Hilmi Bin Samsuddin</a>
+<p><a href="mailto:gayathri_naidu_krishnasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Gayathri Naidu</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gayathri_naidu_krishnasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Gayathri Naidu</a>
+<p><a href="mailto:norain_yusof_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norain Yusof</a>
 </p>
 </td>
 </tr>
@@ -226,11 +226,11 @@ variant: tiptap
 <p>2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:he_wanqian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Aster He Wanqian</a>
+<p><a href="mailto:udiana_jamalludin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Udiana JamalludinWanqian</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:udiana_jamalludin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Udiana Jamalludin</a>
+<p><a href="mailto:valarie_chan_ler_yee@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Valarie Chan</a>
 </p>
 </td>
 </tr>
