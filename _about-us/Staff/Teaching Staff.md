@@ -213,11 +213,11 @@ variant: tiptap
 <p>2 Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gayathri_naidu_krishnasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Gayathri Naidu</a>
+<p><a href="mailto:hilmi_samsuddin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Hilmi Samsuddin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norain_yusof_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norain Yusof</a>
+<p><a href="mailto:norain_yusof_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Norain Yusof</a>
 </p>
 </td>
 </tr>
