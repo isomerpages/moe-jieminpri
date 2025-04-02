@@ -156,14 +156,14 @@ variant: tiptap
 </tbody>
 </table>
 <p>
-<br><strong>Bookstore Continental Bookstore</strong>
+<br><strong>Continental Bookstore</strong>
 <br>School Term
 <br>Monday to Friday
-<br>8am to 3pm
-<br>*Parents only allowed to come in from 2pm to 3pm
-<br>Lunch Break: 11.30am – 12.30pm
+<br>8am to 2pm
 <br>Tel: 62550181
-<br>Name Tag order form
+<br>
+<br><em>Bookshop opening hours with effect from 1 Apr 2025 will be from 8am to 2pm. </em>
+<br>*Parents only allowed to come in from <em>8am to 9am, 1.30pm to 2pm. </em>
 <br>
 <br><strong>School Uniform Chop Kong Chong</strong>
 <br>Sembawang Shopping Centre
