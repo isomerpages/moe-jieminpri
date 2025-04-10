@@ -91,9 +91,9 @@ In essence, English Language Week serves as a vibrant celebration of English, st
 
 
 
-| ![Fantastic Mr Fox](/images/WhatsApp_Image_2024_11_08_at_11_32_21_AM__2_.jpg)| ![The goose who lay the golden egg](/images/WhatsApp_Image_2024_11_08_at_11_32_21_AM__1_.jpg) | ![Alice](/images/WhatsApp_Image_2024_11_08_at_11_32_20_AM.jpg) | ![Aladdin and Jafar](/images/WhatsApp_Image_2024_11_08_at_11_32_20_AM__1_.jpg) | 
-| -------- | -------- | -------- | -------- | 
-| Hi there, 'Mr Fox'! You are fantastic!    | The farmer bringing his goose and the golden eggs around!    | Alice in JieminLand!     | Aladdin, Abu and Jafar chilling around!     | 
+| ![Fantastic Mr Fox](/images/WhatsApp_Image_2024_11_08_at_11_32_21_AM__2_.jpg)| ![The goose who lay the golden egg](/images/WhatsApp_Image_2024_11_08_at_11_32_21_AM__1_.jpg) | ![Alice](/images/WhatsApp_Image_2024_11_08_at_11_32_20_AM.jpg) | 
+| -------- | -------- | -------- |
+| Hi there, 'Mr Fox'! You are fantastic!    | The farmer bringing his goose and the golden eggs around!    | Alice in JieminLand!     |  
 
 
 
