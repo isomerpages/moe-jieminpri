@@ -8,14 +8,16 @@ notification: ""
 sections:
   - hero:
       background: /images/homepage.gif
-  - infobar:
-      title: Announcements
-      subtitle: Our Latest News
-      button: View More
-      url: /announcements
-      description: Calling all alumni! We are celebrating our 40th birthday! Join us
-        as we honour our rich history, reconnect with old friends, and celebrate
-        our future!
+  - infopic:
+      title: Calling all Alumni!
+      subtitle: 40th Anniversary Celebrations
+      id: infopic
+      description: We are celebrating our 40th birthday! Join us as we honour our rich
+        history, reconnect with old friends, and celebrate our future!
+      button: How to get tickets
+      url: go.gov.sg/dd
+      image: /images/40th_Anniversary_invite_for_school_website.png
+      alt: Image alt text
   - infopic:
       title: Articles
       subtitle: Jieminite Link
@@ -31,14 +33,4 @@ sections:
       description: Learn more about our use of SLS
       button: View More
       url: /sls
-  - infopic:
-      title: Calling all Alumni!
-      subtitle: 40th Anniversary Celebrations
-      id: infopic
-      description: We are celebrating our 40th birthday! Join us as we honour our rich
-        history, reconnect with old friends, and celebrate our future!
-      button: How to get tickets
-      url: go.gov.sg/dd
-      image: /images/40th_Anniversary_invite_for_school_website.png
-      alt: Image alt text
 ---
