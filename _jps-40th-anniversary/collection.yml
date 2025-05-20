@@ -2,6 +2,6 @@ collections:
   jps-40th-anniversary:
     output: true
     order:
-      - Join Us In the Celebrations.md
       - JPS 40th Anniversary.md
+      - Join Us In the Celebrations.md
       - Invitation to Join Alumni Performance.md
