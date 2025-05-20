@@ -27,10 +27,4 @@ sections:
       url: /our-newsletter/jieminite-link/
       image: /images/jieminitelinkeg.png
       alt: jieminitelinkeg
-  - infobar:
-      title: SLS
-      subtitle: Student Learning Space
-      description: Learn more about our use of SLS
-      button: View More
-      url: /sls
 ---
