@@ -4,16 +4,7 @@ permalink: /departments/science/
 description: ""
 variant: markdown
 ---
-![](/images/Science.jpeg)
-
-## Vision
-
-Self-directed and discerning Science learners who are ignited with passion for continuous exploration.  
-  
-
-## Mission
-
-To spark curiosity, interest and creativity in the learning of Science.
+![](/images/curriculum.png)
 
 
 ## The Science curriculum aims to:
@@ -22,7 +13,7 @@ To spark curiosity, interest and creativity in the learning of Science.
 
 2\. Provide pupils with basic scientific terms and concepts to help them understand and the world around them
 
-3\. Provide pupils with opportunities to develop skills, habits of mind and attitudes necessary for scientific inquiry
+3\. Provide pupils with opportunities to develop skills, habits of mind and attitudes necessary for scientific inquiry!
 
 4\. Prepare pupils towards using scientific knowledge and methods in making personal decisions.
 
