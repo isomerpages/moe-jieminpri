@@ -9,14 +9,12 @@ sections:
   - hero:
       background: /images/homepage.gif
   - infopic:
-      title: Calling all Alumni!
+      title: Jiemin Turns 40 this year!
       subtitle: 40th Anniversary Celebrations
       id: infopic
       description: We are celebrating our 40th birthday! Join us as we honour our rich
         history, reconnect with old friends, and celebrate our future!
-      button: How to get tickets
-      url: /join-us-in-the-celebrations/
-      image: /images/40th_Anniversary_invite_for_school_website.png
+      image: /images/40th_Anniversary_Logo.png
       alt: Image alt text
   - infopic:
       title: Articles
