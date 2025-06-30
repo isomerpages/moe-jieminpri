@@ -17,14 +17,4 @@ and opportunities of the future. Central to this journey has been our focus
 on developing 21st-century skills, particularly critical and adaptive thinking
 skills that empower our students to navigate an ever-changing world with
 confidence, creativity, and resilience.</p>
-<p>In this celebratory year, we have lined up events to honor our past while
-embracing the future. We will be updating this page so stay tuned!</p>
-<hr>
-<h3>Upcoming Events</h3>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="https://jieminpri.moe.edu.sg/invitation-to-join-alumni-performance/" rel="noopener nofollow" target="_blank">Invitation to Join Alumni Performance</a>
-</p>
-</li>
-</ol>
 <p></p>
