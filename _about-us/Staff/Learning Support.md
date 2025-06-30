@@ -50,7 +50,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:K_S_Sharmila@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm K S Sharmila</a>
-<br><a href="mailto:Chua_Siew_Beng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Siew Beng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -65,6 +64,7 @@ variant: tiptap
 </p>
 <p><a href="mailto:nurezma_farah_johan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nurezma Farah Johan</a>
 </p>
+<p>Mdm R Parameswari</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Education Needs Officer</p>
@@ -76,6 +76,7 @@ variant: tiptap
 </p>
 <p><a href="mailto:lien_hui_ling_vedelyn@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Vedelyn Lien</a>
 </p>
+<p>Mdm Nancy Chai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
