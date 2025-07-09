@@ -37,6 +37,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/Jieminite Link/Jieminite_Link_Issue_2_2025.pdf" rel="noopener nofollow" target="_blank">JLink_T2_2025.pdf</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/Jieminite Link/Jieminite_Link_Issue_3_2025.pdf" rel="noopener nofollow" target="_blank">JLink_T3_2025.pdf</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
