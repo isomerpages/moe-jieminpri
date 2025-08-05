@@ -2,6 +2,7 @@
 title: Contact Us
 permalink: /about-us/contact-us/
 description: ""
+variant: markdown
 ---
 ![](/images/Jiemin%20Primary%20School.jpeg)
 Map from [OneMap](http://www.onemap.sg/)  

@@ -1,6 +1,6 @@
 ---
-title: Jieminite Link eBook 2024
-permalink: /jieminite-link-ebook-2024/
+title: JPS eBook 2024
+permalink: /our-newsletter/ebook-2024/
 variant: tiptap
 description: ""
 ---
