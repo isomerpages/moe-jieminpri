@@ -2,7 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Digital Literacy.md
+      - ICT and Digital Literacy.md
       - ALP and LLP.md
       - Aesthetics/Aesthetics.md
       - Aesthetics/.keep
