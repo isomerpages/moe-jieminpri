@@ -78,8 +78,9 @@ online safely, and digital art creation using apps such as Procreate.
 through the Code for Fun programme, computational thinking, and coding.</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students learn to code robots in Code For Fun programme." src="/images/20231012_082421.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Students learn to code robots at Code For Fun programme" src="/images/20231012_082701.jpg">
 </div>
 <p>These competencies are taught within the context of different subjects,
 so students learn to apply them in authentic, purposeful ways. By the time
