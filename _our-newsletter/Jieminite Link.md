@@ -4,7 +4,7 @@ permalink: /our-newsletter/jieminite-link/
 description: ""
 variant: tiptap
 ---
-<h5><a rel="noopener noreferrer nofollow" target="_blank">Jieminite Link</a></h5>
+<h5></h5>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -56,6 +56,19 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/files/Jieminite Link/Jieminite_Link_Issue_3_2025.pdf" rel="noopener nofollow" target="_blank">JLink_T3_2025.pdf</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 4</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/Jieminite Link/JIEMINITE_LINK_ISSUE_4_2025__final_.pdf" rel="noopener nofollow" target="_blank">JLink_T4_2025.pdf</a></strong>
 </p>
 </td>
 </tr>
