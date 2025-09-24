@@ -4,7 +4,7 @@ permalink: /our-newsletter/jieminite-link/
 description: ""
 variant: tiptap
 ---
-<h5><a rel="noopener noreferrer nofollow" target="_blank">Jieminite Link</a></h5>
+<h5></h5>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
