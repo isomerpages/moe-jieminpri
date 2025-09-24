@@ -68,7 +68,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="" rel="noopener nofollow" target="_blank">JLink_T4_2025.pdf</a></strong>
+<p><strong><a href="/files/Jieminite Link/JIEMINITE_LINK_ISSUE_4_2025__final_.pdf" rel="noopener nofollow" target="_blank">JLink_T4_2025.pdf</a></strong>
 </p>
 </td>
 </tr>
