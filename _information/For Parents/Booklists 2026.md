@@ -26,8 +26,7 @@ third_nav_title: For Parents
 <p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
+<p><a href="/files/Booklist 2026/P1_booklist.pdf" rel="noopener nofollow" target="_blank">Booklist_2026_Primary 1</a>
 </p>
 </td>
 </tr>
@@ -36,8 +35,7 @@ third_nav_title: For Parents
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
+<p><a href="/files/Booklist 2026/Jiemin_Booklist_2026_Primary_2.pdf" rel="noopener nofollow" target="_blank">Booklist_2026_Primary_2</a>
 </p>
 </td>
 </tr>
@@ -46,7 +44,10 @@ third_nav_title: For Parents
 <p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Booklist 2026/Jiemin_Booklist_2026_Primary_3.pdf" rel="noopener nofollow" target="_blank">Booklist_2026_Primary_3</a>
+<br><a href="/files/Booklist 2026/Jiemin_Booklist_2026_Primary_3_MTSP.pdf" rel="noopener nofollow" target="_blank">Booklist_2026_Primary_3_MTSP</a>
+<br><a href="/files/Booklist 2026/Jiemin_Booklist_2026_Primary_3_HMT.pdf" rel="noopener nofollow" target="_blank">Booklist_2026_Primary_3_HMT</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -56,8 +57,7 @@ third_nav_title: For Parents
 <td rowspan="1" colspan="1">
 <p><a href="/files/Booklist 2026/Jiemin_Booklist_2026_Primary_4.pdf" rel="noopener nofollow" target="_blank">Booklist_2026_Primary_4</a>
 <br><a href="/files/Booklist 2026/Jiemin_Booklist_2026_Primary_4_MTSP.pdf" rel="noopener nofollow" target="_blank">Booklist_2026_Primary_4_MTSP</a>
-<br>
-<br>
+<br><a href="/files/Booklist 2026/Jiemin_Booklist_2026_Primary_4_HMT.pdf" rel="noopener nofollow" target="_blank">Booklist_2026_Primary_4_HMT</a>
 </p>
 </td>
 </tr>
@@ -87,8 +87,6 @@ third_nav_title: For Parents
 <br><a href="/files/Booklist 2026/Jiemin_Booklist_2026_Primary_6_3S1FMT.pdf" rel="noopener nofollow" target="_blank">Booklist_2026_Primary_6_3S1FMT</a>
 <br><a href="/files/Booklist 2026/Jiemin_Booklist_2026_Primary_6_3F1SMT.pdf" rel="noopener nofollow" target="_blank">Booklist_2026_Primary_6_3F1SMT</a>
 <br><a href="/files/Booklist 2026/Jiemin_Booklist_2026_Primary_6_2S2F.pdf" rel="noopener nofollow" target="_blank">Booklist_2026_Primary_6_2S2F</a>
-<br>
-<br>
 </p>
 </td>
 </tr>
