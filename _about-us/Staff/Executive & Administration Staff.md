@@ -45,9 +45,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Haslindawati Karim
-<br>
-</p>
+<p>Mdm Haslindawati Karim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
@@ -103,7 +101,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Fakhri Masor</p>
+<p>Mr Fakhri Mansor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Yassin Irsyad Ramdan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
