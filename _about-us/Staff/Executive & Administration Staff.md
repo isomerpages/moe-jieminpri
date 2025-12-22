@@ -45,9 +45,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Haslindawati Karim
-<br>
-</p>
+<p>Mdm Haslindawati Karim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
