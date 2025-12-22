@@ -41,7 +41,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jiemin_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Fatimah Frauder</a>
+<p><a href="mailto:jiemin_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ahmad Zakir Mokhtar</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
