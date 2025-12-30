@@ -6,8 +6,8 @@ third_nav_title: Staff
 variant: tiptap
 ---
 <h3><strong>Year Heads and Assistant Year Heads</strong></h3>
-<p>P1 / P2 Year Head: <a href="mailto:Jayasree_K_N_Unnithan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jayasree K N Unnithan</a> 
-<br>P3 Assistant Year Head: <a href="mailto:Norhayati_Mohamed_Ansari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norhayati Mohamed Ansari</a> 
+<p>P1 / P2 Year Head: <a href="mailto:norhayati_mohamed_ansari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norhayati Mohamed Ansari</a> 
+<br>P3 Assistant Year Head: <a href="mailto:Norhayati_Mohamed_Ansari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mike Ng</a>
 <br>P4 Assistant Year Head: <a href="mailto:Kwan_Yee_Ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Kwan Yee Ching</a> 
 <br>P5 / P6 Year Head: <a href="mailto:Leow_Saw_Ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Patricia Leow Saw Ping</a> 
 <br>
@@ -41,11 +41,11 @@ variant: tiptap
 <p>1 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_chin_yen_diana@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Diana Chen Chin Yen</a>
+<p><a href="mailto:chai_guo_quan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ronald Chai</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:woo_liyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Charmaine Woo Liyi</a>
+<p><a href="mailto:chang_yue_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Grace Tan</a>
 </p>
 </td>
 </tr>
@@ -54,11 +54,11 @@ variant: tiptap
 <p>1 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rachel_mah_ying_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Rachel Mah Ying Hui</a>
+<p><a href="mailto:sulastry_saiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sulastry</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muliana_mohammad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Muliana Bte Mohammad</a>
+<p><a href="mailto:muliana_mohammad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ren Lina</a>
 </p>
 </td>
 </tr>
