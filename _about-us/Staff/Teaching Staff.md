@@ -173,11 +173,11 @@ variant: tiptap
 <p>2 Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sumathi_supramaniam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sumathi d/o Supramaniam</a>
+<p><a href="mailto:wan_teng_loh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Loh Wan Teng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sharizah_kordi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sharizah Bte Kordi</a>
+<p><a href="mailto:a_gayathree@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm A Gayathree</a>
 </p>
 </td>
 </tr>
@@ -791,3 +791,4 @@ variant: tiptap
 </tbody>
 </table>
 <p>&nbsp;</p>
+<p></p>
