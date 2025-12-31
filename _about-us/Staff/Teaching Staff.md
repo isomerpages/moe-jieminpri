@@ -147,11 +147,11 @@ variant: tiptap
 <p>2 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_zahirah_raihan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zahirah Bte Raihan</a>
+<p><a href="mailto:chan_chin_yen_diana@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Diana Chan Chin Yen</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norain_yusof_b@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Norain Yusof</a>
+<p><a href="mailto:sharizah_kordi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Sharizah Bte Kordi</a>
 </p>
 </td>
 </tr>
