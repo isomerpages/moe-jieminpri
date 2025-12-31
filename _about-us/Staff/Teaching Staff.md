@@ -160,11 +160,11 @@ variant: tiptap
 <p>2 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sulastry_saiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sulastry Bte Saiman</a>
+<p><a href="mailto:rachel_mah_ying_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Rachel Mah Ying Hui</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_chian_loong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Chian Loong</a>
+<p><a href="mailto:lim_hooi_zoo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cheryl Lim Hooi Zoo</a>
 </p>
 </td>
 </tr>
