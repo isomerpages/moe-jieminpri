@@ -8,6 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/homepage.gif
+      variant: center
   - infopic:
       title: Articles
       subtitle: Jieminite Link
