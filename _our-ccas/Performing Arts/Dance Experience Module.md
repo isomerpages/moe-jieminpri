@@ -5,4 +5,9 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<p><strong>CCA Teachers:</strong></p><p><a href="mailto:tan_swee_lin_sharon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sharon Wong</a><br><a href="mailto:Ng_Lay_Eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ng Lay Eng</a><br><a href="mailto:Huang_Guanghui_Beth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Beth See</a><br></p>
+<p><strong>CCA Teachers:</strong>
+</p>
+<p><a href="mailto:Huang_Guanghui_Beth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Beth See</a>
+<br><a href="mailto:lim_chong_ping_erman@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Erman Lim</a>
+<br><a href="mailto:chan_fei_kuan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chan Fei Kuan</a>
+</p>
