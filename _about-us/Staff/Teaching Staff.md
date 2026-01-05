@@ -312,6 +312,19 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Kindness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohammad_fahmei_hassan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Mohammad Fahmei</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_chee_beng_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr David Tan</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <hr>
