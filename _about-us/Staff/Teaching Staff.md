@@ -371,7 +371,7 @@ variant: tiptap
 <p>4 Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_song_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sean Lee Song Lin</a>
+<p><a href="mailto:lee_song_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Sean Lee</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -388,7 +388,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jayasree_k_n_unnithan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jayasree D/O K N Unnithan</a>
+<p><a href="mailto:jayasree_k_n_unnithan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jayasree</a>
 </p>
 </td>
 </tr>
