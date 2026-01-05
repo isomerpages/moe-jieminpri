@@ -33,8 +33,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Erni_Suzanah_Jaini@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Erni Suzanah bte Jaini</a>
-</p>
 <p><a href="mailto:chan_chin_yen_diana@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Diana Chan</a>
 <br><a href="mailto:Shen_Xiurong_Joyce@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Joyce Shen</a>
 <br><a href="mailto:Seth_Tanuja_Devi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tanuja Suraj</a>
@@ -64,7 +62,6 @@ variant: tiptap
 </p>
 <p><a href="mailto:nurezma_farah_johan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nurezma Farah Johan</a>
 </p>
-<p>Mdm R Parameswari</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Education Needs Officer</p>
@@ -76,7 +73,7 @@ variant: tiptap
 </p>
 <p><a href="mailto:lien_hui_ling_vedelyn@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Vedelyn Lien</a>
 </p>
-<p>Mdm Nancy Chai</p>
+<p>Ms Trishia Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
