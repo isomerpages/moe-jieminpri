@@ -7,9 +7,9 @@ variant: tiptap
 ---
 <p><strong>CCA Teachers:</strong>
 </p>
-<p><a href="mailto:Sumathi_Supramaniam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sumathi Supramaniam</a>
-<br><a href="mailto:Loh_Wan_Teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Loh Wan Teng</a>
-<br><a href="mailto:udiana_jamalludin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Udiana Jamalludin</a>
+<p><a href="mailto:Sumathi_Supramaniam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sumathi Supramaniam</a>
+<br><a href="mailto:Loh_Wan_Teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Loh Wan Teng</a>
+<br><a href="mailto:udiana_jamalludin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Udiana Jamalludin</a>
 <br><a href="mailto:muhammad_fahmei_hassan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Fahmei Bin Hassan</a>
 <br>
 </p>
