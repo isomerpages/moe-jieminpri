@@ -144,7 +144,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head / Chinese Language</p>
+<p>Level Head - Chinese Language</p>
 </td>
 </tr>
 <tr>
@@ -158,6 +158,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:tong_pink_ling_katherine@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Katherine Faroek</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head - Aesthetics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:Pee_Nai_Tiong_Gion@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gion Pee</a>
 </p>
 </td>
@@ -167,7 +176,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Jayasree_K_N_Unnithan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jayasree d/o K N Unnithan</a>
+<p><a href="mailto:Norhayati_Mohamed_Ansari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norhayati Bte Mohd Ansari</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -176,7 +185,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Norhayati_Mohamed_Ansari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norhayati Bte Mohd Ansari</a>
+<p><a href="mailto:Leow_Saw_Ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Patricia Leow Saw Ping</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head P5 / P6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_cheong_zsen@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Mike Ng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -190,15 +208,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head - P4</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Leow_Saw_Ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Patricia Leow Saw Ping</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head P5 / P6</p>
 </td>
 </tr>
 <tr>
@@ -226,15 +235,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher / Chinese Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Seah_Zhijia_Desmond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Desmond Seah</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher / Music</p>
 </td>
 </tr>
 <tr>

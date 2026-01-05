@@ -37,6 +37,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Mohamed Qabiel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Dewi Hartini</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -93,7 +101,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Thomas Peiling</p>
+<p>Mdm Vali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Support Staff – Science Lab</p>
