@@ -397,7 +397,7 @@ variant: tiptap
 <p>4 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_lee_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Vivianne Low</a>
+<p><a href="mailto:goh_lee_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Vivianne Low-Goh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
