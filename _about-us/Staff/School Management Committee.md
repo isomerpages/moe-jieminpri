@@ -176,6 +176,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_faizrin_hashim@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Faizrin Bin Hashim</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head - Student Well-being</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:Norhayati_Mohamed_Ansari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Norhayati Bte Mohd Ansari</a>
 </p>
 </td>
