@@ -31,7 +31,8 @@ variant: tiptap
 <p>Term 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="" rel="noopener nofollow" target="_blank">Jlink_T1_2026</a></strong>
+</p>
 </td>
 </tr>
 <tr>
