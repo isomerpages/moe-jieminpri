@@ -2,11 +2,8 @@
 title: Counselling & Special Needs @ JPS
 permalink: /information/counselling-and-special-needs-at-jps/
 description: ""
+variant: markdown
 ---
-
-
-
-
 ### Working with Children, Adolescents and their Parents
 
 At Jiemin, the safety and well being of our pupils is of paramount importance. By listening to their stories, employing effective interventions, advocating for them, and educating parents and other professionals about child and adolescent development and other important issues, we can make our pupils’ journey through life more fulfilling and successful.
@@ -44,44 +41,3 @@ School Counseling programs for Pupils include:
 * Transition to Secondary Schools
 
 
-### Counselling Library
-
-We have a wonderful collection of books for our pupils’ use in the Caravan. They are allowed to borrow the books for a week. Books available are:  
-  
-\-    The Colors of the  
-\-    Honesty – I’m Telling the Truth  
-\-    How do Animals  
-\-    No Fighting, No Biting  
-\-    I want to Play – A Children’s Problem  
-\-    Why Should I Eat  
-\-    When I Feel  
-\-    Everybody Feels  
-\-    Everybody Feels  
-\-    Everybody Feels  
-\-    Talking About  
-\-    Be Honest and Tell the  
-\-    What is Death  
-\-    All the Colors of the  
-\-    Respect and Take care of  
-\-    I want to be an  
-\-    Why Should I  
-\-    The Skin I’m  
-\-    Gentle Willow – Grief &  
-\-    Know and follow  
-\-    Don’t be a Bully  
-\-    Feelings –  
-\-    How to Speak Politely and  
-\-    Uncle  
-\-    Feelings – The Care & Keeping of Your  
-\-    New  
-\-    Get Organized Without Losing  
-\-    The Magic Kaleidoscope -Anti  
-\-    The Snowman  
-\-    The Butterfly Riddles  
-\-    Care Bears – Love is all Around  
-\-    Why are you Afraid to Hold My Hand  
-\-    When Dinosaurs Die – Grief & Loss  
-\-    Dinosaurs Divorce – Grief &  
-\-    When I feel Scared  
-\-    The Tough Prince  
-\-    The Giving Tree
