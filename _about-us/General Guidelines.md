@@ -2,6 +2,7 @@
 title: General Guidelines
 permalink: /about-us/general-guidelines/
 description: ""
+variant: markdown
 ---
 ### Respect for our Nation and our School
 
@@ -13,7 +14,7 @@ description: ""
 
 ### General Conduct
 
-<strong>All Pupils <u>MUST</u></strong>
+<strong>All Pupils&nbsp;<u>MUST</u></strong>
 
 *   Uphold the school’s core values of Responsibility, Respect, Humility, Resilience and Care.
 *   Be punctual for school and all school activities.
@@ -33,23 +34,20 @@ description: ""
 
   
 
-**Attire & Appearance**
+**Attire &amp; Appearance**
 
 *   All pupils must be smart, neat and tidy in their appearance at all times.
 *   Pupils are to wear the prescribed uniform (with their name tags) at all times. No modification to the uniform is allowed.
-*   Dyeing/tinting/ hair extension and fanciful hairstyles are <u>NOT</u> allowed.
-*   All pupils must be in PE attire during PE lessons. (Only P1 and P2 pupils are allowed to be in their PE attire for the entire day.)
+*   Dyeing/tinting/ hair extension and fanciful hairstyles are&nbsp;<u>NOT</u>&nbsp;allowed.
+*   All pupils must be in PE attire during PE lessons. 
 
-  
-
-_Refer to our handbook Page 11 for details._
 
 
 ### Emergency Evacuation Procedure
 
-**Warning signal :** Prolonged ringing of the siren.  
+**Warning signal :**&nbsp;Prolonged ringing of the siren.  
   
-**Action :** When the alarm is activated, follow the instructions below:
+**Action :**&nbsp;When the alarm is activated, follow the instructions below:
 
 *   Stop work immediately
 *   Switch off all lights and fans
