@@ -80,7 +80,7 @@ variant: tiptap
 <p>1 Honesty</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:udiana_jamalludin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Udiana Jamalludin</a>
+<p><a href="mailto:huang_guanghui_beth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Beth See</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -186,7 +186,7 @@ variant: tiptap
 <p>2 Honesty</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:huang_guanghui_beth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Beth See</a>
+<p><a href="mailto:udiana_jamalludin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Udiana Jamalludin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
