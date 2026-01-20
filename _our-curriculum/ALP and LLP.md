@@ -2,12 +2,12 @@
 title: ALP and LLP
 permalink: /our-curriculum/alp-and-llp/
 description: ""
+variant: markdown
 ---
 <h3>ALP - Journalist in the Making</h3>
 
 One of our niche areas is our **Applied Learning Programme (ALP), "Journalist in the Making"**. The focus areas are building the students' confidence in expression through our various targeted level programmes such as P1 Choral Reading Workshop, P2 Poetry Recitation, P3 Puppetry, Storytelling, Journalist Club, etc.
 
-Our ALP was highlighted in The Straits Times, Education Section, on 15 Aug 2016.
 
 <h3>ALP-IPW - Endangered Animals</h3>
 
