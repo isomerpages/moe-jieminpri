@@ -2,9 +2,8 @@
 title: CCE (Character & Citizenship Education)
 permalink: /departments/cce/character-and-citizenship-education/
 description: ""
-third_nav_title: CCE
 ---
-### CCE (Character & Citizenship Education)
+### CCE (Character &amp; Citizenship Education)
 
 In Jiemin Primary, the CCE (Character and Citizenship Education) department plans and oversees a broad range of activities that aim to achieve the vision of developing Jieminites who show love for family, community and country through their display of school values. The following are highlights of what our students get to experience:
 
@@ -13,8 +12,7 @@ In Jiemin Primary, the CCE (Character and Citizenship Education) department plan
 Jiemin’s CCE Committee has been busy transforming different parts of the school over years. Walls have been filled up with pictures and write-ups about the rich history of our country, community and school. An area in front of the canteen has also been revamped into a traditional games corner featuring nostalgic local games. These efforts aim to promote our national identity and allow our pupils to have a better appreciation of our heritage and culture. - Mr Ng Ban Hock, SH CCE
 
 
-<img src="/images/CCEwalls.jpeg" 
-     style="width:65%">
+<img src="/images/CCEwalls.jpeg" style="width:65%">
 
 
 ### Values In Action
@@ -38,7 +36,7 @@ Every fortnight, the school will collect old newspapers from every class. This i
 
 ### Kindness Week
 
-There was a buzz of excitement as Jiemin Primary School celebrated SG Kindness & Bully-Free Campaign between 16 May to 20 May. An array of activities such as assembly talk on “How To Be A Better Friend” by Singapore Children’s Society, crossword puzzle exercise and recess games were lined up throughout the week. Through these engaging and hands-on activities, students learnt more about the different types of bullying and ways to promote graciousness among their friends. – Miss Samantha Sim (Kindness and Bully-free Coordinator)
+There was a buzz of excitement as Jiemin Primary School celebrated SG Kindness &amp; Bully-Free Campaign between 16 May to 20 May. An array of activities such as assembly talk on “How To Be A Better Friend” by Singapore Children’s Society, crossword puzzle exercise and recess games were lined up throughout the week. Through these engaging and hands-on activities, students learnt more about the different types of bullying and ways to promote graciousness among their friends. – Miss Samantha Sim (Kindness and Bully-free Coordinator)
 
 ![](/images/FotorCreated.jpeg)
 
@@ -51,7 +49,7 @@ Jiemin Primary has embarked on a whole school approach for our ECG programme to 
 ### Programme for Active Learning (PAL)
 
 
-The Program for Active Learning (PAL) was introduced to our Primary 1 and 2 pupils in 2016. PAL aims to balance the acquisition of knowledge with the development of skills and values to prepare our pupils for a more dynamic future. It provides pupils with a broad exposure of experiences in the 4 domains of Sports and Games, Outdoor Education, Performing Arts and Visual Arts. Through the various fun and varied activities during PAL lessons, our pupils will also learn values and develop their social-emotional competencies. The 2-hour PAL lessons are conducted on a weekly basis during curriculum hours. The table below lists the PAL modules offered to our pupils this year.
+The Program for Active Learning (PAL) was introduced to our Primary 1 and 2 pupils in 2016. PAL aims to balance the acquisition of knowledge with the development of skills and values to prepare our pupils for a more dynamic future. It provides pupils with a broad exposure of experiences in the 4 domains of Sports and Games, Outdoor Education, Performing Arts and Visual Arts. Through the various fun and varied activities during PAL lessons, our pupils will also learn values and develop their social-emotional competencies. The 2-hour PAL lessons are conducted on a weekly basis during curriculum hours.&nbsp;The table below lists the PAL modules offered to our pupils this year.
 
 ![](/images/Capture.jpeg)
 

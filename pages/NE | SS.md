@@ -2,13 +2,11 @@
 title: NE | SS
 permalink: /departments/cce/ne-ss/
 description: ""
-third_nav_title: CCE
 ---
 ### Racial Harmony 2013
 
   
-<img src="/images/ness1.jpeg" 
-     style="width:65%">
+<img src="/images/ness1.jpeg" style="width:65%">
 
  
 This year we commemorated Racial Harmony Day on Monday, 22 July 2013 in school following the theme “Celebrating Singapore!”
@@ -20,8 +18,7 @@ We celebrated our diversity and richness as both pupils and teachers came in dif
 ### National Day Celebration 2013
 
   
-<img src="/images/ness2.jpeg" 
-     style="width:65%">
+<img src="/images/ness2.jpeg" style="width:65%">
 
   
 
