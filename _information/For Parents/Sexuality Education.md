@@ -42,7 +42,7 @@ before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may&nbsp;click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.</p>
-<p><strong>Overview of Jiemin Primary School’s Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of Jiemin Primary School’s Sexuality Education Programme for 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum.&nbsp;The content for
@@ -84,14 +84,14 @@ programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the Sexuality Education lessons need to complete an opt-out form.
 This form will be communicated to parents at the start of the year and
-is also downloadable <a href="/files/Sexuality Education/2025_Opt_out_form_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
-The completed opt-out form is to be submitted by <strong>28/02/2025</strong>.</p>
+is also downloadable <a href="https://go.gov.sg/jpssedoptout2026" rel="noopener nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by <strong>27/02/2026</strong>.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6758
 6472 or email <a href="mailto:jiemin_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiemin_ps@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
-<p>For the lessons covered in the P5 and P6 curriculum, please refer here:&nbsp;
-<a href="/files/Sexuality Education/2025_Info_on_SEd_Lessons_and_Schedule_for_JPS.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>15 January 2025 Info on SEd Lessons and Schedule for JPS</u>.</a>
+<p>For the lessons covered in the P5 and P6 curriculum, please refer here:
+<a href="/files/Sexuality Education/2026_Info_on_SEd_Lessons_and_Schedule_for_website.pdf" rel="noopener nofollow" target="_blank">2026 Info on SEd Lessons and Schedule for JPS</a>
 </p>
 <p></p>
 <p></p>
