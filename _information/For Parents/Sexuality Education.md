@@ -84,7 +84,7 @@ programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the Sexuality Education lessons need to complete an opt-out form.
 This form will be communicated to parents at the start of the year and
-is also downloadable <a href="https://go.gov.sg/jpssedoptout2026" rel="noopener nofollow" target="_blank">here</a>.
+is also available <a href="https://go.gov.sg/jpssedoptout2026" rel="noopener nofollow" target="_blank">here</a>.
 The completed opt-out form is to be submitted by <strong>27/02/2026</strong>.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6758
 6472 or email <a href="mailto:jiemin_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiemin_ps@moe.edu.sg</a> for
