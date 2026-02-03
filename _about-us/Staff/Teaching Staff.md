@@ -80,11 +80,11 @@ variant: tiptap
 <p>1 Honesty</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:huang_guanghui_beth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Beth See</a>
+<p><a href="mailto:mageswari_naidu_dharmaraju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mageswari Naidu</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mageswari_naidu_dharmaraju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mageswari Naidu</a>
+<p><a href="mailto:hemadharshni_elangovan@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Hemadharshni</a>
 </p>
 </td>
 </tr>
