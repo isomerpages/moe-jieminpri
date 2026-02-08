@@ -2,7 +2,6 @@ collections:
   our-newsletter:
     output: true
     order:
-      - JPS ebook 2025.md
       - Jieminite Link.md
       - JPS eBook 2024.md
       - JPS eBook 2023.md
