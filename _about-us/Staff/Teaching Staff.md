@@ -506,7 +506,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Muhammad_Faizrin_Hashim@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Faizrin Bin Hashim</a>
+<p><a href="mailto:Muhammad_Faizrin_Hashim@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Faizrin Bin Hashim</a>
 </p>
 </td>
 </tr>
