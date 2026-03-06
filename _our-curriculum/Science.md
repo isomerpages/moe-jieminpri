@@ -4,7 +4,7 @@ permalink: /departments/science/
 description: ""
 variant: markdown
 ---
-![](/images/curriculum.png)
+![](/images/Science_framework_2026.png)
 
 
 ## The Science curriculum aims to:
