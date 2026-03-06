@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Character and Citizenship Education (CCE).md
       - ALP and LLP.md
       - Aesthetics/.keep
       - Aesthetics/Aesthetics.md
