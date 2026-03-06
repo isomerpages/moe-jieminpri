@@ -18,9 +18,3 @@ programmes are strategically aligned with MOE’s goals of helping students
 internalise core values, develop crucial social-emotional competencies,
 and prepare for the evolving demands of a rapidly changing world, so that
 they can become active contributors to the community.</p>
-<p>We intentionally cultivate the Jiemin core values: Resilience, Responsibility,
-Respect, Humility, Care. These values are infused across classroom interactions,
-school-wide initiatives, and real-life experiences that shape our students’
-identity and character. From the everyday interactions in the classroom
-to impactful school-wide initiatives, each experience is thoughtfully designed
-to nurture growth in both their hearts and minds.</p>
