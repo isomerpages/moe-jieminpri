@@ -2,6 +2,12 @@ collections:
   our-curriculum:
     output: true
     order:
+      - CCE/Values in Action.md
+      - CCE/Cohort Learning Journey.md
+      - CCE/Citizenship Education.md
+      - CCE/CCE lessons.md
+      - CCE/Character and Citizenship Framework.md
+      - CCE/.keep
       - ALP and LLP.md
       - Aesthetics/.keep
       - Aesthetics/Aesthetics.md
