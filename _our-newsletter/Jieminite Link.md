@@ -43,7 +43,8 @@ variant: tiptap
 <p>Term 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Jieminite Link/Jieminite_Link_Issue_2_2026_pdf.pdf" rel="noopener noreferrer nofollow" target="_blank">JLink_T2_2026.pdf</a>
+</p>
 </td>
 </tr>
 <tr>
