@@ -91,7 +91,6 @@ is <strong>ACT3</strong>. PSLs will hear their peers out and will help them
 refer to a teacher for help. In their efforts to encourage their fellow
 P6 Jieminites, <strong>motivational posters</strong> were created by PSLs
 for the P6s every year as they strive towards PSLE.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Peer Support/Peer_Helping.gif">
 </div>
@@ -99,4 +98,67 @@ for the P6s every year as they strive towards PSLE.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Peer Support/Peer_Helping_2.gif">
 </div>
-<p>Peer Influencing</p>
+<h4><strong>3. Peer Influencing</strong></h4>
+<p>To achieve a caring and enabling environment, PSLs also play an important
+role in influencing good behaviour face to face and online among their
+peers. They contribute to spreading <strong>kindness</strong> and emphasize
+key <strong>Cyber Wellness</strong> messages such as being a safe, responsible
+user of technology and to maintain a positive presence online. The various
+initiatives to achieve this are our <strong>Cyber Monday</strong> sharing
+sessions by PSLs, <strong>Safer Internet Day</strong>, <strong>Being Kind is Cool Performance </strong>on
+Children’s Day and recess activity booths during <strong>Kindness and Cyber Wellness Week.</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Peer Support/Cyber_Monday_Sharing.gif">
+</div>
+<p><strong>Cyber Monday Sharing</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Peer Support/Being_Kind_is_Cool_Performance.gif">
+</div>
+<p><strong>Being Kind is Cool Performance</strong>
+</p>
+<p>Recess Activities during Kindness and Cyber Wellness Week</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Peer Support/Recess_Acitivities.gif">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Peer Support/Recess_Acitivities_2.gif">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Peer Support/Recess_Acitivities_3.gif">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Colouring Kindness Banner</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Reading books on Kindness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Writing Kind Messages</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
