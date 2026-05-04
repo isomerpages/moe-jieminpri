@@ -48,5 +48,11 @@ school community.</p>
 <p></p>
 <h4>Student Leadership Framework</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Student Leadership framework" src="/images/Student Leadership/Leadership_framework.gif">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Classroom leadership training" src="/images/Student Leadership/Classroom_Leadership_Training.jpg">
+</div>
 <p></p>
