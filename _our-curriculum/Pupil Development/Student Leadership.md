@@ -82,4 +82,30 @@ such as the Primary 1 Orientation and Annual Prize Presentation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Head Prefect Speech" src="/images/Student Leadership/Prefect_Investiture_2.gif">
 </div>
-<p>Prefects</p>
+<hr>
+<p><strong>Prefects training and preparing for Teachers' Day celebration.</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prefects training for Teachers' Day" src="/images/Student Leadership/Prefects_training_for_Teachers_day.gif">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leadership/Prefects_learning_Journey.gif">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leadership/Prefects_learning_Journey_2.gif">
+</div>
+<hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leadership/Prefects_sharing_on_stage.gif">
+</div>
+<p><em>Our Prefects sharing messages with their fellow Jieminites during morning assembly.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leadership/Prefects_leading_Teachers_day_celebration.gif">
+</div>
+<p><em>Our Prefects leading the school in the whole school singalong finale during Teachers’ Day celebrations.</em>
+</p>
