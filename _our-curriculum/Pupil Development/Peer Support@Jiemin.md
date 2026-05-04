@@ -84,4 +84,19 @@ where they practise teamwork as they solve challenges together.</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>2. Peer Helping</strong></h4>
+<p>PSLs are trained to identify signs of distress in their peers and ways
+to help them. A whole school approach adopted by Jiemin Primary School
+is <strong>ACT3</strong>. PSLs will hear their peers out and will help them
+refer to a teacher for help. In their efforts to encourage their fellow
+P6 Jieminites, <strong>motivational posters</strong> were created by PSLs
+for the P6s every year as they strive towards PSLE.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Peer Support/Peer_Helping.gif">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Peer Support/Peer_Helping_2.gif">
+</div>
+<p>Peer Influencing</p>
