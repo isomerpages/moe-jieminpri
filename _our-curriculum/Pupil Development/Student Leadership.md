@@ -55,4 +55,4 @@ school community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Classroom leadership training" src="/images/Student Leadership/Classroom_Leadership_Training.jpg">
 </div>
-<p></p>
+<p>Classroom leadership training</p>
