@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Pupil Development
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/student%20leadership.png">
-</div>
 <h2>Leadership development in Jiemin</h2>
 <p>At Jiemin Primary School, we are committed to developing strong leaders
 who embody our school values and Social-Emotional Learning (SEL) competencies.
