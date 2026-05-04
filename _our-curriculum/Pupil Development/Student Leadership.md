@@ -46,7 +46,7 @@ leading themselves and others.</p>
 the school level, where they lead their peers, focusing on serving the
 school community.</p>
 <p></p>
-<h4>Student Leadership Framework</h4>
+<h4><strong>Student Leadership Framework</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Student Leadership framework" src="/images/Student Leadership/Leadership_framework.gif">
@@ -56,5 +56,30 @@ school community.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Classroom leadership training" src="/images/Student Leadership/Classroom_Leadership_Training.jpg">
 </div>
 <p>Classroom leadership training</p>
+<h4><strong>Prefectorial Board</strong></h4>
+<p>At Jiemin Primary School, Jieminites with leadership potential are appointed
+to the Prefectorial Board to further develop their leadership abilities.</p>
+<p>Jieminites with leadership potential are carefully selected through a
+structured process to serve on the Prefectorial Board. These prefects are
+officially inaugurated during our annual Prefect Investiture.</p>
 <p></p>
+<p>To support their development, Prefects undergo specialised leadership
+training, including public speaking and how to guide their peers to uphold
+the school values.</p>
 <p></p>
+<p>Beyong their daily responsibilities, Prefects are given the opportunities
+to lead their peers on a school-wide level. They actively contribue by
+delivering messages on values and social skills, organising events including
+the Teachers' Day concert, and taking on key roles in major school functions
+such as the Primary 1 Orientation and Annual Prize Presentation.</p>
+<p></p>
+<h4><strong>Prefect Investiture 2025</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prefect Investiture 2025" src="/images/Student Leadership/Prefect_Investiture.gif">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Head Prefect Speech" src="/images/Student Leadership/Prefect_Investiture_2.gif">
+</div>
+<p>Prefects</p>
