@@ -5,11 +5,11 @@ description: ""
 third_nav_title: Pupil Development
 variant: tiptap
 ---
-<p><strong>Vision</strong>
-</p>
-<p>A caring, happy and respectful school environment that promote quality
-learning.</p>
-<p><strong>Mission</strong>
-</p>
-<p>To equip pupils with the necessary skills that will support the accomplishment
-of the 5 SEL competencies.</p>
+<h2><strong>Peer Support @ JPS 0225</strong></h2>
+<p></p>
+<p>Peer Support Relationships (PSR) initiative builds on our school’s culture
+of care and aims to create a caring and enabling environment in Jiemin
+Primary School. The school leverages on our Peer Support Leaders to strengthen
+positive pro-social and support network through <strong>Peer Bonding</strong>, <strong>Peer Helping</strong> and <strong>Peer Influencing</strong>.</p>
+<p></p>
+<p></p>
