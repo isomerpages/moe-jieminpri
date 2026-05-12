@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://mims.moe.gov.sg/sspr" rel="noopener noreferrer nofollow" target="_blank">MIMS Password Reset</a>
+<p><a href="https://mims.moe.gov.sg/sspr" rel="noopener noreferrer nofollow" target="_blank">MIMS Self-Service Password Reset</a>
 </p>
 </li>
 <li>
