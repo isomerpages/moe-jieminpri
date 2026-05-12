@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/information/students/school-library" rel="noopener noreferrer nofollow" target="_blank">School Library</a>
+<p><a href="https://mims.moe.gov.sg/sspr" rel="noopener noreferrer nofollow" target="_blank">MIMS Self-Service Password Reset</a>
 </p>
 </li>
 <li>
@@ -15,8 +15,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/information/students/student-icon" rel="noopener noreferrer nofollow" target="_blank">Student iCON</a> 
-<br>How to login</p>
+<p><a href="/information/students/school-library" rel="noopener noreferrer nofollow" target="_blank">School Library</a>
+</p>
 </li>
 <li>
 <p><a href="/information/students/e-news" rel="noopener noreferrer nofollow" target="_blank">e-News</a> 
