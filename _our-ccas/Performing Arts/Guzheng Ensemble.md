@@ -8,6 +8,7 @@ variant: tiptap
 <p><strong>CCA Teachers:</strong>
 <br><a href="mailto:Siow_Ai_Chuin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siow Ai Chuin</a>
 <br><a href="mailto:Lau_Xin_Wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Lau Xin Wei</a>
+<br><a href="mailto:Qistina_Nabilah_Rizal@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Qistina Nabilah</a>
 </p>
 <p></p>
 <p></p>
