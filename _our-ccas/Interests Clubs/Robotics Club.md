@@ -9,6 +9,7 @@ variant: tiptap
 <br><a href="mailto:cheng_siew_yin_joyce@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Joyce Cheng</a>
 <br><a href="mailto:Mageswari_Naidu_Dharmaraju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Mageswari Naidu</a>
 <br><a href="mailto:Petrina_Raymond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Petrina Raymond</a>
+<br><a href="mailto:bok-tay_bee_lian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Bok-Tay Bee Lian</a>
 <br>
 </p>
 <p>The Robotics Club gather pupils who have a strong interest in various
