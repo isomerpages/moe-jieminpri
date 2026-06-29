@@ -8,7 +8,6 @@ variant: tiptap
 <p><strong>CCA Teachers:</strong>
 <br><a href="mailto:Tan_Chee_Beng_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr David Tan</a>
 <br><a href="mailto:Tan_Chian_Loong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Chian Loong</a>
-<br><a href="mailto:bok-tay_bee_lian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Bok-Tay Bee Lian</a>
 </p>
 <p></p>
 <p>Jieminites will build a strong and healthy body, and develop the virtues
