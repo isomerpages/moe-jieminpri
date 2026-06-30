@@ -21,3 +21,90 @@ beyond the classroom.</p>
 <p>Students are guided by the <strong>3As Approach “Awareness- Action- Advocacy”,</strong> which
 aims to strengthen students’ engagement and provide them with a meaningful
 learning experience while working on their VIA Projects.</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>AWARENESS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Happy Home</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Promote <u>AWARENESS</u> on the issue so that they may learn an important
+issue/concern at home or school.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Happy Toilet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>ACTION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Happy Canteen</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Students take <u>ACTION</u> to improve a situation they care about.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Happy Recycling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>ADVOCACY</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Happy Conservation of National Resources- Water conservation</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Students being an <u>ADVOCATE</u> to inspire and influence others to make
+a difference to something important that they care about.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Happy Conservation of National Resources- Energy conservation</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
