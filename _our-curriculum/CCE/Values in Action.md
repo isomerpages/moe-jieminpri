@@ -115,6 +115,7 @@ a difference to something important that they care about.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="P1 Student Voice" src="/images/CCE_P1_student_voice.png">
 </div>
@@ -128,7 +129,6 @@ a difference to something important that they care about.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="P1 Student voice 2" src="/images/CCE_P1_student_voice_2.png">
