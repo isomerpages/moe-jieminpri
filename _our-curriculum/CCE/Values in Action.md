@@ -167,10 +167,8 @@ a difference to something important that they care about.</p>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -181,21 +179,25 @@ a difference to something important that they care about.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_student_work_for_conversation_Poster_3.jpg">
 </div>
 </th>
-<th rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_student_work_for_conversation_Poster.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_student_work_for_conversation_Poster_2.jpg">
 </div>
-</th>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_VIA_student_voice.jpg">
