@@ -165,8 +165,6 @@ a difference to something important that they care about.</p>
 </p>
 <p><strong>Primary 5 Students Design Posters to Promote Water conservation</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
