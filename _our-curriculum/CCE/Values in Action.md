@@ -106,6 +106,7 @@ a difference to something important that they care about.</p>
 <p></p>
 <p><strong>Primary 1- Happy Home</strong>
 </p>
+<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -113,56 +114,21 @@ a difference to something important that they care about.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P1 Student Voice" src="/images/CCE_P1_student_voice.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCE_P1_student_voice.png">
 </div>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P1 Student voice 2" src="/images/CCE_P1_student_voice_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_P1_student_voice_2.png">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</td>
+</th>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p><strong>Primary 2- Happy Toilet</strong>
 </p>
 <table style="minWidth: 50px">
