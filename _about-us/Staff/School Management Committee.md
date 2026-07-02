@@ -167,6 +167,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:ngiam_wen_yuan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ngiam Wen Yuan</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head - PE &amp; CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:Pee_Nai_Tiong_Gion@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gion Pee</a>
 </p>
 </td>
