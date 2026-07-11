@@ -162,7 +162,7 @@ Children’s Day and recess activity booths during <strong>Kindness and Cyber We
 </tbody>
 </table>
 <p></p>
-<h3>S.A.F.E Poster</h3>
+<h3>S.A.F.E Posters</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Strategies to deal with Cyber Bullying" src="/images/SAFE_poster_1.png">
