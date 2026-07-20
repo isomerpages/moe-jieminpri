@@ -19,7 +19,7 @@ for Primary 5 and 6. The CCE curriculum also provides time for planning
 and reflecting on Values in Action (VIA) projects and incorporates learning
 related to the four National Education (NE) Commemorative Days: Total Defence
 Day, International Friendship Day, Racial Harmony Day, and National Day.</p>
-<p>Insert picture</p>
+<p></p>
 <h4><strong>CCE Mother Tongue Language - CCE (MTL)</strong></h4>
 <p>CCE (MTL) lessons are taught in the Mother Tongue Languages (MTL) - Chinese,
 Malay, and Tamil - as these languages are rich in cultural content and
