@@ -38,3 +38,20 @@ third_nav_title: CCE
 <img style="width: 100%" height="auto" width="100%" alt="A group of students listening to the staff at Indian Heritage Centre" src="/images/CCE/Pic_2___P5_IHG.jpg">
 </div>
 <p></p>
+<h4><strong>P6: Asian Civilisations Museum - Gaining insights into the broader historical and cultural landscape.</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A group of Jieminite viewing the artifacts in ACM." src="/images/CCE/Pic_1___P6___ACM.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A group of Jieminite posing for photo with ACM as background." src="/images/CCE/Pic_2___P6_at_the_ACM.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A group of Jieminite viewing the artifacts in ACM." src="/images/CCE/Pic_6___P6___ACM.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
