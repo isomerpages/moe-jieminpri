@@ -61,7 +61,30 @@ the future together.</p>
 <p>By helping students see the relevance of Total Defence in their daily
 lives, Jiemin Primary School aims to empower them to become active contributors
 to Singapore’s safety, strength, and shared future.</p>
-<p>Insert Photo</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A group of pupils playing Total Defence Card." src="/images/CCE/TDD_photo_2.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A group of students playing with Total Defence card." src="/images/CCE/TDD_photos.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Some pupils looking at an inforgraphic  about Total Defence." src="/images/CCE/The_pupils_were_looking_at_an_informative_poster_on_what_to_do_during_an_emergency_.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Teachers carrying out their roles during emergency preparedness drill." src="/images/CCE/P1_TDD.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Two students posing during Total Defence Day." src="/images/CCE/Pupils_are_receiving_their_token_after_the_completion_of_the_activities_.jpg">
+</div>
 <h4><strong>International Friendship Day (IFD)</strong></h4>
 <p>At Jiemin Primary School, International Friendship Day is more than just
 a celebration. It is a meaningful occasion that highlights the importance
@@ -80,7 +103,7 @@ a global mindset.</p>
 knows no borders, and that every act of kindness and understanding helps
 build a stronger, more cohesive society, one where every individual plays
 a part in defending and uplifting our nation.</p>
-<p>Insert photo</p>
+<p></p>
 <h4><strong>Racial Harmony Day</strong></h4>
 <p>Racial Harmony Day is a meaningful and cherished occasion at Jiemin Primary
 School. Commemorated annually on 21 July, it marks the anniversary of the
@@ -159,31 +182,5 @@ values, and national identity to life for their fellow students.</p>
 <p>Through these experiences, NE Ambassadors grow as confident leaders who
 embody the spirit of service, resilience, and unity.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCE/TDD_photo_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCE/TDD_photos.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCE/The_pupils_were_looking_at_an_informative_poster_on_what_to_do_during_an_emergency_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students during TDD" src="/images/CCE/P1_TDD.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Total defence day" src="/images/CCE/Pupils_are_receiving_their_token_after_the_completion_of_the_activities_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-</div>
 <p></p>
 <p></p>
