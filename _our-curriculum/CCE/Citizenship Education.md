@@ -104,6 +104,24 @@ knows no borders, and that every act of kindness and understanding helps
 build a stronger, more cohesive society, one where every individual plays
 a part in defending and uplifting our nation.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Ravi on stage sharing about IFD" src="/images/CCE/IFD1.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A group of students looking at the world map to identify ASEAN countries." src="/images/CCE/IFD5.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students at an activity booth during IFD" src="/images/CCE/IFD6.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students art work showcase during IFD" src="/images/CCE/IFD3.jpg">
+</div>
 <h4><strong>Racial Harmony Day</strong></h4>
 <p>Racial Harmony Day is a meaningful and cherished occasion at Jiemin Primary
 School. Commemorated annually on 21 July, it marks the anniversary of the
@@ -120,7 +138,25 @@ by chance. It takes empathy, understanding, and collaboration. Racial Harmony
 Day is not just a one-day event at Jiemin Primary. It is part of our ongoing
 commitment to nurturing students who will contribute to a cohesive and
 inclusive Singapore.</p>
-<p>Insert photo</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Our Emcees in traditional costumes during RHD" src="/images/CCE/Picture_2_RHD.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Activity booth during RHD" src="/images/CCE/IMG_20240717_110357.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students playing traditional games during RHD" src="/images/CCE/Picture_1_RHD.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students on stage dancing during RHD" src="/images/CCE/IMG_20240717_081114.jpg">
+</div>
 <h4><strong>National Day Celebrations</strong></h4>
 <p>National Day is a meaningful occasion for our students and staff to come
 together as one school community to celebrate Singapore’s independence.
