@@ -205,7 +205,15 @@ to carry forward the spirit of Singapore with commitment and confidence.
 More than just a celebration, the NE Show has become a cherished milestone
 in their Primary 5 year, one that will stay in their hearts for a long
 time to come.</p>
-<p>Insert pictures</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A student at NE show standing up to celebrate" src="/images/CCE/NEShow_P2.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Two pupils posing at NE show using a cardboard border" src="/images/CCE/NEShow_P1.jpg">
+</div>
 <h4><strong>NE Ambassadors</strong></h4>
 <p>Our National Education (NE) Ambassadors play a vital role in promoting
 active citizenship and national pride within the school community. As positive
@@ -218,5 +226,17 @@ values, and national identity to life for their fellow students.</p>
 <p>Through these experiences, NE Ambassadors grow as confident leaders who
 embody the spirit of service, resilience, and unity.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A group of NE ambassadors training in class" src="/images/CCE/Picture1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NE ambassadors taking photo with a Chinook at RSAF open house" src="/images/CCE/Picture2.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NE ambassadors presenting to other pupils" src="/images/CCE/Picture3.jpg">
+</div>
 <p></p>
 <p></p>
