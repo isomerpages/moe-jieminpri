@@ -38,7 +38,22 @@ of one’s heritage. These stories often explore important themes such as
 identity, relationships, and choices, helping students appreciate their
 own culture and cultivate respect for others.</p>
 <h4><strong>3.</strong> <strong>Programme for Active Learning (PAL)</strong></h4>
+<p>The Programme for Active Learning (PAL) is a key part of the curriculum
+for all Primary 1 and 2 students, offering hands-on, experiential learning
+across four domains: Sports &amp; Games, Outdoor Education, Visual Arts,
+and Performing Arts. It is designed to spark new interests, build character,
+and strengthen social-emotional competencies. PAL is guided by five key
+features: an emphasis on Social and Emotional Learning (SEL) and values,
+experiential learning, creative and engaging approaches, opportunities
+for creation, and fun, enjoyable experiences.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="This image shows a group of students sitting in the PAL room playing drum." src="/images/CCE/Pic_1_PAL.jpg">
+</div>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="This image shows a group of pupils working on a group project." src="/images/CCE/Pic_2_PAL.jpg">
+</div>
 <p></p>
 <p></p>
