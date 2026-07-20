@@ -158,6 +158,32 @@ teachers during NE classroom lessons, helping to bring Singapore’s history,
 values, and national identity to life for their fellow students.</p>
 <p>Through these experiences, NE Ambassadors grow as confident leaders who
 embody the spirit of service, resilience, and unity.</p>
-<p>Insert photos</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCE/TDD_photo_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCE/TDD_photos.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCE/The_pupils_were_looking_at_an_informative_poster_on_what_to_do_during_an_emergency_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students during TDD" src="/images/CCE/P1_TDD.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Total defence day" src="/images/CCE/Pupils_are_receiving_their_token_after_the_completion_of_the_activities_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
 <p></p>
 <p></p>
