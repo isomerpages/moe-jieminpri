@@ -17,13 +17,19 @@ third_nav_title: CCE
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="An image of P4 students listening to a talk related to Chinese Opera." src="/images/CCE/Pic_1P4___Kreta_Ayer.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="An image showing pupil sitting on the floor to listen to the sharing of Chinese Opera." src="/images/CCE/Pic_2___P4_pupils_at_the_Kreta_Ayer_.jpg">
+</div>
 </th>
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4><strong>P4: Kreta Ayer Heritage Gallery - Exploring our rich cultural roots.</strong></h4>
 <p></p>
 <p></p>
