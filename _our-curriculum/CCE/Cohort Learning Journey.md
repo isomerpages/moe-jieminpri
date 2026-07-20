@@ -27,3 +27,14 @@ third_nav_title: CCE
 <img style="width: 100%" height="auto" width="100%" alt="An image showing Jieminites doing an activity at Geylang Serai." src="/images/CCE/Pic_2__P4___Geylang_Serai.jpg">
 </div>
 <p></p>
+<h4><strong>P5: Indian Heritage Centre - Appreciating the diverse contributions to our nation</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A group of Jieminites looking at the exhibits in Indian Heritage Centre." src="/images/CCE/Pic_1___P5___IHG.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A group of students listening to the staff at Indian Heritage Centre" src="/images/CCE/Pic_2___P5_IHG.jpg">
+</div>
+<p></p>
