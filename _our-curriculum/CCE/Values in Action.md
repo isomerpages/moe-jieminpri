@@ -104,65 +104,6 @@ a difference to something important that they care about.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>Primary 1- Happy Home</strong>
-</p>
-<p>&nbsp;</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCE_P1_student_voice.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_P1_student_voice_2.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p><strong>Primary 2- Happy Toilet</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_P2_student_voice.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_P2_student_voice_1.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p><strong>Primary 3 Happy Canteen</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Primary 4&nbsp;&nbsp;&nbsp; Happy Recycling</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Primary 5 Students Design Posters to Promote Water conservation</strong>
 </p>
 <table style="minWidth: 25px">
@@ -197,17 +138,11 @@ a difference to something important that they care about.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_VIA_student_voice.jpg">
-</div>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Primary 6&nbsp;&nbsp;&nbsp;</strong>
-</p>
-<p><strong>Primary 6 Students Design Bookmarks to Promote Energy Conservation</strong>
-</p>
+<p></p>
 <p><strong>&nbsp;</strong>
 </p>
 <p></p>
