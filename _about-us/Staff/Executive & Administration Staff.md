@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Linda Yeo Mui Lan</p>
+<p>Mdm Stephanie Yap</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager</p>

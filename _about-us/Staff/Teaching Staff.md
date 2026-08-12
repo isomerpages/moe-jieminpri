@@ -99,6 +99,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tong_pink_ling_katherine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Katherine Faroek</a>
 </p>
+<p><a href="mailto:cheng_jia_ying_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Cheng Jia Ying</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -270,6 +272,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yu_mengchen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Yu Mengchen</a>
+</p>
+<p><a href="mailto:qistina_nabilah_rizal@moe.edu.sg" rel="noopener nofollow" target="_blank">Miss Qistina Nabilah Rizal</a>
 </p>
 </td>
 </tr>
@@ -524,6 +528,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muliana_mohammad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Muliana Bte Mohammad</a>
 </p>
+<p><a href="mailto:sarinah_isa@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Sarina Isa</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -737,6 +743,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Wan Cheng, Rachael</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Suppiah Chandra Sagaran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
 </td>
 </tr>
 <tr>
