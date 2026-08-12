@@ -266,7 +266,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_mui_lan_linda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Linda Yeo Mui Lan</a>
+<p><a href="mailto:stephanie_yap@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Stephanie Yap</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
